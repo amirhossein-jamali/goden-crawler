@@ -1,0 +1,62 @@
+{
+  "word": "lesen",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "very_low",
+  "grammar": "liest, las, hat gelesen",
+  "meanings": [
+    {
+      "text": "einzeln [sorgfältig] von etwas abnehmen, aufnehmen",
+      "grammar": "n/a",
+      "examples": [
+        "Ähren, Beeren, Trauben lesen",
+        "Holz vom Boden lesen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "einzeln [sorgfältig] in die Hand nehmen und Schlechtes dabei aussondern",
+      "grammar": "n/a",
+      "examples": [
+        "Erbsen lesen",
+        "Salat lesen (schlechte oder die äußeren Blätter davon entfernen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "abnehmen",
+      "link": "/rechtschreibung/abnehmen"
+    },
+    {
+      "text": "aufheben",
+      "link": "/rechtschreibung/aufheben"
+    },
+    {
+      "text": "auflesen",
+      "link": "/rechtschreibung/auflesen"
+    },
+    {
+      "text": "aufnehmen",
+      "link": "/rechtschreibung/aufnehmen"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "l{e}sen",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4108298_54496835.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "lesen",
+      "link": "/rechtschreibung/lesen_dozieren"
+    }
+  ]
+}

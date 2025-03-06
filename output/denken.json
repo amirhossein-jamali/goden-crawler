@@ -1,0 +1,163 @@
+{
+  "word": "denken",
+  "word_type": [
+    "unknown"
+  ],
+  "grammar": "denkt, dachte, hat gedacht",
+  "meanings": [
+    {
+      "text": "die menschliche Fähigkeit des Erkennens und Urteilens anwenden; mit dem Verstand arbeiten; überlegen",
+      "grammar": "n/a",
+      "examples": [
+        "logisch, nüchtern, schnell denken",
+        "sie denkt praktisch",
+        "bei dieser Arbeit muss man denken",
+        "laut denken (umgangssprachlich; vor sich hin reden)",
+        "nicht mehr klar denken können",
+        "was mache ich jetzt, dachte sie (überlegte sie)",
+        "woran denkst du? (was beschäftigt dich gerade?)",
+        "die Dinge zu Ende denken",
+        "das geschieht schon, solange ich denken kann (schon immer)",
+        "denk mal, Eva hat sich verlobt (umgangssprachlich; drückt Erstaunen über eine unerwartete Tatsache aus)",
+        "(auch spöttisch) „Kannst du denn schwimmen?“ – „Ja, denk mal!“",
+        "〈substantiviert:〉 logisches, abstraktes, begriffliches Denken",
+        "das Denken ausschalten",
+        "die Klarheit seines Denkens ist bestechend"
+      ],
+      "idioms": [
+        "jemandem zu denken geben ([durch ein Vorkommnis, ein Verhalten o. Ä.] jemanden nachdenklich stimmen; jemanden stutzig machen)",
+        "erst denken, dann handeln (man soll nicht unüberlegt handeln)",
+        "Denken ist Glückssache! (das war falsch gedacht!)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "eine bestimmte Gesinnung haben, gesinnt sein",
+      "grammar": "n/a",
+      "examples": [
+        "rechtlich, freiheitlich, spießbürgerlich, gemein denken"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "annehmen, glauben, vermuten, meinen",
+      "grammar": "n/a",
+      "examples": [
+        "nichts Böses denken",
+        "ich denke schon",
+        "ich denke, wir können uns einigen",
+        "was/wie viel haben Sie denn gedacht? (welche Preisvorstellung haben Sie?)",
+        "wer hätte das gedacht!",
+        "er denkt (bildet sich ein), Wunder was getan zu haben"
+      ],
+      "idioms": [
+        "denkste! (das hast du dir so gedacht!)",
+        "[das ist ein] typischer Fall von denkste (das ist ein großer Irrtum)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "eine bestimmte Meinung von etwas haben, etwas von etwas halten",
+      "grammar": "n/a",
+      "examples": [
+        "er denkt ganz anders über diese Sache",
+        "wie denkst du darüber?",
+        "was werden die Leute denken?",
+        "da weiß man nicht, was man [davon] denken soll",
+        "denk bitte nicht schlecht von mir!",
+        "das hätte ich nie von ihm gedacht (ihm nicht zugetraut)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "sich etwas [in bestimmter Weise] vorstellen",
+      "grammar": "sich denken",
+      "examples": [
+        "ich könnte es mir so denken, dass …",
+        "du kannst dir denken, dass ich müde bin",
+        "das kann ich mir nicht denken (das halte ich für unwahrscheinlich, glaube ich nicht)",
+        "ein gedachter (in der Vorstellung angenommener, vorausgesetzter) Punkt, Fall",
+        "(umgangssprachlich scherzhaft) den Käse musst du dir denken (umgangssprachlich scherzhaft; Käse gehört zwar dazu, aber es gibt keinen)"
+      ],
+      "idioms": [
+        "das hast du dir [so] gedacht! (umgangssprachlich:  du glaubst, dass etwas so ist, aber das stimmt nicht)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "sich erinnern, gedenken",
+      "grammar": "n/a",
+      "examples": [
+        "oft, mit Freude an etwas denken",
+        "denk daran (vergiss nicht), die Rechnung zu bezahlen",
+        "der wird noch an mich denken! (Drohung)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "seine Gedanken, sein Interesse auf jemanden, etwas richten",
+      "grammar": "n/a",
+      "examples": [
+        "er denkt nur an sich, an seinen Vorteil",
+        "bei dieser Arbeit haben wir an Sie gedacht (für diese Arbeit haben wir Sie vorgesehen)",
+        "du musst mehr an deine Gesundheit denken",
+        "(süddeutsch, österreichisch) auf seine Sicherheit denken"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "eine bestimmte Absicht haben, etwas Bestimmtes vorhaben",
+      "grammar": "n/a",
+      "examples": [
+        "wir denken daran, uns eine neue Wohnung zu suchen",
+        "ich denke gar nicht, nicht im Traum daran, das zu tun (das kommt für mich nicht infrage)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "bedenken",
+      "link": "/rechtschreibung/bedenken"
+    },
+    {
+      "text": "sich besinnen"
+    },
+    {
+      "text": "den Kopf voll haben"
+    },
+    {
+      "text": "den Verstand gebrauchen"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "d(e)nken",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4106761_30657008.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "denken"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

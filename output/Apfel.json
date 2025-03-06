@@ -1,0 +1,110 @@
+{
+  "word": "Apfel",
+  "article": "der",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "der Apfel; Genitiv: des Apfels, Plural: die Äpfel",
+  "meanings": [
+    {
+      "text": "rundliche, fest-fleischige, aromatisch schmeckende Frucht mit Kerngehäuse; Frucht des Apfelbaums",
+      "grammar": "n/a",
+      "examples": [
+        "ein grüner, saurer, wurmstichiger, rotbäckiger, gebratener Apfel",
+        "Apfel im Schlafrock (ein Gebäck)",
+        "Äpfel pflücken, [vom Baum] schütteln, schälen, reiben"
+      ],
+      "idioms": [
+        "Äpfel und Birnen zusammenzählen, Äpfel mit Birnen vergleichen (umgangssprachlich:  Unvereinbares zusammenbringen)",
+        "für einen Apfel und ein Ei (umgangssprachlich:  sehr billig, für einen unbedeutenden Betrag: etwas für einen Apfel und ein Ei kriegen)",
+        "in den sauren Apfel beißen (etwas Unangenehmes notgedrungen tun)",
+        "der Apfel fällt nicht weit vom Stamm/(umgangssprachlich scherzhaft:) nicht weit vom Pferd (jemand ist in seinen [negativen] Anlagen, in seinem Verhalten den Eltern sehr ähnlich)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/A/Apfel-201020037492.jpg",
+      "image_caption": "© MEV Verlag, Augsburg"
+    },
+    {
+      "text": "Apfelbaum\n              \n                Apfelsorte",
+      "grammar": "n/a",
+      "examples": [
+        "die Äpfel blühen dieses Jahr spät",
+        "dies ist ein früher Apfel"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/A/Apfel-201020043738.jpg",
+      "image_caption": "© Jacqueline Barth - Fotolia.com",
+      "sub_meanings": [
+        {
+          "text": "Apfelbaum",
+          "grammar": "n/a",
+          "examples": [
+            "die Äpfel blühen dieses Jahr spät"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/A/Apfel-201020043738.jpg",
+          "image_caption": "© Jacqueline Barth - Fotolia.com"
+        },
+        {
+          "text": "Apfelsorte",
+          "grammar": "n/a",
+          "examples": [
+            "dies ist ein früher Apfel"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "Brüste",
+      "grammar": "nur im Plural",
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "verhüllend"
+      }
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "(A)pfel",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4107696_323139861.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "apfel,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "apful,"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "wohl"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "Holzapfel;"
+    },
+    {
+      "word": "Herkunft"
+    },
+    {
+      "word": "ungeklärt"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

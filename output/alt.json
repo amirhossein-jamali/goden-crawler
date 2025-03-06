@@ -1,0 +1,382 @@
+{
+  "word": "alt",
+  "word_type": [
+    "unknown"
+  ],
+  "grammar": "Adjektiv; Steigerungsformen: älter, älteste",
+  "meanings": [
+    {
+      "text": "(von Menschen, Tieren, Pflanzen) nicht [mehr] jung, in vorgerücktem Lebensalter, bejahrt",
+      "grammar": "n/a",
+      "examples": [
+        "ein alter Mann, Hund, Baum",
+        "sie ist nicht sehr alt geworden",
+        "mit 35 fühlte ich mich alt"
+      ],
+      "idioms": [
+        "nicht alt werden (umgangssprachlich:  es nicht mehr lange aushalten: hier, heute werde ich nicht alt)",
+        "alt aussehen (umgangssprachlich:  das Nachsehen haben: wenn er uns zuvorkommt, sehen wir sehr, ziemlich alt aus)",
+        "Alt und Jung (1. alte und junge Menschen: Alt und Jung müssen zusammenhalten.  2. jedermann: ein Buch für Alt und Jung.)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "(im Vergleich zu einem, einer anderen, zu anderen) ein höheres Lebensalter habendein bestimmtes Alter habendMerkmale des Alters, Alterserscheinungen aufweisend",
+      "grammar": "n/a",
+      "examples": [
+        "die alte Generation",
+        "(umgangssprachlich) der alte [Herr] Meier (der Vater des jungen Herrn Meier)",
+        "meine ältere Schwester",
+        "unser ältester Sohn/\u003csubstantiviert:\u003e unser Ältester",
+        "〈substantiviert:〉 die Älteren unter euch werden dies alles noch wissen",
+        "(als Ergänzung bei Eigennamen): Lucas Cranach der Ältere (Abkürzung: d. Ä.)",
+        "ein drei Wochen alter Säugling",
+        "ein altes Gesicht",
+        "mit ihren alten, zittrigen Händen",
+        "er ist alt geworden"
+      ],
+      "idioms": [
+        "man ist so alt, wie man sich fühlt"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "(im Vergleich zu einem, einer anderen, zu anderen) ein höheres Lebensalter habend",
+          "grammar": "n/a",
+          "examples": [
+            "die alte Generation",
+            "(umgangssprachlich) der alte [Herr] Meier (der Vater des jungen Herrn Meier)",
+            "meine ältere Schwester",
+            "unser ältester Sohn/\u003csubstantiviert:\u003e unser Ältester",
+            "〈substantiviert:〉 die Älteren unter euch werden dies alles noch wissen",
+            "(als Ergänzung bei Eigennamen): Lucas Cranach der Ältere (Abkürzung: d. Ä.)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "ein bestimmtes Alter habend",
+          "grammar": "n/a",
+          "examples": [
+            "ein drei Wochen alter Säugling"
+          ],
+          "idioms": [
+            "man ist so alt, wie man sich fühlt"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "Merkmale des Alters, Alterserscheinungen aufweisend",
+          "grammar": "n/a",
+          "examples": [
+            "ein altes Gesicht",
+            "mit ihren alten, zittrigen Händen",
+            "er ist alt geworden"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "eine bestimmte Zeit vorhanden, im Gebrauch befindlichnicht [mehr] neu, lange gebraucht, getragen; abgenutzt",
+      "grammar": "n/a",
+      "examples": [
+        "ein drei Jahre alter Wagen",
+        "(Sportjargon) das Spiel ist gerade zwei Minuten alt (es sind gerade zwei Minuten Spielzeit vergangen)",
+        "alte Schuhe",
+        "mit alten (antiquarischen) Büchern handeln",
+        "die alten (baufälligen) Häuser abreißen"
+      ],
+      "idioms": [
+        "aus Alt/alt mach Neu/neu"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "eine bestimmte Zeit vorhanden, im Gebrauch befindlich",
+          "grammar": "n/a",
+          "examples": [
+            "ein drei Jahre alter Wagen",
+            "(Sportjargon) das Spiel ist gerade zwei Minuten alt (es sind gerade zwei Minuten Spielzeit vergangen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "nicht [mehr] neu, lange gebraucht, getragen; abgenutzt",
+          "grammar": "n/a",
+          "examples": [
+            "alte Schuhe",
+            "mit alten (antiquarischen) Büchern handeln",
+            "die alten (baufälligen) Häuser abreißen"
+          ],
+          "idioms": [
+            "aus Alt/alt mach Neu/neu"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "seit längerer Zeit vorhanden, bestehend, vor längerer Zeit erzeugt, hergestellt und daher nicht [mehr] frischvom letzten Jahr, vorjährig",
+      "grammar": "n/a",
+      "examples": [
+        "eine alte Wunde",
+        "der Fisch ist schon alt, schmeckt alt",
+        "die alten Kartoffeln aufbrauchen",
+        "das alte Jahr geht zu Ende"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "seit längerer Zeit vorhanden, bestehend, vor längerer Zeit erzeugt, hergestellt und daher nicht [mehr] frisch",
+          "grammar": "n/a",
+          "examples": [
+            "eine alte Wunde",
+            "der Fisch ist schon alt, schmeckt alt"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "vom letzten Jahr, vorjährig",
+          "grammar": "n/a",
+          "examples": [
+            "die alten Kartoffeln aufbrauchen",
+            "das alte Jahr geht zu Ende"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "seit Langem vorhanden, bestehend; vor langer Zeit entstanden, begründet und deshalb bewährt\n                langjährig\n              längst [überall] bekannt und daher überholt, langweilig",
+      "grammar": "n/a",
+      "examples": [
+        "eine alte Erfahrung, Tradition",
+        "alter Besitz",
+        "ein altes Mitglied",
+        "wir sind alte Freunde",
+        "ein alter Witz"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "seit Langem vorhanden, bestehend; vor langer Zeit entstanden, begründet und deshalb bewährt",
+          "grammar": "n/a",
+          "examples": [
+            "eine alte Erfahrung, Tradition",
+            "alter Besitz"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "langjährig",
+          "grammar": "n/a",
+          "examples": [
+            "ein altes Mitglied",
+            "wir sind alte Freunde"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "längst [überall] bekannt und daher überholt, langweilig",
+          "grammar": "n/a",
+          "examples": [
+            "ein alter Witz"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "einer früheren Zeit, Epoche entstammend; eine vergangene Zeit betreffendantik; klassischdurch Alter wertvoll [geworden]",
+      "grammar": "n/a",
+      "examples": [
+        "alte Meister",
+        "alte deutsche Sagen",
+        "die ältere Kolonialzeit",
+        "die alten Griechen, Römer",
+        "alte Sprachen (Griechisch, Latein) studieren",
+        "altes Porzellan",
+        "alter (abgelagerter) Wein"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "einer früheren Zeit, Epoche entstammend; eine vergangene Zeit betreffend",
+          "grammar": "n/a",
+          "examples": [
+            "alte Meister",
+            "alte deutsche Sagen",
+            "die ältere Kolonialzeit"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "antik; klassisch",
+          "grammar": "n/a",
+          "examples": [
+            "die alten Griechen, Römer",
+            "alte Sprachen (Griechisch, Latein) studieren"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "durch Alter wertvoll [geworden]",
+          "grammar": "n/a",
+          "examples": [
+            "altes Porzellan",
+            "alter (abgelagerter) Wein"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "unverändert, [von früher her] bekannt, vertraut, gewohnt [und daher lieb geworden, geschätzt]",
+      "grammar": "n/a",
+      "examples": [
+        "es bot sich ihnen das alte Bild",
+        "alles geht seinen alten Gang (wie immer)",
+        "〈substantiviert:〉 sie ist ganz die Alte (hat sich nicht verändert)",
+        "es bleibt alles beim Alten (wie es war)",
+        "alles beim Alten lassen (nichts verändern, unverändert lassen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "vorherig, früher, ehemalig, einstig",
+      "grammar": "n/a",
+      "examples": [
+        "alte Bekannte, Kollegen",
+        "die alten Plätze wieder einnehmen",
+        "〈schweizerisch vor Amts- und Berufsbezeichnungen unflektiert:〉 alt Botschafter, alt Nationalrat"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "in vertraulicher Anredeverstärkend bei negativ charakterisierenden Personenbezeichnungen und Schimpfwörtern",
+      "grammar": "n/a",
+      "examples": [
+        "na, alter Junge, wie gehts?",
+        "der alte Geizkragen!",
+        "(derb) altes Schwein!"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "in vertraulicher Anrede",
+          "grammar": "n/a",
+          "examples": [
+            "na, alter Junge, wie gehts?"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "familiär"
+          }
+        },
+        {
+          "text": "verstärkend bei negativ charakterisierenden Personenbezeichnungen und Schimpfwörtern",
+          "grammar": "n/a",
+          "examples": [
+            "der alte Geizkragen!",
+            "(derb) altes Schwein!"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich abwertend"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich abwertend"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "ältlich",
+      "link": "/rechtschreibung/aeltlich"
+    },
+    {
+      "text": "angealtert",
+      "link": "/rechtschreibung/angealtert"
+    },
+    {
+      "text": "angejahrt",
+      "link": "/rechtschreibung/angejahrt"
+    },
+    {
+      "text": "gealtert"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "(a)lt",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4113924_315216207.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "alt,"
+    },
+    {
+      "word": "eigentlich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "aufgewachsen,"
+    },
+    {
+      "word": "verwandt"
+    },
+    {
+      "word": "mit"
+    },
+    {
+      "word": "lateinisch"
+    },
+    {
+      "word": "alere,"
+    },
+    {
+      "word": "Alimente",
+      "link": "/rechtschreibung/Alimente"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

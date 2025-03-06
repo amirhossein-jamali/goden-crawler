@@ -1,0 +1,191 @@
+{
+  "word": "kalt",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "Adjektiv; Steigerungsformen: kälter, kälteste",
+  "meanings": [
+    {
+      "text": "wenig oder keine Wärme enthaltend, ausstrahlend; von niedriger Temperatur",
+      "grammar": "n/a",
+      "examples": [
+        "kaltes Wasser",
+        "kalter Wind",
+        "kalte Wintertage",
+        "kalte Füße haben",
+        "kalte Umschläge machen",
+        "in der kalten Jahreszeit (im Winter)",
+        "kalten (nach der Zubereitung erkalteten) Braten essen",
+        "(umgangssprachlich) kalte Miete (Kaltmiete)",
+        "(Physik) kaltes Licht (Leuchterscheinung, die nicht durch hohe Temperaturen ausgelöst wird [z. B. Fluoreszenz])",
+        "(Jägersprache) eine kalte Fährte (Fährte, die mehr als zwei Stunden alt ist)",
+        "der kalte Schweiß (Angstschweiß; wohl nach der alten Vorstellung, dass Angst und Schrecken den Körper mit einem plötzlichen Kältegefühl reagieren lassen) stand ihr auf der Stirn",
+        "der Ofen ist kalt",
+        "die Suppe wird kalt",
+        "mir ist kalt (ich friere)",
+        "draußen ist es kalt",
+        "(landschaftlich) ich habe kalt (mir ist kalt, ich friere)",
+        "die Wohnung ist kalt (nicht oder schlecht geheizt)",
+        "der Motor ist noch kalt (hat noch nicht seine Betriebstemperatur)",
+        "der Sekt muss kalt gestellt (gekühlt) werden",
+        "kalt (im ungeheizten Zimmer) schlafen",
+        "kalt (mit kaltem Wasser) duschen",
+        "abends essen wir meistens kalt (kochen wir meistens nicht, sondern essen kalte Speisen)",
+        "〈in übertragener Bedeutung:〉 kalte (bläuliche oder weißliche, einen Eindruck von Kälte entstehen lassende) Farben",
+        "〈in übertragener Bedeutung:〉 ein kaltes (weißliches, fahles und dadurch einen Eindruck von Kälte entstehen lassendes) Licht",
+        "〈substantiviert:〉 im Kalten (im ungeheizten Zimmer) sitzen",
+        "〈in übertragener Bedeutung:〉 es überlief mich kalt (es schauderte mich)"
+      ],
+      "idioms": [
+        "jemanden kalt erwischen (Sportjargon:  eine Person, die sich noch nicht richtig auf ihren Gegner, ihre Gegnerin eingestellt hat, noch nicht richtig ins Spiel gekommen ist, überrumpeln oder schlagen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "vom Gefühl unbeeinflusst; nüchternabweisend; ohne jedes Mitgefühl",
+      "grammar": "n/a",
+      "examples": [
+        "mit kalter Berechnung",
+        "er hat sich von ihren Tränen nicht bewegen lassen, sondern ist bis zum Schluss kalt geblieben",
+        "kalt lächelnd (skrupellos) legte er Bomben",
+        "ein kalter Empfang",
+        "jemanden mit kalten Blicken, kalter Miene messen",
+        "ihre Stimme war hart und kalt",
+        "jemanden kalt anblicken",
+        "sie begrüßte uns kalt lächelnd",
+        "sie fragte mich kalt, was ich wünsche"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "vom Gefühl unbeeinflusst; nüchtern",
+          "grammar": "n/a",
+          "examples": [
+            "mit kalter Berechnung",
+            "er hat sich von ihren Tränen nicht bewegen lassen, sondern ist bis zum Schluss kalt geblieben",
+            "kalt lächelnd (skrupellos) legte er Bomben"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "abweisend; ohne jedes Mitgefühl",
+          "grammar": "n/a",
+          "examples": [
+            "ein kalter Empfang",
+            "jemanden mit kalten Blicken, kalter Miene messen",
+            "ihre Stimme war hart und kalt",
+            "jemanden kalt anblicken",
+            "sie begrüßte uns kalt lächelnd",
+            "sie fragte mich kalt, was ich wünsche"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "(von negativen Gefühlen) groß, unbändig",
+      "grammar": "n/a",
+      "examples": [
+        "kaltes Grausen, kalte Furcht",
+        "kalte Wut packte ihn"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "eisig [kalt]"
+    },
+    {
+      "text": "eiskalt",
+      "link": "/rechtschreibung/eiskalt"
+    },
+    {
+      "text": "frisch",
+      "link": "/rechtschreibung/frisch"
+    },
+    {
+      "text": "frostig",
+      "link": "/rechtschreibung/frostig"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "k(a)lt",
+      "phonetic": "[kalt]",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4112528_359649948.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "kalt,"
+    },
+    {
+      "word": "eigentlich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "abgekühlt,"
+    },
+    {
+      "word": "gefroren"
+    },
+    {
+      "word": "und"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "adjektivisches"
+    },
+    {
+      "word": "2."
+    },
+    {
+      "word": "Partizip"
+    },
+    {
+      "word": "eines"
+    },
+    {
+      "word": "untergegangenen"
+    },
+    {
+      "word": "Verbs"
+    },
+    {
+      "word": "mit"
+    },
+    {
+      "word": "der"
+    },
+    {
+      "word": "Bedeutung"
+    },
+    {
+      "word": "„abkühlen,"
+    },
+    {
+      "word": "frieren“"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

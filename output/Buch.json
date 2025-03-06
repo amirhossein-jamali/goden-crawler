@@ -1,0 +1,241 @@
+{
+  "word": "Buch",
+  "article": "das",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "high",
+  "grammar": "das Buch; Genitiv: des Buch[e]s, Bücher",
+  "meanings": [
+    {
+      "text": "größeres, gebundenes Druckwerk; Bandin Buchform veröffentlichter literarischer, wissenschaftlicher o. ä. TextTeil eines gegliederten Werkes",
+      "grammar": "n/a",
+      "examples": [
+        "ein dickes Buch",
+        "ein Buch in Leder",
+        "ein Buch von 1000 Seiten",
+        "Bücher binden",
+        "ein spannendes Buch",
+        "ein Buch herausgeben",
+        "ich habe alle Bücher dieses Autors gelesen",
+        "über den Büchern sitzen",
+        "〈in übertragener Bedeutung:〉 das Buch der jüngeren Geschichte muss neu geschrieben werden",
+        "die fünf Bücher Mose",
+        "das Zehnte Buch Sozialgesetzbuch",
+        "das Buch für einen Film schreiben"
+      ],
+      "idioms": [
+        "Goldenes Buch (Gästebuch einer Stadt)",
+        "das Buch der Bücher (die Bibel)",
+        "wie ein Buch reden (umgangssprachlich:  sehr viel, unaufhörlich reden)",
+        "wie er, sie, es im Buche steht/stehen (wie man sich ihn, sie, es vorstellt: ein Außenseiter, wie er im Buche steht; es waren Hundstage, wie sie im Buche stehen; ursprünglich mit Bezug auf die Bibel)",
+        "jemandem/für jemanden ein Buch mit sieben Siegeln sein (für jemanden unverständlich, nicht durchschaubar sein; nach Offenbarung 5, 1–5)",
+        "ein aufgeschlagenes/offenes Buch für jemanden sein (jemandem ganz vertraut und bis in seine innersten Regungen bekannt sein)",
+        "schlaues Buch (umgangssprachlich:  Buch, das viel Information enthält, z. B. ein Lehrbuch oder ein Nachschlagewerk)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/B/Buch-201100279236.jpg",
+      "image_caption": "Ein gebundenes Buch - © MEV Verlag, Augsburg",
+      "sub_meanings": [
+        {
+          "text": "größeres, gebundenes Druckwerk; Band",
+          "grammar": "n/a",
+          "examples": [
+            "ein dickes Buch",
+            "ein Buch in Leder",
+            "ein Buch von 1000 Seiten",
+            "Bücher binden"
+          ],
+          "idioms": [
+            "Goldenes Buch (Gästebuch einer Stadt)",
+            "das Buch der Bücher (die Bibel)",
+            "wie ein Buch reden (umgangssprachlich:  sehr viel, unaufhörlich reden)",
+            "wie er, sie, es im Buche steht/stehen (wie man sich ihn, sie, es vorstellt: ein Außenseiter, wie er im Buche steht; es waren Hundstage, wie sie im Buche stehen; ursprünglich mit Bezug auf die Bibel)",
+            "jemandem/für jemanden ein Buch mit sieben Siegeln sein (für jemanden unverständlich, nicht durchschaubar sein; nach Offenbarung 5, 1–5)",
+            "ein aufgeschlagenes/offenes Buch für jemanden sein (jemandem ganz vertraut und bis in seine innersten Regungen bekannt sein)"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/B/Buch-201100279236.jpg",
+          "image_caption": "Ein gebundenes Buch - © MEV Verlag, Augsburg"
+        },
+        {
+          "text": "in Buchform veröffentlichter literarischer, wissenschaftlicher o. ä. Text",
+          "grammar": "n/a",
+          "examples": [
+            "ein spannendes Buch",
+            "ein Buch herausgeben",
+            "ich habe alle Bücher dieses Autors gelesen",
+            "über den Büchern sitzen",
+            "〈in übertragener Bedeutung:〉 das Buch der jüngeren Geschichte muss neu geschrieben werden"
+          ],
+          "idioms": [
+            "schlaues Buch (umgangssprachlich:  Buch, das viel Information enthält, z. B. ein Lehrbuch oder ein Nachschlagewerk)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "Teil eines gegliederten Werkes",
+          "grammar": "n/a",
+          "examples": [
+            "die fünf Bücher Mose",
+            "das Zehnte Buch Sozialgesetzbuch"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "Fachsprache, sonst veraltend"
+          }
+        },
+        {
+          "text": "",
+          "grammar": "n/a",
+          "examples": [
+            "das Buch für einen Film schreiben"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Kurzform für": "Drehbuch"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "Fachsprache, sonst veraltend",
+        "Kurzform für": "Drehbuch"
+      }
+    },
+    {
+      "text": "aus gebundenen, gehefteten o. ä. Seiten bestehender, mit einem festen Deckel oder kartoniertem Einband versehener Gegenstand unterschiedlicher Größe und Verwendung",
+      "grammar": "n/a",
+      "examples": [
+        "er hat immer ein kleines Buch bei sich, in dem er sich Notizen macht"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "",
+      "grammar": "meist im Plural",
+      "examples": [
+        "die Bücher sind in Ordnung",
+        "die Bücher führen (die Buchführung machen)"
+      ],
+      "idioms": [
+        "über etwas Buch führen (sich über etwas Notizen, Aufzeichnungen machen)",
+        "zu Buch[e] schlagen (1. sich im Etat niederschlagen.  2. sich bei etwas bemerkbar machen, ins Gewicht fallen.)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Kurzform für": "Geschäftsbuch"
+      }
+    },
+    {
+      "text": "Wettliste bei Pferderennen",
+      "grammar": "n/a",
+      "examples": [
+        "Buch machen (die Wetten zusammenstellen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "Sport"
+      }
+    },
+    {
+      "text": "altes deutsches Zählmaß für Druck- und SchreibpapierZählmaß für Blattgold und -silber",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "altes deutsches Zählmaß für Druck- und Schreibpapier",
+          "grammar": "n/a",
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "Druckwesen"
+          }
+        },
+        {
+          "text": "Zählmaß für Blattgold und -silber",
+          "grammar": "n/a",
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "Kaufmannssprache"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "Kaufmannssprache"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "Band",
+      "link": "/rechtschreibung/Band_Buch"
+    },
+    {
+      "text": "Bestseller",
+      "link": "/rechtschreibung/Bestseller"
+    },
+    {
+      "text": "Druck-Erzeugnis",
+      "link": "/rechtschreibung/Druck_Erzeugnis"
+    },
+    {
+      "text": "Druckwerk",
+      "link": "/rechtschreibung/Druckwerk"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "B{u}ch",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4110000_534938939.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "buoch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "buoh"
+    },
+    {
+      "word": "(Plural),"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "wohl"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "(Runen)zeichen,"
+    },
+    {
+      "word": "Buchstabe,"
+    },
+    {
+      "word": "dann:"
+    },
+    {
+      "word": "Schriftstück"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

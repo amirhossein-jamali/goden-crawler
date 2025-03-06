@@ -1,0 +1,541 @@
+{
+  "word": "spielen",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "high",
+  "grammar": "spielt, spielte, hat gespielt",
+  "meanings": [
+    {
+      "text": "sich zum Vergnügen, Zeitvertreib und allein aus Freude an der Sache selbst auf irgendeine Weise betätigen, mit etwas beschäftigenetwas fortwährend mit den Fingern bewegen; an etwas herumspielenein bestimmtes Spiel (1b) zum Vergnügen, Zeitvertreib, aus Freude an der Sache selbst machenim Spiel einsetzen, ausspielenein bestimmtes Spiel (1b) beherrschen",
+      "grammar": "n/a",
+      "examples": [
+        "die Kinder spielen [miteinander, im Hof, im Sandkasten]",
+        "mit einem Ball, der elektrischen Eisenbahn, einer Puppe spielen",
+        "du darfst noch für eine Stunde spielen gehen",
+        "sie spielt schon wieder mit ihrem neuen Computer",
+        "die Katze spielt mit einem Wollknäuel, einer Maus",
+        "spielende Kinder",
+        "sie spielte an/mit ihrem Armband, Ohrring",
+        "Halma, Skat, ein Spiel, ein Gesellschaftsspiel spielen",
+        "[mit jemandem, gegen jemanden] Schach spielen",
+        "Verstecken, Fangen, Blindekuh spielen",
+        "wollen wir noch eine Partie spielen?",
+        "Herz, Trumpf, den Buben, eine andere Farbe spielen",
+        "spielen sie Skat?",
+        "sie spielt sehr gut Schach"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich zum Vergnügen, Zeitvertreib und allein aus Freude an der Sache selbst auf irgendeine Weise betätigen, mit etwas beschäftigen",
+          "grammar": "n/a",
+          "examples": [
+            "die Kinder spielen [miteinander, im Hof, im Sandkasten]",
+            "mit einem Ball, der elektrischen Eisenbahn, einer Puppe spielen",
+            "du darfst noch für eine Stunde spielen gehen",
+            "sie spielt schon wieder mit ihrem neuen Computer",
+            "die Katze spielt mit einem Wollknäuel, einer Maus",
+            "spielende Kinder"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "etwas fortwährend mit den Fingern bewegen; an etwas herumspielen",
+          "grammar": "n/a",
+          "examples": [
+            "sie spielte an/mit ihrem Armband, Ohrring"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "ein bestimmtes Spiel (1b) zum Vergnügen, Zeitvertreib, aus Freude an der Sache selbst machen",
+          "grammar": "n/a",
+          "examples": [
+            "Halma, Skat, ein Spiel, ein Gesellschaftsspiel spielen",
+            "[mit jemandem, gegen jemanden] Schach spielen",
+            "Verstecken, Fangen, Blindekuh spielen",
+            "wollen wir noch eine Partie spielen?"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "im Spiel einsetzen, ausspielen",
+          "grammar": "n/a",
+          "examples": [
+            "Herz, Trumpf, den Buben, eine andere Farbe spielen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "Kartenspiele"
+          }
+        },
+        {
+          "text": "ein bestimmtes Spiel (1b) beherrschen",
+          "grammar": "n/a",
+          "examples": [
+            "spielen sie Skat?",
+            "sie spielt sehr gut Schach"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "Kartenspiele"
+      }
+    },
+    {
+      "text": "sich an einem Glücksspiel beteiligen",
+      "grammar": "n/a",
+      "examples": [
+        "hoch, niedrig, riskant, vorsichtig, um Geld, mit hohem Einsatz spielen",
+        "im Lotto, Toto spielen",
+        "er begann zu spielen (wurde ein Spieler)",
+        "〈auch mit Akkusativ-Objekt:〉 Lotto, Toto, Roulette spielen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "[als Sport] ein bestimmtes Ballspiel o. Ä. spieleneinen sportlichen Wettkampf austragensich in bestimmter Weise spielen (3b) lassen(einen Ball o. Ä.) im Spiel irgendwohin gelangen lassen(einen Ball o. Ä.) in einer bestimmten Weise im Spiel bewegenein Spiel mit einem bestimmten Ergebnis abschließen, beendenals Spieler (a) einen bestimmten Posten (2c) einnehmen",
+      "grammar": "sich spielen; unpersönlich",
+      "examples": [
+        "Fußball, Handball, Hockey, Golf, Billard spielen",
+        "sie spielt hervorragend Tennis",
+        "er kann wegen einer Verletzung zurzeit nicht spielen",
+        "die Mannschaft spielt heute [gut, schlecht, enttäuschend, offensiv, auswärts]",
+        "gegen einen starken Gegner spielen",
+        "es wird in der Halle gespielt",
+        "um Punkte, um die Meisterschaft spielen",
+        "auf nassem Rasen spielt es sich schlecht",
+        "den Ball, die Scheibe vors Tor spielen",
+        "die schwarze Kugel über die Bande ins Loch spielen",
+        "den Ball hoch, flach spielen",
+        "unentschieden spielen",
+        "die deutsche Mannschaft hat 1 : 0 gespielt",
+        "im Tor, in der Abwehr, halblinks spielen",
+        "Libero spielen (als Libero spielen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "[als Sport] ein bestimmtes Ballspiel o. Ä. spielen",
+          "grammar": "n/a",
+          "examples": [
+            "Fußball, Handball, Hockey, Golf, Billard spielen",
+            "sie spielt hervorragend Tennis",
+            "er kann wegen einer Verletzung zurzeit nicht spielen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "einen sportlichen Wettkampf austragen",
+          "grammar": "n/a",
+          "examples": [
+            "die Mannschaft spielt heute [gut, schlecht, enttäuschend, offensiv, auswärts]",
+            "gegen einen starken Gegner spielen",
+            "es wird in der Halle gespielt",
+            "um Punkte, um die Meisterschaft spielen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich in bestimmter Weise spielen (3b) lassen",
+          "grammar": "sich spielen; unpersönlich",
+          "examples": [
+            "auf nassem Rasen spielt es sich schlecht"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "(einen Ball o. Ä.) im Spiel irgendwohin gelangen lassen",
+          "grammar": "n/a",
+          "examples": [
+            "den Ball, die Scheibe vors Tor spielen",
+            "die schwarze Kugel über die Bande ins Loch spielen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "(einen Ball o. Ä.) in einer bestimmten Weise im Spiel bewegen",
+          "grammar": "n/a",
+          "examples": [
+            "den Ball hoch, flach spielen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "ein Spiel mit einem bestimmten Ergebnis abschließen, beenden",
+          "grammar": "n/a",
+          "examples": [
+            "unentschieden spielen",
+            "die deutsche Mannschaft hat 1 : 0 gespielt"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "als Spieler (a) einen bestimmten Posten (2c) einnehmen",
+          "grammar": "n/a",
+          "examples": [
+            "im Tor, in der Abwehr, halblinks spielen",
+            "Libero spielen (als Libero spielen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "Ballspiele, Eishockey"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "Ballspiele, Eishockey"
+      }
+    },
+    {
+      "text": "durch Spielen (1a,  c,  2,  3b) in einen bestimmten Zustand gelangen",
+      "grammar": "sich spielen",
+      "examples": [
+        "die Kinder haben sich müde, hungrig gespielt",
+        "sich beim Roulette um sein Vermögen spielen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "auf einem Musikinstrument musizieren(auf einem Musikinstrument) darbieten\n                musizieren",
+      "grammar": "n/a",
+      "examples": [
+        "Gitarre spielen",
+        "sie spielt seit Jahren Cello",
+        "sie spielt [gut, schlecht] Klavier (kann [gut, schlecht] Klavier spielen)",
+        "eine Melodie, Etüde, Sonate [auf dem Klavier] spielen",
+        "das Orchester spielte einen Walzer, Jazz, Tanzmusik",
+        "sie spielten [Werke von] Haydn und Mozart",
+        "〈in übertragener Bedeutung:〉 einen Song, Titel im Radio spielen ([von einem Tonträger] wiedergeben)",
+        "〈in übertragener Bedeutung:〉 das Radio spielte (im Radio hörte man) eine Sinfonie",
+        "〈in übertragener Bedeutung:〉 spiel doch mal eine CD (umgangssprachlich; lege eine CD ein)!",
+        "auswendig, vom Blatt, nach Noten spielen",
+        "vierhändig, auf zwei Flügeln spielen",
+        "gekonnt, routiniert, anmutig, mit Gefühl spielen",
+        "sie spielt im Schulorchester, in einer Rockband",
+        "die Band spielt heute in Köln",
+        "das Orchester, die Musik begann zu spielen",
+        "zum Tanz spielen",
+        "〈in übertragener Bedeutung:〉 das Radio spielt (läuft) bei ihm den ganzen Tag"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "auf einem Musikinstrument musizieren",
+          "grammar": "n/a",
+          "examples": [
+            "Gitarre spielen",
+            "sie spielt seit Jahren Cello",
+            "sie spielt [gut, schlecht] Klavier (kann [gut, schlecht] Klavier spielen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "(auf einem Musikinstrument) darbieten",
+          "grammar": "n/a",
+          "examples": [
+            "eine Melodie, Etüde, Sonate [auf dem Klavier] spielen",
+            "das Orchester spielte einen Walzer, Jazz, Tanzmusik",
+            "sie spielten [Werke von] Haydn und Mozart",
+            "〈in übertragener Bedeutung:〉 einen Song, Titel im Radio spielen ([von einem Tonträger] wiedergeben)",
+            "〈in übertragener Bedeutung:〉 das Radio spielte (im Radio hörte man) eine Sinfonie",
+            "〈in übertragener Bedeutung:〉 spiel doch mal eine CD (umgangssprachlich; lege eine CD ein)!"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "musizieren",
+          "grammar": "n/a",
+          "examples": [
+            "auswendig, vom Blatt, nach Noten spielen",
+            "vierhändig, auf zwei Flügeln spielen",
+            "gekonnt, routiniert, anmutig, mit Gefühl spielen",
+            "sie spielt im Schulorchester, in einer Rockband",
+            "die Band spielt heute in Köln",
+            "das Orchester, die Musik begann zu spielen",
+            "zum Tanz spielen",
+            "〈in übertragener Bedeutung:〉 das Radio spielt (läuft) bei ihm den ganzen Tag"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "(eine Gestalt in einem Theaterstück, Film) schauspielerisch darstellenals Darsteller auftreten(ein Bühnenstück) aufführen, (einen Film) vorführendurch seine Leistung im Spiel (1d,  5a,  b) in einen bestimmten Rang aufsteigen",
+      "grammar": "sich spielen",
+      "examples": [
+        "eine kleine Rolle, die Hauptrolle [in einem Stück] spielen",
+        "den Hamlet [eindrucksvoll, überzeugend] spielen",
+        "〈auch ohne Akkusativ-Objekt:〉 die Hauptdarstellerin spielte manieriert, gut, eindringlich",
+        "jeden Abend spielen müssen",
+        "er spielt am Burgtheater (hat dort ein Engagement als Schauspieler)",
+        "eine Komödie, Oper spielen",
+        "das Staatstheater spielt heute Hamlet",
+        "das Kino spielt, im Kino spielen sie schon wieder „Casablanca“",
+        "was wird heute im Theater gespielt?",
+        "〈in übertragener Bedeutung:〉 (umgangssprachlich) was wird hier gespielt? (was geht hier vor sich?)",
+        "mit dieser Rolle hat er sich ganz nach vorn, in die erste Reihe gespielt",
+        "die Mannschaft hat sich an, in die Weltspitze gespielt"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "(eine Gestalt in einem Theaterstück, Film) schauspielerisch darstellen",
+          "grammar": "n/a",
+          "examples": [
+            "eine kleine Rolle, die Hauptrolle [in einem Stück] spielen",
+            "den Hamlet [eindrucksvoll, überzeugend] spielen",
+            "〈auch ohne Akkusativ-Objekt:〉 die Hauptdarstellerin spielte manieriert, gut, eindringlich"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "als Darsteller auftreten",
+          "grammar": "n/a",
+          "examples": [
+            "jeden Abend spielen müssen",
+            "er spielt am Burgtheater (hat dort ein Engagement als Schauspieler)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "(ein Bühnenstück) aufführen, (einen Film) vorführen",
+          "grammar": "n/a",
+          "examples": [
+            "eine Komödie, Oper spielen",
+            "das Staatstheater spielt heute Hamlet",
+            "das Kino spielt, im Kino spielen sie schon wieder „Casablanca“",
+            "was wird heute im Theater gespielt?",
+            "〈in übertragener Bedeutung:〉 (umgangssprachlich) was wird hier gespielt? (was geht hier vor sich?)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "durch seine Leistung im Spiel (1d,  5a,  b) in einen bestimmten Rang aufsteigen",
+          "grammar": "sich spielen",
+          "examples": [
+            "mit dieser Rolle hat er sich ganz nach vorn, in die erste Reihe gespielt",
+            "die Mannschaft hat sich an, in die Weltspitze gespielt"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "(von der Handlung eines literarischen Werks o. Ä.) sich irgendwann, irgendwo zutragen",
+      "grammar": "n/a",
+      "examples": [
+        "der Film, Roman spielt im 16. Jahrhundert, in Berlin, im Berlin der Zwanzigerjahre"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "etwas Bestimmtes zu sein vorgeben; vortäuschen, vorgebeneine bestimmte Rolle, Funktion übernehmen",
+      "grammar": "n/a",
+      "examples": [
+        "den Überlegenen spielen",
+        "sie spielt gerne die große Dame",
+        "〈häufig im 2. Partizip:〉 mit gespielter Gleichgültigkeit",
+        "gespieltes Interesse",
+        "könntest du nicht mal [den] Mundschenk, [die] Dolmetscherin spielen?",
+        "sie will nicht den ganzen Tag Hausfrau spielen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "etwas Bestimmtes zu sein vorgeben; vortäuschen, vorgeben",
+          "grammar": "n/a",
+          "examples": [
+            "den Überlegenen spielen",
+            "sie spielt gerne die große Dame",
+            "〈häufig im 2. Partizip:〉 mit gespielter Gleichgültigkeit",
+            "gespieltes Interesse"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "eine bestimmte Rolle, Funktion übernehmen",
+          "grammar": "n/a",
+          "examples": [
+            "könntest du nicht mal [den] Mundschenk, [die] Dolmetscherin spielen?",
+            "sie will nicht den ganzen Tag Hausfrau spielen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "leichtfertig, mit launenhafter Willkür mit jemandem, einer Sache umgehen",
+      "grammar": "n/a",
+      "examples": [
+        "mit jemandem, jemandes Gefühlen [nur] spielen",
+        "[leichtsinnig] mit seinem Leben spielen (sein Leben riskieren)",
+        "er spielt gern mit Worten (liebt Wortspiele)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "[sich] unregelmäßig, ohne bestimmten Zweck, leicht und daher wie spielerisch [hin und her] bewegenvon einem Farbton in einen anderen übergehen",
+      "grammar": "n/a",
+      "examples": [
+        "der Wind spielt in den Zweigen, in ihren Haaren",
+        "〈in übertragener Bedeutung:〉 ein Lächeln spielte um ihre Lippen (ein leichtes Lächeln war auf ihrem Gesicht zu sehen)",
+        "ihr Haar spielt [etwas] ins Rötliche",
+        "der Diamant spielt (glitzert) in allen Farben",
+        "ein ins Grünliche spielendes Gelb"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "[sich] unregelmäßig, ohne bestimmten Zweck, leicht und daher wie spielerisch [hin und her] bewegen",
+          "grammar": "n/a",
+          "examples": [
+            "der Wind spielt in den Zweigen, in ihren Haaren",
+            "〈in übertragener Bedeutung:〉 ein Lächeln spielte um ihre Lippen (ein leichtes Lächeln war auf ihrem Gesicht zu sehen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "von einem Farbton in einen anderen übergehen",
+          "grammar": "n/a",
+          "examples": [
+            "ihr Haar spielt [etwas] ins Rötliche",
+            "der Diamant spielt (glitzert) in allen Farben",
+            "ein ins Grünliche spielendes Gelb"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "heimlich irgendwohin gelangen lassen; jemandem unauffällig zuspielen (2)",
+      "grammar": "n/a",
+      "examples": [
+        "jemandem etwas in die Hände spielen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "",
+      "grammar": "n/a",
+      "idioms": [
+        "etwas spielen lassen/spielenlassen (etwas für eine bestimmte Wirkung einsetzen, wirksam werden lassen: seine Beziehungen, Verbindungen spielen lassen; sie ließ ihren Charme, ihre Reize spielen; lass doch mal deine Fantasie spielen!)",
+        "sich mit etwas spielen (süddeutsch, österreichisch:  1. etwas nicht ernsthaft betreiben.  2. etwas mühelos bewältigen.)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "funktionieren, wirksam werden",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "besonders schweizerisch"
+      }
+    },
+    {
+      "text": "übertragen, überspielen",
+      "grammar": "n/a",
+      "examples": [
+        "Daten auf eine externe Festplatte spielen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "ein Spiel machen"
+    },
+    {
+      "text": "in ein Spiel vertieft sein"
+    },
+    {
+      "text": "sich mit Spielen beschäftigen"
+    },
+    {
+      "text": "fingern",
+      "link": "/rechtschreibung/fingern"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "sp{ie}len",
+      "phonetic": "[ˈʃpiːlən]",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4115002_15511587.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "spiln,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "spilōn,"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "sich"
+    },
+    {
+      "word": "lebhaft"
+    },
+    {
+      "word": "bewegen,"
+    },
+    {
+      "word": "tanzen"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

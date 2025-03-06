@@ -1,0 +1,547 @@
+{
+  "word": "laufen",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "high",
+  "grammar": "No data",
+  "meanings": [
+    {
+      "text": "sich in aufrechter Haltung auf den Füßen in schnellerem Tempo so fortbewegen, dass sich jeweils schrittweise für einen kurzen Augenblick beide Sohlen vom Boden lösen\n                gehen (1)\n              zu Fuß gehendie Fähigkeit haben, sich auf den Beinen gehend fortzubewegenbeim Laufen (1a,  b) an, gegen etwas geraten, stoßen(von bestimmten Tieren) sich [schnell, flink] fortbewegen",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "er musste laufen, um den Bus noch zu bekommen",
+        "immer schneller laufen",
+        "auf die Straße, aus dem Haus, ins Freie, über das Feld, um die Ecke laufen",
+        "er lief wie der Blitz, wie ein Wiesel",
+        "grübelnd im Zimmer auf und ab, hin und her laufen",
+        "[schnell einmal] zum Supermarkt, zur Post laufen",
+        "auf Strümpfen, an Stöcken laufen",
+        "das kleine Stück können wir doch laufen",
+        "wir sind im Urlaub viel gelaufen",
+        "von der Haltestelle aus sind es noch fünf Minuten zu laufen",
+        "das Kind läuft schon, läuft noch etwas unsicher",
+        "in der Dunkelheit lief er gegen den Zaun",
+        "der Mann lief in ein Auto",
+        "Tausende von Ameisen liefen über den Weg",
+        "ein Reh lief mir in die Fahrbahn"
+      ],
+      "idioms": [
+        "jemanden laufen lassen (umgangssprachlich:  jemanden freilassen, freigeben: wir haben die Täter laufen lassen/[seltener:] gelassen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich in aufrechter Haltung auf den Füßen in schnellerem Tempo so fortbewegen, dass sich jeweils schrittweise für einen kurzen Augenblick beide Sohlen vom Boden lösen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "er musste laufen, um den Bus noch zu bekommen",
+            "immer schneller laufen",
+            "auf die Straße, aus dem Haus, ins Freie, über das Feld, um die Ecke laufen",
+            "er lief wie der Blitz, wie ein Wiesel"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "gehen (1)",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "grübelnd im Zimmer auf und ab, hin und her laufen",
+            "[schnell einmal] zum Supermarkt, zur Post laufen",
+            "auf Strümpfen, an Stöcken laufen"
+          ],
+          "idioms": [
+            "jemanden laufen lassen (umgangssprachlich:  jemanden freilassen, freigeben: wir haben die Täter laufen lassen/[seltener:] gelassen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        },
+        {
+          "text": "zu Fuß gehen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "das kleine Stück können wir doch laufen",
+            "wir sind im Urlaub viel gelaufen",
+            "von der Haltestelle aus sind es noch fünf Minuten zu laufen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "die Fähigkeit haben, sich auf den Beinen gehend fortzubewegen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "das Kind läuft schon, läuft noch etwas unsicher"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "beim Laufen (1a,  b) an, gegen etwas geraten, stoßen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "in der Dunkelheit lief er gegen den Zaun",
+            "der Mann lief in ein Auto"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "(von bestimmten Tieren) sich [schnell, flink] fortbewegen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "Tausende von Ameisen liefen über den Weg",
+            "ein Reh lief mir in die Fahrbahn"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "eine bestimmte Strecke gehend zurücklegen",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "wir sind 20 km, einen Umweg gelaufen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "sich durch Laufen in einen bestimmten Zustand versetzendurch Laufen etwas, einen bestimmten Körperteil in einen bestimmten Zustand versetzen[unter bestimmten Umständen] in bestimmter Weise gehen (1) können",
+      "grammar": "sich laufen; Perfektbildung mit „hat“; unpersönlich",
+      "examples": [
+        "sich müde, außer Atem laufen",
+        "sich eine Blase, sich die Füße wund, sich ein Loch in die Schuhsohle laufen",
+        "in diesen Schuhen läuft es sich bequemer",
+        "über diesen Schotter, bei/in dieser Kälte läuft es sich schlecht"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich durch Laufen in einen bestimmten Zustand versetzen",
+          "grammar": "sich laufen; hat",
+          "examples": [
+            "sich müde, außer Atem laufen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "durch Laufen etwas, einen bestimmten Körperteil in einen bestimmten Zustand versetzen",
+          "grammar": "sich laufen; hat",
+          "examples": [
+            "sich eine Blase, sich die Füße wund, sich ein Loch in die Schuhsohle laufen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "[unter bestimmten Umständen] in bestimmter Weise gehen (1) können",
+          "grammar": "sich laufen; Perfektbildung mit „hat“; unpersönlich",
+          "examples": [
+            "in diesen Schuhen läuft es sich bequemer",
+            "über diesen Schotter, bei/in dieser Kälte läuft es sich schlecht"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "sich ständig [aus Gewohnheit] irgendwohin begeben",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "er läuft dauernd ins Kino, wegen jeder Kleinigkeit zum Arzt"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich; meist leicht abwertend"
+      }
+    },
+    {
+      "text": "an einem Laufwettbewerb, Rennen teilnehmenin einem sportlichen Wettbewerb, Rennen als Läufer eine bestimmte Zeit erzielen, erreichenin einem sportlichen Wettbewerb eine bestimmte Strecke zurücklegensich unter bestimmten Umständen, in bestimmter Weise als Läufer betätigen",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "sie läuft für Italien",
+        "die besten Pferde sind gestern schon gelaufen",
+        "einen Rekord, neue Bestzeit mit 58,1 Sekunden laufen",
+        "einige Runden, 800 m laufen",
+        "noch nie sind die Eiskunstläufer vor so vollen Tribünen gelaufen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "an einem Laufwettbewerb, Rennen teilnehmen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "sie läuft für Italien",
+            "die besten Pferde sind gestern schon gelaufen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "in einem sportlichen Wettbewerb, Rennen als Läufer eine bestimmte Zeit erzielen, erreichen",
+          "grammar": "Perfektbildung mit „hat“ oder „ist“",
+          "examples": [
+            "einen Rekord, neue Bestzeit mit 58,1 Sekunden laufen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "in einem sportlichen Wettbewerb eine bestimmte Strecke zurücklegen",
+          "grammar": "Perfektbildung mit „hat“",
+          "examples": [
+            "einige Runden, 800 m laufen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich unter bestimmten Umständen, in bestimmter Weise als Läufer betätigen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "noch nie sind die Eiskunstläufer vor so vollen Tribünen gelaufen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "die Fähigkeit haben, sich mit einem an den Füßen befestigten Sportgerät fortzubewegensich auf einem an den Füßen befestigten Sportgerät fortbewegen",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "läufst du Rollschuh?",
+        "ich bin/(seltener:) habe früher Schlittschuh gelaufen",
+        "ich werde morgen Ski laufen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "die Fähigkeit haben, sich mit einem an den Füßen befestigten Sportgerät fortzubewegen",
+          "grammar": "Perfektbildung mit „ist“ oder „hat“",
+          "examples": [
+            "läufst du Rollschuh?",
+            "ich bin/(seltener:) habe früher Schlittschuh gelaufen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich auf einem an den Füßen befestigten Sportgerät fortbewegen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "ich werde morgen Ski laufen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "in Gang, in Betrieb seinsich [gleichmäßig, gleitend] durch, über, um etwas bewegen",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "die Uhr läuft",
+        "den Motor laufen lassen",
+        "die Maschine läuft ruhig, laut, nicht richtig",
+        "der CD-Spieler, der Fernseher läuft",
+        "der Film, die Show läuft schon seit zehn Minuten (hat schon vor zehn Minuten begonnen)",
+        "Ruhe, Kamera läuft!",
+        "endlich lief (funktionierte) der Apparat wieder",
+        "(EDV) die Anwendung läuft nicht auf mobilen Geräten, nicht unter diesem Betriebssystem",
+        "der Kran läuft auf Schienen",
+        "das Seil läuft über Rollen",
+        "der Faden läuft (wickelt sich) auf die Spule",
+        "die Erde läuft (dreht sich) um die Sonne",
+        "1,27 Millionen Fahrzeuge liefen von den Fließbändern (wurden auf den Fließbändern hergestellt, produziert)",
+        "die Masche läuft (löst sich)",
+        "〈in übertragener Bedeutung:〉 ein Raunen lief durch die Menge, über die Ränge",
+        "〈in übertragener Bedeutung; unpersönlich:〉[vor Grauen] lief es mir eiskalt über den Rücken"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "in Gang, in Betrieb sein",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "die Uhr läuft",
+            "den Motor laufen lassen",
+            "die Maschine läuft ruhig, laut, nicht richtig",
+            "der CD-Spieler, der Fernseher läuft",
+            "der Film, die Show läuft schon seit zehn Minuten (hat schon vor zehn Minuten begonnen)",
+            "Ruhe, Kamera läuft!",
+            "endlich lief (funktionierte) der Apparat wieder",
+            "(EDV) die Anwendung läuft nicht auf mobilen Geräten, nicht unter diesem Betriebssystem"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich [gleichmäßig, gleitend] durch, über, um etwas bewegen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "der Kran läuft auf Schienen",
+            "das Seil läuft über Rollen",
+            "der Faden läuft (wickelt sich) auf die Spule",
+            "die Erde läuft (dreht sich) um die Sonne",
+            "1,27 Millionen Fahrzeuge liefen von den Fließbändern (wurden auf den Fließbändern hergestellt, produziert)",
+            "die Masche läuft (löst sich)",
+            "〈in übertragener Bedeutung:〉 ein Raunen lief durch die Menge, über die Ränge",
+            "〈in übertragener Bedeutung; unpersönlich:〉[vor Grauen] lief es mir eiskalt über den Rücken"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "fahren (1a)",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "der Zug läuft (verkehrt) zwischen Stuttgart und München",
+        "die Schiffe laufen auf neuem Kurs",
+        "der Frachter ist auf Grund gelaufen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "gelegentlich Fachsprache"
+      }
+    },
+    {
+      "text": "fließen\n              Wasser, Flüssigkeit austreten, ausfließen lassen",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "das Wasser läuft (fließt aus der Leitung)",
+        "dem Kind liefen die Tränen übers Gesicht",
+        "das Wasser läuft in die Wanne",
+        "der Schweiß, das Blut lief ihm [in Strömen] über das Gesicht",
+        "(umgangssprachlich) der Käse läuft (ist weich und beginnt zu zerlaufen)",
+        "das Fass läuft (ist undicht)",
+        "ihr lief (tropfte ständig) die Nase",
+        "sein rechtes Ohr läuft (sondert Flüssigkeit ab, eitert)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "fließen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "das Wasser läuft (fließt aus der Leitung)",
+            "dem Kind liefen die Tränen übers Gesicht",
+            "das Wasser läuft in die Wanne",
+            "der Schweiß, das Blut lief ihm [in Strömen] über das Gesicht",
+            "(umgangssprachlich) der Käse läuft (ist weich und beginnt zu zerlaufen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "Wasser, Flüssigkeit austreten, ausfließen lassen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "das Fass läuft (ist undicht)",
+            "ihr lief (tropfte ständig) die Nase",
+            "sein rechtes Ohr läuft (sondert Flüssigkeit ab, eitert)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "sich in bestimmter Richtung erstrecken; in bestimmter Richtung verlaufen",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "die Straße läuft (führt) am Fluss entlang, geradeaus",
+        "die Narbe läuft quer über das Gesicht",
+        "eine niedrige Bank läuft um den Ofen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "[in bestimmter Weise] vor sich gehen, vonstattengehen, verlaufeneingeleitet, aber nicht abgeschlossen oder entschieden sein",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "alles, der Ausflug läuft wie geplant, nach Wunsch",
+        "die Sache kann so oder so laufen",
+        "ich möchte wissen, wie die Verhandlung gelaufen ist",
+        "(umgangssprachlich) er lässt einfach alles laufen (kümmert sich um nichts)",
+        "ich möchte wissen, was hier läuft",
+        "〈unpersönlich:〉 (umgangssprachlich) er hat schon einmal so einen Job gehabt und weiß, wie es läuft (wie man es macht)",
+        "wie läufts?",
+        "die Ermittlungen laufen",
+        "der Antrag, das Gesuch, die Bewerbung läuft (ist eingereicht und wird bearbeitet)",
+        "die Verhandlungen über die Finanzierung des Projekts laufen noch (dauern noch an)",
+        "gegen ihn läuft eine Anzeige, ein Verfahren"
+      ],
+      "idioms": [
+        "gelaufen sein (umgangssprachlich:  vorbei, abgeschlossen sein; nicht mehr zu ändern sein: um 19 Uhr ist alles gelaufen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "[in bestimmter Weise] vor sich gehen, vonstattengehen, verlaufen",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "alles, der Ausflug läuft wie geplant, nach Wunsch",
+            "die Sache kann so oder so laufen",
+            "ich möchte wissen, wie die Verhandlung gelaufen ist",
+            "(umgangssprachlich) er lässt einfach alles laufen (kümmert sich um nichts)",
+            "ich möchte wissen, was hier läuft",
+            "〈unpersönlich:〉 (umgangssprachlich) er hat schon einmal so einen Job gehabt und weiß, wie es läuft (wie man es macht)",
+            "wie läufts?"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "eingeleitet, aber nicht abgeschlossen oder entschieden sein",
+          "grammar": "Perfektbildung mit „ist“",
+          "examples": [
+            "die Ermittlungen laufen",
+            "der Antrag, das Gesuch, die Bewerbung läuft (ist eingereicht und wird bearbeitet)",
+            "die Verhandlungen über die Finanzierung des Projekts laufen noch (dauern noch an)",
+            "gegen ihn läuft eine Anzeige, ein Verfahren"
+          ],
+          "idioms": [
+            "gelaufen sein (umgangssprachlich:  vorbei, abgeschlossen sein; nicht mehr zu ändern sein: um 19 Uhr ist alles gelaufen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "Gültigkeit haben; wirksam sein",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "das Abkommen, der Bausparvertrag läuft nur noch bis zum Jahresende",
+        "wie lange läuft der Pass noch?"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "in einer Kartei o. Ä. geführt, registriert, festgehalten sein",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "das Auto, Konto, Projekt läuft auf meinen Namen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "programmgemäß vorgeführt, dargeboten, ausgestrahlt werden",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "in welchem Kino läuft der Film?",
+        "was läuft eigentlich im Fernsehen, Theater?",
+        "die Sendung lief im dritten Hörfunkprogramm",
+        "(umgangssprachlich) die Show ist gestern über den Bildschirm gelaufen (wurde gestern im Fernsehen gezeigt)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "sich günstig entwickeln",
+      "grammar": "Perfektbildung mit „ist“",
+      "examples": [
+        "der Laden läuft",
+        "das Buch, die CD läuft [sehr gut] (ist [sehr] gut verkäuflich)",
+        "in der Schule lief es nicht so recht (der Lernerfolg blieb aus)",
+        "er hat [da] was am Laufen (verfolgt eine aussichtsreiche Sache)",
+        "sie hatte mit ihm was am Laufen (eine [sexuelle] Beziehung)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "eilen",
+      "link": "/rechtschreibung/eilen"
+    },
+    {
+      "text": "fegen",
+      "link": "/rechtschreibung/fegen"
+    },
+    {
+      "text": "hetzen",
+      "link": "/rechtschreibung/hetzen"
+    },
+    {
+      "text": "jagen",
+      "link": "/rechtschreibung/jagen"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "l{au}fen",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4112735_317481101.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "loufen,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "(h)louf(f)an,"
+    },
+    {
+      "word": "wahrscheinlich"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "(im"
+    },
+    {
+      "word": "Kreise)"
+    },
+    {
+      "word": "hüpfen,"
+    },
+    {
+      "word": "tanzen"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

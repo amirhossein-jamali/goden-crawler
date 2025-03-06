@@ -1,0 +1,318 @@
+{
+  "word": "schön",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "high",
+  "grammar": "No data",
+  "meanings": [
+    {
+      "text": "von einem Aussehen, das so anziehend auf jemanden wirkt, dass es als wohlgefällig, bewundernswert empfunden wirdin seiner Art besonders reizvoll, ansprechend, sehr angenehm oder wohltuend auf das Auge oder Ohr wirkendvon einer Art, die jemandem sehr gut gefällt, die jemandes Geschmack entsprichtin einer Weise verlaufend, die angenehme Gefühle auslöst\n                gut (1a)",
+      "grammar": "n/a",
+      "examples": [
+        "ein schöner Mann",
+        "schöne Frauen",
+        "schöne Haare, Augen, Hände, Beine",
+        "(scherzhaft als Anrede im vertraulichen Ton) schöne Frau, was wünschen Sie?",
+        "sich für jemanden, für das Fest schön machen (mit der Absicht, sich ein besonders angenehmes, reizvolles Aussehen zu verleihen, sorgfältig Gesichts- und Körperpflege betreiben und sich gut, hübsch anziehen)",
+        "〈substantiviert:〉 er hat [einen ausgeprägten] Sinn für das Schöne",
+        "sie war die Schönste von allen",
+        "schöne Farben, Kleider, Weingläser",
+        "ein schöner Anblick",
+        "eine schöne Stadt",
+        "etwas ist schön anzusehen, sieht schön aus",
+        "die Blumen sind sehr schön",
+        "er hat sehr schön Orgel gespielt",
+        "sie hat eine schöne Wohnung, Schrift",
+        "das sind nichts als schöne (ironisch; leere, schmeichlerische) Worte",
+        "ein Bild, Buch schön finden",
+        "〈substantiviert:〉 jemandem etwas Schönes schenken",
+        "wir haben einen schönen Urlaub verlebt",
+        "das war eine schöne Zeit",
+        "er hatte einen schönen Tod (er ist ohne Qualen, längere Krankheit gestorben)",
+        "(in Höflichkeitsformeln) ich wünsche Ihnen ein schönes Wochenende",
+        "schöne Ferien!",
+        "schön, dass du da bist!",
+        "das Wetter ist anhaltend schön (sonnig und klar)",
+        "(umgangssprachlich) was hier passiert, das ist nicht mehr schön (übersteigt das erträgliche Maß)",
+        "das war alles nicht sehr schön für sie",
+        "ich hatte mir alles so schön gedacht, aber es ist leider nichts daraus geworden",
+        "〈substantiviert:〉 ich kann mir was Schöneres vorstellen, als bei dem Wetter im Auto zu sitzen",
+        "das riecht, schmeckt schön"
+      ],
+      "idioms": [
+        "das ist [doch] zu schön, um wahr zu sein"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "von einem Aussehen, das so anziehend auf jemanden wirkt, dass es als wohlgefällig, bewundernswert empfunden wird",
+          "grammar": "n/a",
+          "examples": [
+            "ein schöner Mann",
+            "schöne Frauen",
+            "schöne Haare, Augen, Hände, Beine",
+            "(scherzhaft als Anrede im vertraulichen Ton) schöne Frau, was wünschen Sie?",
+            "sich für jemanden, für das Fest schön machen (mit der Absicht, sich ein besonders angenehmes, reizvolles Aussehen zu verleihen, sorgfältig Gesichts- und Körperpflege betreiben und sich gut, hübsch anziehen)",
+            "〈substantiviert:〉 er hat [einen ausgeprägten] Sinn für das Schöne",
+            "sie war die Schönste von allen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "in seiner Art besonders reizvoll, ansprechend, sehr angenehm oder wohltuend auf das Auge oder Ohr wirkend",
+          "grammar": "n/a",
+          "examples": [
+            "schöne Farben, Kleider, Weingläser",
+            "ein schöner Anblick",
+            "eine schöne Stadt",
+            "etwas ist schön anzusehen, sieht schön aus",
+            "die Blumen sind sehr schön",
+            "er hat sehr schön Orgel gespielt"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "von einer Art, die jemandem sehr gut gefällt, die jemandes Geschmack entspricht",
+          "grammar": "n/a",
+          "examples": [
+            "sie hat eine schöne Wohnung, Schrift",
+            "das sind nichts als schöne (ironisch; leere, schmeichlerische) Worte",
+            "ein Bild, Buch schön finden",
+            "〈substantiviert:〉 jemandem etwas Schönes schenken"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "in einer Weise verlaufend, die angenehme Gefühle auslöst",
+          "grammar": "n/a",
+          "examples": [
+            "wir haben einen schönen Urlaub verlebt",
+            "das war eine schöne Zeit",
+            "er hatte einen schönen Tod (er ist ohne Qualen, längere Krankheit gestorben)",
+            "(in Höflichkeitsformeln) ich wünsche Ihnen ein schönes Wochenende",
+            "schöne Ferien!",
+            "schön, dass du da bist!",
+            "das Wetter ist anhaltend schön (sonnig und klar)",
+            "(umgangssprachlich) was hier passiert, das ist nicht mehr schön (übersteigt das erträgliche Maß)",
+            "das war alles nicht sehr schön für sie",
+            "ich hatte mir alles so schön gedacht, aber es ist leider nichts daraus geworden",
+            "〈substantiviert:〉 ich kann mir was Schöneres vorstellen, als bei dem Wetter im Auto zu sitzen"
+          ],
+          "idioms": [
+            "das ist [doch] zu schön, um wahr zu sein"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "gut (1a)",
+          "grammar": "n/a",
+          "examples": [
+            "das riecht, schmeckt schön"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "besonders norddeutsch"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "besonders norddeutsch"
+      }
+    },
+    {
+      "text": "von einer Art, die Anerkennung verdient, die als positiv, erfreulich empfunden wirdso beschaffen, dass Lob durchaus angebracht ist",
+      "grammar": "n/a",
+      "examples": [
+        "das ist ein schöner Zug an, von ihr",
+        "das war nicht schön von dir",
+        "der Wein ist schön klar",
+        "er hat eine sehr schöne Arbeit geschrieben",
+        "was nützt das schönste (ein noch so gutes, das beste) Gesetz, wenn es jeder ungestraft missachten kann?",
+        "das hast du [aber] schön gemacht!"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "von einer Art, die Anerkennung verdient, die als positiv, erfreulich empfunden wird",
+          "grammar": "n/a",
+          "examples": [
+            "das ist ein schöner Zug an, von ihr",
+            "das war nicht schön von dir",
+            "der Wein ist schön klar"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "so beschaffen, dass Lob durchaus angebracht ist",
+          "grammar": "n/a",
+          "examples": [
+            "er hat eine sehr schöne Arbeit geschrieben",
+            "was nützt das schönste (ein noch so gutes, das beste) Gesetz, wenn es jeder ungestraft missachten kann?",
+            "das hast du [aber] schön gemacht!"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "verblasst in Höflichkeitsformeln",
+      "grammar": "n/a",
+      "examples": [
+        "[recht] schöne Grüße an Ihren Mann",
+        "haben Sie recht schönen Dank",
+        "danke schön, bitte schön"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "verblasst als Ausdruck des Einverständnisses",
+      "grammar": "n/a",
+      "examples": [
+        "[also, na] schön!",
+        "das ist ja alles schön und gut (umgangssprachlich; zwar in Ordnung), aber trotzdem muss ich auch Bedenken anmelden"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "(in Verbindung mit „so“) verblasst als Ausdruck kritischer oder ironischer Distanz",
+      "grammar": "n/a",
+      "examples": [
+        "diese Partei steht, wie es so schön heißt, auf dem Boden der Verfassung"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "wie es gewünscht, erwartet wird, wie es angebracht ist",
+      "grammar": "als verstärkende Partikel besonders in Aufforderungssätzen",
+      "examples": [
+        "schön der Reihe nach!",
+        "seid schön vorsichtig, still, brav!",
+        "passt schön auf!"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "im Hinblick auf Anzahl, Menge, Ausmaß beträchtlich",
+      "grammar": "n/a",
+      "examples": [
+        "einen schönen Schrecken bekommen",
+        "du bist ein ganz schöner Angeber, Angsthase",
+        "sie hat ein schönes (hohes) Alter erreicht",
+        "das ist eine [ganz] schöne Leistung, Menge",
+        "das war ganz schön blöd, leichtsinnig von ihm",
+        "wir mussten uns ganz schön anstrengen, beeilen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "wenig erfreulich, zu Unmut, Verärgerung Anlass gebend",
+      "grammar": "n/a",
+      "examples": [
+        "das sind ja schöne Aussichten",
+        "das war ein schöner Reinfall",
+        "schöne Scheiße!",
+        "〈substantiviert:〉 da hast du etwas Schönes angerichtet!"
+      ],
+      "idioms": [
+        "das wäre ja noch schöner! (das ist ja unerhört!; das kommt gar nicht infrage!)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich ironisch"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "anziehend",
+      "link": "/rechtschreibung/anziehend"
+    },
+    {
+      "text": "attraktiv",
+      "link": "/rechtschreibung/attraktiv"
+    },
+    {
+      "text": "bewundernswert",
+      "link": "/rechtschreibung/bewundernswert"
+    },
+    {
+      "text": "bezaubernd",
+      "link": "/rechtschreibung/bezaubernd"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "sch{ö}n",
+      "phonetic": "[ʃøːn]",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4111250_365196020.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "schœne,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "scōni,"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "ansehnlich;"
+    },
+    {
+      "word": "was"
+    },
+    {
+      "word": "gesehen"
+    },
+    {
+      "word": "wird,"
+    },
+    {
+      "word": "verwandt"
+    },
+    {
+      "word": "mit"
+    },
+    {
+      "word": "schauen",
+      "link": "/rechtschreibung/schauen"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "word": "Vogel",
+  "article": "der",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "der Vogel; Genitiv: des Vogels, Plural: die Vögel",
+  "meanings": [
+    {
+      "text": "zweibeiniges Wirbeltier mit einem Schnabel, zwei Flügeln und einem mit Federn bedeckten Körper, das im Allgemeinen fliegen kann",
+      "grammar": "n/a",
+      "examples": [
+        "ein kleiner, großer, bunter, zahmer, exotischer Vogel",
+        "(verdeutlichend) der Vogel Strauß (der Strauß)",
+        "der Vogel fliegt, flattert, hüpft, singt, zwitschert, wird flügge, nistet, brütet, mausert sich, schwingt sich in die Lüfte",
+        "jemandem ist ein Vogel zugeflogen",
+        "die Vögel ziehen im Herbst in den Süden",
+        "einen Vogel fangen",
+        "Vögel füttern",
+        "der Vogel (umgangssprachlich scherzhaft; die Gans, Ente o. Ä.) brutzelt schon im Ofen"
+      ],
+      "idioms": [
+        "[mit etwas] den Vogel abschießen (umgangssprachlich:  alles, was sonst noch von andern geboten, vorgewiesen wird, übertreffen; mit Bezug auf das Vogelschießen)",
+        "einen Vogel haben (salopp:  nicht recht bei Verstand sein; seltsame Ideen haben)",
+        "jemandem den/einen Vogel zeigen (sich an die Stirn tippen und damit jemandem zu verstehen geben, dass er nicht recht bei Verstand sei)",
+        "friss, Vogel, oder stirb! (umgangssprachlich:  es bleibt keine andere Wahl; ein gefangener Vogel muss, um nicht zu verhungern, das fressen, was er vorgesetzt bekommt)",
+        "der Vogel ist ausgeflogen (umgangssprachlich:  jemand hat sich davongemacht, ist dort, wo er gesucht wird, nicht anzutreffen)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/V/Vogel-201100282866.jpg",
+      "image_caption": "© Christiane Gottschlich, Berlin"
+    },
+    {
+      "text": "durch seine Art auffallender Mensch",
+      "grammar": "n/a",
+      "examples": [
+        "ein lustiger, lockerer, komischer, seltsamer, schräger, linker Vogel",
+        "ein seltener Vogel (ein seltsamer, eigentümlicher Mensch)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "salopp, oft scherzhaft"
+      }
+    },
+    {
+      "text": "Flugzeug",
+      "grammar": "n/a",
+      "examples": [
+        "der Vogel hebt ab, setzt auf, schmiert ab",
+        "der Pilot riss den Vogel wieder hoch"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/V/Vogel-201100282863.jpg",
+      "image_caption": "© MEV Verlag, Augsburg",
+      "tuple_info": {
+        "Gebrauch": "Fliegersprache"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "(Kindersprache) Piepmatz"
+    },
+    {
+      "text": "Piepvogel",
+      "link": "/rechtschreibung/Piepvogel"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "V{o}gel",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4109800_153129288.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "vogel,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "fogal,"
+    },
+    {
+      "word": "Herkunft"
+    },
+    {
+      "word": "ungeklärt,"
+    },
+    {
+      "word": "vielleicht"
+    },
+    {
+      "word": "zu"
+    },
+    {
+      "word": "fliegen",
+      "link": "/rechtschreibung/fliegen"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

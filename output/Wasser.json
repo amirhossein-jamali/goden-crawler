@@ -1,0 +1,306 @@
+{
+  "word": "Wasser",
+  "article": "das",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "high",
+  "grammar": "das Wasser; Genitiv: des Wassers, Plural: die Wasser und Wässer",
+  "meanings": [
+    {
+      "text": "([hauptsächlich] aus einer Wasserstoff-Sauerstoff-Verbindung bestehende) durchsichtige, weitgehend farblose, geruchlose und geschmacklose Flüssigkeit, die bei 0 °C gefriert und bei 100 °C siedetWasser (1a) eines Gewässers; ein Gewässer bildendes Wasser (1a)",
+      "grammar": "Plural: Wasser",
+      "examples": [
+        "klares, sauberes, frisches, abgestandenes, kaltes, lauwarmes, schmutziges, gechlortes, trübes, kalkhaltiges, hartes, weiches, enthärtetes Wasser",
+        "geweihtes Wasser",
+        "Wasser zum Waschen",
+        "ein Glas, ein Eimer Wasser",
+        "ein Tropfen, ein Liter Wasser",
+        "ein Zimmer mit fließendem Wasser",
+        "Wasser mit Geschmack (landschaftlich; Limonade)",
+        "stilles Wasser (Mineralwasser ohne, mit wenig Kohlensäure)",
+        "schweres Wasser (Chemie; Wasser, das statt des gewöhnlichen Wasserstoffs schweren Wasserstoff, Deuterium, enthält)",
+        "Wasser verdunstet, verdampft, gefriert",
+        "das Wasser kocht, siedet",
+        "das Wasser tropft, rinnt, fließt, sprudelt, spritzt [aus dem Hahn]",
+        "Wasser holen, schöpfen, filtern, aufbereiten, destillieren",
+        "Wasser [für den Kaffee] aufsetzen",
+        "Wasser in die Badewanne einlaufen lassen",
+        "Wasser trinken",
+        "er hat beim Schwimmen Wasser geschluckt",
+        "eine Wasser abweisende, abstoßende Imprägnierung",
+        "eine Wasser führende Schicht",
+        "das [heiße, kalte] Wasser (den Hahn für [heißes, kaltes] Wasser) aufdrehen, abdrehen",
+        "die Blumen ins Wasser (in eine Vase mit Wasser) stellen",
+        "der Keller steht unter Wasser (im Keller steht Wasser)",
+        "etwas unter Wasser setzen (überschwemmen, überfluten)",
+        "auflaufendes, ablaufendes Wasser",
+        "das Wasser ist sehr tief",
+        "das Wasser steht, strömt, rauscht, plätschert, steigt, tritt über die Ufer, überschwemmt das Land",
+        "das Wasser des Bachs treibt eine Mühle",
+        "das Wasser trägt [nicht]",
+        "im Sommer führt der Fluss wenig Wasser",
+        "das Haus steht direkt am Wasser (steht am Ufer, am Strand)",
+        "etwas schwimmt, treibt auf dem Wasser",
+        "der Transport auf dem Wasser (mit Schiffen)",
+        "ins Wasser fallen",
+        "diese Tiere leben im Wasser",
+        "die Kinder planschten im Wasser",
+        "bist du heute schon im Wasser gewesen? (hast du schon gebadet, geschwommen?)",
+        "er konnte sich kaum über Wasser halten (drohte unterzugehen)",
+        "der Taucher blieb lange unter Wasser",
+        "die Boote wurden zu Wasser gelassen",
+        "man kann diesen Ort zu Wasser oder zu Land (auf dem Wasser oder auf dem Land fahrend) erreichen"
+      ],
+      "idioms": [
+        "Wasser in ein Sieb/mit einem Sieb schöpfen (sich mit etwas von vornherein Aussichtslosem, mit etwas Unmöglichem abmühen)",
+        "[jemandem] Wasser in den Wein gießen/schütten ([bei jemandem] die Begeisterung dämpfen)",
+        "jemandem nicht das Wasser reichen können (jemandem an Fähigkeiten, Leistungen nicht annähernd gleichkommen; im Mittelalter wurde vor den Mahlzeiten Wasser zur Reinigung der Hände herumgereicht; die Wendung meinte ursprünglich, dass jemand es nicht einmal wert sei, diese niedrige Tätigkeit auszuüben)",
+        "reinsten Wassers/von reinstem Wasser (1. von besonders klarem Glanz, besonderer Leuchtkraft: ein Diamant von reinstem Wasser; in der Fachsprache der Diamantenschleifer wird mit „erstes, zweites, drittes usw. Wasser“ der Reinheitsgrad der Diamanten bezeichnet.  2. von besonderer Ausprägung: ein Egoist reinsten Wassers.)",
+        "bei Wasser und Brot sitzen (veraltend:  im Gefängnis sein)",
+        "zu Wasser werden (sich nicht verwirklichen lassen und sich in nichts auflösen)",
+        "das wäscht kein Wasser ab (diese Schande o. Ä. ist durch nichts zu tilgen)",
+        "da wird auch nur mit Wasser gekocht, da kochen sie auch nur mit Wasser (sie vollbringen auch nichts Überdurchschnittliches; ursprünglich bezogen auf die [wirtschaftlichen] Verhältnisse ärmerer Leute, bei denen mit Wasser statt mit Wein, Fleischbrühe o. Ä. gekocht wurde)",
+        "Wasser marsch! (Kommando zum Inbetriebsetzen einer Feuerspritze, einer Wasserkanone o. Ä.)",
+        "das Wasser steht jemandem bis zum Hals/bis zur Kehle/bis an die Kehle (jemand steckt in Schulden, ist in großen Schwierigkeiten)",
+        "Wasser auf jemandes Mühlen sein (etwas sein, was jemandes Argumentation entgegenkommt, seine Ansicht unterstützt)",
+        "Wasser treten (1. sich durch schnelles Treten über Wasser halten.  2. in knöcheltiefem, kaltem Wasser umhergehen [als Heilverfahren].)",
+        "jemandem das Wasser abgraben (jemandes Existenzgrundlage gefährden, jemanden seiner Wirkungsmöglichkeiten berauben; wahrscheinlich ursprünglich auf den Betrieb der Wassermühle bezogen; wer den Wasserzulauf verändert – z. B. durch das Graben eines neuen Bachbettes –, sodass das Mühlrad nicht mehr oder mit weniger Kraft angetrieben wird, kann die Mühle stilllegen)",
+        "nah[e] am/ans Wasser gebaut haben/sein (umgangssprachlich:  leicht in Tränen ausbrechen; drückt aus, dass jemand den Tränen so nahe ist wie ein am Ufer gebautes Haus dem Wasser)",
+        "wie aus dem Wasser gezogen sein (umgangssprachlich:  völlig nass geschwitzt sein)",
+        "ins Wasser fallen (umgangssprachlich:  nicht stattfinden, nicht durchgeführt werden können: unsere Reise ist durch seine Krankheit leider ins Wasser gefallen)",
+        "ins Wasser gehen (verhüllend:  sich ertränken)",
+        "ins kalte Wasser springen, geworfen werden (umgangssprachlich:  es wagen, sich gezwungen sehen, eine Tätigkeit aufzunehmen, die einem völlig neu, unvertraut ist)",
+        "mit allen Wassern gewaschen sein (umgangssprachlich:  aufgrund bestimmter praktischer Erfahrungen sich nicht so leicht überrumpeln, überraschen lassen, sondern diese Erfahrungen schlau für seine Ziele ausnutzen; ursprünglich in Bezug auf Seeleute, die schon mit dem Wasser verschiedener Ozeane in Berührung gekommen waren, also weit gereist und daher sehr erfahren waren)",
+        "sich, (seltener:) jemanden über Wasser halten (durch etwas mühsam seine, jemandes Existenzgrundlage sichern: sich mit Gelegenheitsjobs über Wasser halten)",
+        "bis dahin fließt noch viel Wasser den Berg, den Bach, den Rhein o. Ä. hinunter (bis das eintritt, wird noch viel Zeit vergehen)",
+        "Wasser hat keine/(selten:) keinen Balken  (im Wasser kann man leicht umkommen)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/W/Wasser-201100283067.jpg",
+      "image_caption": "Wasser eines Baches - © MEV Verlag, Augsburg",
+      "sub_meanings": [
+        {
+          "text": "([hauptsächlich] aus einer Wasserstoff-Sauerstoff-Verbindung bestehende) durchsichtige, weitgehend farblose, geruchlose und geschmacklose Flüssigkeit, die bei 0 °C gefriert und bei 100 °C siedet",
+          "grammar": "Plural: Wässer, seltener auch: Wasser",
+          "examples": [
+            "klares, sauberes, frisches, abgestandenes, kaltes, lauwarmes, schmutziges, gechlortes, trübes, kalkhaltiges, hartes, weiches, enthärtetes Wasser",
+            "geweihtes Wasser",
+            "Wasser zum Waschen",
+            "ein Glas, ein Eimer Wasser",
+            "ein Tropfen, ein Liter Wasser",
+            "ein Zimmer mit fließendem Wasser",
+            "Wasser mit Geschmack (landschaftlich; Limonade)",
+            "stilles Wasser (Mineralwasser ohne, mit wenig Kohlensäure)",
+            "schweres Wasser (Chemie; Wasser, das statt des gewöhnlichen Wasserstoffs schweren Wasserstoff, Deuterium, enthält)",
+            "Wasser verdunstet, verdampft, gefriert",
+            "das Wasser kocht, siedet",
+            "das Wasser tropft, rinnt, fließt, sprudelt, spritzt [aus dem Hahn]",
+            "Wasser holen, schöpfen, filtern, aufbereiten, destillieren",
+            "Wasser [für den Kaffee] aufsetzen",
+            "Wasser in die Badewanne einlaufen lassen",
+            "Wasser trinken",
+            "er hat beim Schwimmen Wasser geschluckt",
+            "eine Wasser abweisende, abstoßende Imprägnierung",
+            "eine Wasser führende Schicht",
+            "das [heiße, kalte] Wasser (den Hahn für [heißes, kaltes] Wasser) aufdrehen, abdrehen",
+            "die Blumen ins Wasser (in eine Vase mit Wasser) stellen",
+            "der Keller steht unter Wasser (im Keller steht Wasser)",
+            "etwas unter Wasser setzen (überschwemmen, überfluten)"
+          ],
+          "idioms": [
+            "Wasser in ein Sieb/mit einem Sieb schöpfen (sich mit etwas von vornherein Aussichtslosem, mit etwas Unmöglichem abmühen)",
+            "[jemandem] Wasser in den Wein gießen/schütten ([bei jemandem] die Begeisterung dämpfen)",
+            "jemandem nicht das Wasser reichen können (jemandem an Fähigkeiten, Leistungen nicht annähernd gleichkommen; im Mittelalter wurde vor den Mahlzeiten Wasser zur Reinigung der Hände herumgereicht; die Wendung meinte ursprünglich, dass jemand es nicht einmal wert sei, diese niedrige Tätigkeit auszuüben)",
+            "reinsten Wassers/von reinstem Wasser (1. von besonders klarem Glanz, besonderer Leuchtkraft: ein Diamant von reinstem Wasser; in der Fachsprache der Diamantenschleifer wird mit „erstes, zweites, drittes usw. Wasser“ der Reinheitsgrad der Diamanten bezeichnet.  2. von besonderer Ausprägung: ein Egoist reinsten Wassers.)",
+            "bei Wasser und Brot sitzen (veraltend:  im Gefängnis sein)",
+            "zu Wasser werden (sich nicht verwirklichen lassen und sich in nichts auflösen)",
+            "das wäscht kein Wasser ab (diese Schande o. Ä. ist durch nichts zu tilgen)",
+            "da wird auch nur mit Wasser gekocht, da kochen sie auch nur mit Wasser (sie vollbringen auch nichts Überdurchschnittliches; ursprünglich bezogen auf die [wirtschaftlichen] Verhältnisse ärmerer Leute, bei denen mit Wasser statt mit Wein, Fleischbrühe o. Ä. gekocht wurde)",
+            "Wasser marsch! (Kommando zum Inbetriebsetzen einer Feuerspritze, einer Wasserkanone o. Ä.)"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/W/Wasser-201100283154.jpg",
+          "image_caption": "Wasser in einem Bottich - © Christiane Gottschlich, Berlin"
+        },
+        {
+          "text": "Wasser (1a) eines Gewässers; ein Gewässer bildendes Wasser (1a)",
+          "grammar": "Plural: Wasser",
+          "examples": [
+            "auflaufendes, ablaufendes Wasser",
+            "das Wasser ist sehr tief",
+            "das Wasser steht, strömt, rauscht, plätschert, steigt, tritt über die Ufer, überschwemmt das Land",
+            "das Wasser des Bachs treibt eine Mühle",
+            "das Wasser trägt [nicht]",
+            "im Sommer führt der Fluss wenig Wasser",
+            "das Haus steht direkt am Wasser (steht am Ufer, am Strand)",
+            "etwas schwimmt, treibt auf dem Wasser",
+            "der Transport auf dem Wasser (mit Schiffen)",
+            "ins Wasser fallen",
+            "diese Tiere leben im Wasser",
+            "die Kinder planschten im Wasser",
+            "bist du heute schon im Wasser gewesen? (hast du schon gebadet, geschwommen?)",
+            "er konnte sich kaum über Wasser halten (drohte unterzugehen)",
+            "der Taucher blieb lange unter Wasser",
+            "die Boote wurden zu Wasser gelassen",
+            "man kann diesen Ort zu Wasser oder zu Land (auf dem Wasser oder auf dem Land fahrend) erreichen"
+          ],
+          "idioms": [
+            "das Wasser steht jemandem bis zum Hals/bis zur Kehle/bis an die Kehle (jemand steckt in Schulden, ist in großen Schwierigkeiten)",
+            "Wasser auf jemandes Mühlen sein (etwas sein, was jemandes Argumentation entgegenkommt, seine Ansicht unterstützt)",
+            "Wasser treten (1. sich durch schnelles Treten über Wasser halten.  2. in knöcheltiefem, kaltem Wasser umhergehen [als Heilverfahren].)",
+            "jemandem das Wasser abgraben (jemandes Existenzgrundlage gefährden, jemanden seiner Wirkungsmöglichkeiten berauben; wahrscheinlich ursprünglich auf den Betrieb der Wassermühle bezogen; wer den Wasserzulauf verändert – z. B. durch das Graben eines neuen Bachbettes –, sodass das Mühlrad nicht mehr oder mit weniger Kraft angetrieben wird, kann die Mühle stilllegen)",
+            "nah[e] am/ans Wasser gebaut haben/sein (umgangssprachlich:  leicht in Tränen ausbrechen; drückt aus, dass jemand den Tränen so nahe ist wie ein am Ufer gebautes Haus dem Wasser)",
+            "wie aus dem Wasser gezogen sein (umgangssprachlich:  völlig nass geschwitzt sein)",
+            "ins Wasser fallen (umgangssprachlich:  nicht stattfinden, nicht durchgeführt werden können: unsere Reise ist durch seine Krankheit leider ins Wasser gefallen)",
+            "ins Wasser gehen (verhüllend:  sich ertränken)",
+            "ins kalte Wasser springen, geworfen werden (umgangssprachlich:  es wagen, sich gezwungen sehen, eine Tätigkeit aufzunehmen, die einem völlig neu, unvertraut ist)",
+            "mit allen Wassern gewaschen sein (umgangssprachlich:  aufgrund bestimmter praktischer Erfahrungen sich nicht so leicht überrumpeln, überraschen lassen, sondern diese Erfahrungen schlau für seine Ziele ausnutzen; ursprünglich in Bezug auf Seeleute, die schon mit dem Wasser verschiedener Ozeane in Berührung gekommen waren, also weit gereist und daher sehr erfahren waren)",
+            "sich, (seltener:) jemanden über Wasser halten (durch etwas mühsam seine, jemandes Existenzgrundlage sichern: sich mit Gelegenheitsjobs über Wasser halten)",
+            "bis dahin fließt noch viel Wasser den Berg, den Bach, den Rhein o. Ä. hinunter (bis das eintritt, wird noch viel Zeit vergehen)",
+            "Wasser hat keine/(selten:) keinen Balken  (im Wasser kann man leicht umkommen)"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/W/Wasser-201100283067.jpg",
+          "image_caption": "Wasser eines Baches - © MEV Verlag, Augsburg"
+        }
+      ]
+    },
+    {
+      "text": "Gewässer",
+      "grammar": "Plural: Wasser",
+      "examples": [
+        "ein tiefes, [langsam, schnell] fließendes Wasser"
+      ],
+      "idioms": [
+        "ein stilles Wasser sein (still, zurückhaltend in der Äußerung seiner Gefühle und Ansichten [und schwer zu durchschauen] sein)",
+        "stille Wasser sind/gründen tief (hinter stillen, ihre Gefühle und Ansichten nicht äußernden Menschen verbirgt sich mehr, als man denkt)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/W/Wasser-201100283073.jpg",
+      "image_caption": "Ein stehendes Wasser - © MEV Verlag, Augsburg"
+    },
+    {
+      "text": "[alkoholische] wässrige Flüssigkeit",
+      "grammar": "Plural: Wässer",
+      "examples": [
+        "wohlriechende, duftende Wässer",
+        "kölnisch[es] Wasser"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "wässrige Flüssigkeit, die sich im Körper bildet\n                Schweiß\n              \n                Urin\n              \n                Tränenflüssigkeit",
+      "grammar": "ohne Plural",
+      "examples": [
+        "Wasser (eine krankhafte Ansammlung von Gewebsflüssigkeit) [in den Beinen] haben",
+        "das Wasser lief ihm von der Stirn",
+        "das Wasser nicht halten können",
+        "(verhüllend) Wasser lassen (urinieren)"
+      ],
+      "idioms": [
+        "jemandem läuft das Wasser im Mund zusammen (umgangssprachlich:  jemand bekommt bei verlockend zubereitetem Essen sogleich Appetit)",
+        "sein Wasser/sich das Wasser abschlagen (salopp:  [von Männern] urinieren)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/W/Wasser-201100283070.jpg",
+      "image_caption": "Tropfen von Wasser auf der Haut - © unpict - Fotolia.com",
+      "sub_meanings": [
+        {
+          "text": "wässrige Flüssigkeit, die sich im Körper bildet",
+          "grammar": "ohne Plural",
+          "examples": [
+            "Wasser (eine krankhafte Ansammlung von Gewebsflüssigkeit) [in den Beinen] haben"
+          ],
+          "idioms": [
+            "jemandem läuft das Wasser im Mund zusammen (umgangssprachlich:  jemand bekommt bei verlockend zubereitetem Essen sogleich Appetit)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "Schweiß",
+          "grammar": "ohne Plural",
+          "examples": [
+            "das Wasser lief ihm von der Stirn"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/W/Wasser-201100283070.jpg",
+          "image_caption": "Tropfen von Wasser auf der Haut - © unpict - Fotolia.com",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        },
+        {
+          "text": "Urin",
+          "grammar": "ohne Plural",
+          "examples": [
+            "das Wasser nicht halten können",
+            "(verhüllend) Wasser lassen (urinieren)"
+          ],
+          "idioms": [
+            "sein Wasser/sich das Wasser abschlagen (salopp:  [von Männern] urinieren)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "verhüllend"
+          }
+        },
+        {
+          "text": "Tränenflüssigkeit",
+          "grammar": "ohne Plural",
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "verhüllend"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "Flüssigkeit",
+      "link": "/rechtschreibung/Fluessigkeit"
+    },
+    {
+      "text": "Trinkwasser; (gehoben) das nasse Element; (dichterisch) Nass"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "W(a)sser",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4116738_416640545.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "waʒʒer,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "waʒʒar,"
+    },
+    {
+      "word": "eigentlich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "das"
+    },
+    {
+      "word": "Feuchte,"
+    },
+    {
+      "word": "Fließende"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

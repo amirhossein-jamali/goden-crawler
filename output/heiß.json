@@ -1,0 +1,276 @@
+{
+  "word": "heiß",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "No data",
+  "meanings": [
+    {
+      "text": "sehr warm, von [relativ] hoher Temperatur",
+      "grammar": "n/a",
+      "examples": [
+        "heißes Wasser",
+        "heißer Tee",
+        "die heißen Länder (Länder mit hohen Durchschnittstemperaturen, tropische Länder)",
+        "eine heiße Gegend",
+        "heiße Hände haben",
+        "heiße Quellen",
+        "ein heißes Bad nehmen",
+        "heiße (in heißem Wasser gebrühte) Würstchen",
+        "Vorsicht, das Bügeleisen ist heiß!",
+        "der Tag war drückend heiß",
+        "die Suppe heiß machen",
+        "(familiär) das Kind ist ganz heiß (es fiebert)",
+        "die Achsen haben sich, sind heiß gelaufen",
+        "der Motor hatte sich heiß gelaufen (war [aufgrund von unzureichender Schmierung oder mangelnder Kühlung] durch Reibung heiß geworden)",
+        "〈substantiviert:〉 (umgangssprachlich) ein Paar Heiße (heiße Würstchen)",
+        "〈in übertragener Bedeutung:〉 (scherzhaft) heiß! (du bist nahe an der gesuchten Sache)"
+      ],
+      "idioms": [
+        "es überläuft jemanden heiß und kalt; es läuft jemandem heiß und kalt den Rücken hinunter (jemanden schaudert, jemand ist betroffen)",
+        "nicht heiß und nicht kalt/weder heiß noch kalt sein (in unbefriedigender Weise unentschieden, unzureichend sein)",
+        "dich haben sie wohl [als Kind] zu heiß gebadet! (salopp:  du hast wohl den Verstand verloren!)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "heftig, erbittert, hitzigmit großer Intensität empfunden; leidenschaftlich (3)",
+      "grammar": "n/a",
+      "examples": [
+        "ein heißer Kampf",
+        "eine heiße Debatte",
+        "eine heiß umstrittene Frage",
+        "die Stadt war heiß (erbittert) umkämpft",
+        "heiße Liebe",
+        "ihr heißester Wunsch ist eine Puppe",
+        "etwas heiß ersehnen",
+        "heiß begehrt, ersehnt, geliebt",
+        "heißen (umgangssprachlich verstärkend; besten) Dank",
+        "das Kind liebt seinen Teddybär heiß und innig (sehr, von Herzen)"
+      ],
+      "idioms": [
+        "heiß auf jemanden, etwas sein (umgangssprachlich:  wild: wir waren ganz heiß darauf, endlich wieder Fußball zu spielen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "heftig, erbittert, hitzig",
+          "grammar": "n/a",
+          "examples": [
+            "ein heißer Kampf",
+            "eine heiße Debatte",
+            "eine heiß umstrittene Frage",
+            "die Stadt war heiß (erbittert) umkämpft"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "mit großer Intensität empfunden; leidenschaftlich (3)",
+          "grammar": "n/a",
+          "examples": [
+            "heiße Liebe",
+            "ihr heißester Wunsch ist eine Puppe",
+            "etwas heiß ersehnen",
+            "heiß begehrt, ersehnt, geliebt",
+            "heißen (umgangssprachlich verstärkend; besten) Dank",
+            "das Kind liebt seinen Teddybär heiß und innig (sehr, von Herzen)"
+          ],
+          "idioms": [
+            "heiß auf jemanden, etwas sein (umgangssprachlich:  wild: wir waren ganz heiß darauf, endlich wieder Fußball zu spielen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "erregend, aufreizend, attraktiv",
+      "grammar": "n/a",
+      "examples": [
+        "heiße Musik",
+        "heiße Rhythmen",
+        "(umgangssprachlich) eine heiße Braut (attraktive Frau)",
+        "ein heißer Typ"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "gefährlich, heikel, mit Konflikten geladen(von Räumen, Teilen von Anlagen oder Stoffen) stark radioaktiv",
+      "grammar": "n/a",
+      "examples": [
+        "ein heißes Thema",
+        "die Radikalen kündigten einen heißen Sommer an",
+        "eine heiße Gegend",
+        "die Grenze gilt immer noch als heiß; vgl. Draht (2b), Ware (1)",
+        "heiße Substanzen, Teilchen",
+        "eine heiße Zelle (abgeschlossener Teil einer Kernkraftanlage, in der, von außen gesteuert, extrem radioaktive Stoffe bearbeitet werden)",
+        "heiße Chemie (Gebiet der Kernchemie, das sich mit durch Bestrahlung sehr radioaktiv gewordenen Stoffen befasst)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "gefährlich, heikel, mit Konflikten geladen",
+          "grammar": "n/a",
+          "examples": [
+            "ein heißes Thema",
+            "die Radikalen kündigten einen heißen Sommer an",
+            "eine heiße Gegend",
+            "die Grenze gilt immer noch als heiß; vgl. Draht (2b), Ware (1)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        },
+        {
+          "text": "(von Räumen, Teilen von Anlagen oder Stoffen) stark radioaktiv",
+          "grammar": "n/a",
+          "examples": [
+            "heiße Substanzen, Teilchen",
+            "eine heiße Zelle (abgeschlossener Teil einer Kernkraftanlage, in der, von außen gesteuert, extrem radioaktive Stoffe bearbeitet werden)",
+            "heiße Chemie (Gebiet der Kernchemie, das sich mit durch Bestrahlung sehr radioaktiv gewordenen Stoffen befasst)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "Kernphysik"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "Kernphysik"
+      }
+    },
+    {
+      "text": "vielversprechend",
+      "grammar": "n/a",
+      "examples": [
+        "ein heißer Tipp",
+        "(Sport) eine heiße (hohe) Favoritin"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "(von sportlichen Fahrzeugen) sehr schnell und spritzig (vgl. Ofen 2)",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "(von Hunden und Katzen) paarungsbereit, brünstig(von Menschen) geschlechtlich erregt",
+      "grammar": "n/a",
+      "examples": [
+        "die Hündin ist heiß"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "(von Hunden und Katzen) paarungsbereit, brünstig",
+          "grammar": "n/a",
+          "examples": [
+            "die Hündin ist heiß"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        },
+        {
+          "text": "(von Menschen) geschlechtlich erregt",
+          "grammar": "n/a",
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "salopp"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "salopp"
+      }
+    },
+    {
+      "text": "in begeisternder Weise schön, gut; großartig, stark (8)",
+      "grammar": "n/a",
+      "examples": [
+        "ein heißes Buch",
+        "eine heiße Bluse",
+        "der Junge ist heiß, aus dem wird mal was!",
+        "etwas heiß finden"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "brühheiß",
+      "link": "/rechtschreibung/bruehheisz"
+    },
+    {
+      "text": "glühend",
+      "link": "/rechtschreibung/gluehend"
+    },
+    {
+      "text": "glühheiß",
+      "link": "/rechtschreibung/gluehheisz"
+    },
+    {
+      "text": "glutheiß",
+      "link": "/rechtschreibung/glutheisz"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "h{ei}ß",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4114282_346250494.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "heiʒ,"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "brennend"
+    },
+    {
+      "word": "(heiß)"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

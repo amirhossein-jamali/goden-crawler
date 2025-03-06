@@ -1,0 +1,345 @@
+{
+  "word": "schreiben",
+  "word_type": [
+    "unknown"
+  ],
+  "grammar": "schreibt, schrieb, hat geschrieben",
+  "meanings": [
+    {
+      "text": "Schriftzeichen, Buchstaben, Ziffern, Noten o. Ä. in einer bestimmten lesbaren Folge mit einem Schreibgerät auf einer Unterlage, meist Papier, aufzeichnen oder in einen Computer eingeben(von Schreibgeräten) beim Schreiben (1a) bestimmte Eigenschaften aufweisensich mit den gegebenen Mitteln in bestimmter Weise schreiben (1a) lassen",
+      "grammar": "sich schreiben; unpersönlich",
+      "examples": [
+        "schön, deutlich, wie gestochen, unleserlich, schnell, langsam schreiben",
+        "mit der Hand, mit dem Bleistift, mit Tinte schreiben",
+        "auf/mit der Maschine, dem Computer schreiben",
+        "sie schreibt auf blauem/blaues Papier",
+        "das Kind lernt schreiben",
+        "〈substantiviert:〉 jemandem das Schreiben beibringen",
+        "der Bleistift schreibt gut, weich, hart",
+        "die Feder schreibt zu breit",
+        "auf diesem Papier, mit der neuen Feder, mit der ergonomischen Tastatur schreibt es sich viel besser, flüssiger"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "Schriftzeichen, Buchstaben, Ziffern, Noten o. Ä. in einer bestimmten lesbaren Folge mit einem Schreibgerät auf einer Unterlage, meist Papier, aufzeichnen oder in einen Computer eingeben",
+          "grammar": "n/a",
+          "examples": [
+            "schön, deutlich, wie gestochen, unleserlich, schnell, langsam schreiben",
+            "mit der Hand, mit dem Bleistift, mit Tinte schreiben",
+            "auf/mit der Maschine, dem Computer schreiben",
+            "sie schreibt auf blauem/blaues Papier",
+            "das Kind lernt schreiben",
+            "〈substantiviert:〉 jemandem das Schreiben beibringen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "(von Schreibgeräten) beim Schreiben (1a) bestimmte Eigenschaften aufweisen",
+          "grammar": "n/a",
+          "examples": [
+            "der Bleistift schreibt gut, weich, hart",
+            "die Feder schreibt zu breit"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich mit den gegebenen Mitteln in bestimmter Weise schreiben (1a) lassen",
+          "grammar": "sich schreiben; unpersönlich",
+          "examples": [
+            "auf diesem Papier, mit der neuen Feder, mit der ergonomischen Tastatur schreibt es sich viel besser, flüssiger"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "aus Schriftzeichen, Buchstaben, Ziffern o. Ä. in einer bestimmten lesbaren Folge bilden, zusammensetzenschreibend (1a), schriftlich formulieren, gestalten, verfassenkomponieren und niederschreiben",
+      "grammar": "n/a",
+      "examples": [
+        "ein Wort, eine Zahl schreiben",
+        "kannst du Noten schreiben?",
+        "die Adresse auf den Umschlag schreiben",
+        "sie schreibt [auf der Maschine/auf dem Computer] 250 Anschläge in der Minute",
+        "etwas mit Bindestrich, in zwei Wörtern schreiben",
+        "〈in übertragener Bedeutung:〉 Schmerz war in seinen Zügen geschrieben (drückte sich darin aus)",
+        "einen Brief, ein[e] E-Mail, eine Beschwerde, ein Protokoll, eine Rechnung, einen Wunschzettel schreiben",
+        "jemandem, an jemanden eine Karte schreiben",
+        "sie schreibt Romane, Drehbücher",
+        "sie hat in Biologie eine Eins geschrieben (in der Klassenarbeit die Note „Eins“ erreicht)",
+        "sie schreibt in ihrem Gutachten (äußert sich darin dahin gehend), dass der Abstand ausreichend gewesen sei",
+        "was schreiben denn die Zeitungen über den Vorfall? (was wird in den Zeitungen darüber berichtet?)",
+        "es gilt das geschriebene Wort (der schriftlich niedergelegte Text)",
+        "das geschriebene (kodifizierte) Recht",
+        "〈in übertragener Bedeutung:〉 die Geschichte muss möglicherweise neu geschrieben werden",
+        "eine Sinfonie, einen Walzer, die Musik zu einem Film schreiben"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "aus Schriftzeichen, Buchstaben, Ziffern o. Ä. in einer bestimmten lesbaren Folge bilden, zusammensetzen",
+          "grammar": "n/a",
+          "examples": [
+            "ein Wort, eine Zahl schreiben",
+            "kannst du Noten schreiben?",
+            "die Adresse auf den Umschlag schreiben",
+            "sie schreibt [auf der Maschine/auf dem Computer] 250 Anschläge in der Minute",
+            "etwas mit Bindestrich, in zwei Wörtern schreiben",
+            "〈in übertragener Bedeutung:〉 Schmerz war in seinen Zügen geschrieben (drückte sich darin aus)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "schreibend (1a), schriftlich formulieren, gestalten, verfassen",
+          "grammar": "n/a",
+          "examples": [
+            "einen Brief, ein[e] E-Mail, eine Beschwerde, ein Protokoll, eine Rechnung, einen Wunschzettel schreiben",
+            "jemandem, an jemanden eine Karte schreiben",
+            "sie schreibt Romane, Drehbücher",
+            "sie hat in Biologie eine Eins geschrieben (in der Klassenarbeit die Note „Eins“ erreicht)",
+            "sie schreibt in ihrem Gutachten (äußert sich darin dahin gehend), dass der Abstand ausreichend gewesen sei",
+            "was schreiben denn die Zeitungen über den Vorfall? (was wird in den Zeitungen darüber berichtet?)",
+            "es gilt das geschriebene Wort (der schriftlich niedergelegte Text)",
+            "das geschriebene (kodifizierte) Recht",
+            "〈in übertragener Bedeutung:〉 die Geschichte muss möglicherweise neu geschrieben werden"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "komponieren und niederschreiben",
+          "grammar": "n/a",
+          "examples": [
+            "eine Sinfonie, einen Walzer, die Musik zu einem Film schreiben"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "als Autor[in] künstlerisch, schriftstellerisch, journalistisch o. ä. tätig seinin bestimmter Weise sich schriftlich äußern, etwas sprachlich gestalten; einen bestimmten Schreibstil habenmit der schriftlichen Formulierung, sprachlichen Gestaltung, Abfassung, Niederschrift von etwas beschäftigt sein",
+      "grammar": "n/a",
+      "examples": [
+        "er schreibt für eine Zeitung, für den Rundfunk, in einem Magazin",
+        "sie schrieb gegen die fortschreitende Umweltzerstörung (ging in ihren Veröffentlichungen schon immer dagegen an)",
+        "〈substantiviert:〉 er hat großes, kein Talent zum Schreiben",
+        "gut, schlecht, lebendig, spannend schreiben",
+        "sie schreibt englisch und deutsch",
+        "er schreibt immer in gutem Deutsch",
+        "sie schreibt immer noch an ihrer Dissertation"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "als Autor[in] künstlerisch, schriftstellerisch, journalistisch o. ä. tätig sein",
+          "grammar": "n/a",
+          "examples": [
+            "er schreibt für eine Zeitung, für den Rundfunk, in einem Magazin",
+            "sie schrieb gegen die fortschreitende Umweltzerstörung (ging in ihren Veröffentlichungen schon immer dagegen an)",
+            "〈substantiviert:〉 er hat großes, kein Talent zum Schreiben"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "in bestimmter Weise sich schriftlich äußern, etwas sprachlich gestalten; einen bestimmten Schreibstil haben",
+          "grammar": "n/a",
+          "examples": [
+            "gut, schlecht, lebendig, spannend schreiben",
+            "sie schreibt englisch und deutsch",
+            "er schreibt immer in gutem Deutsch"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "mit der schriftlichen Formulierung, sprachlichen Gestaltung, Abfassung, Niederschrift von etwas beschäftigt sein",
+          "grammar": "n/a",
+          "examples": [
+            "sie schreibt immer noch an ihrer Dissertation"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "eine schriftliche Nachricht senden; sich schriftlich an jemanden wendenmit jemandem brieflich in Verbindung stehen, korrespondieren",
+      "grammar": "sich schreiben",
+      "examples": [
+        "du hast deinen Eltern, an deine Eltern lange nicht geschrieben",
+        "davon/darüber hat er nichts geschrieben (schriftlich mitgeteilt, berichtet)",
+        "ich werde meinen Eltern mal wieder um Geld schreiben müssen (sie brieflich um Geld bitten müssen)",
+        "die beiden schreiben sich/(gehoben:) einander schon lange",
+        "(umgangssprachlich) ich schreibe mich seit Jahren mit ihr"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "eine schriftliche Nachricht senden; sich schriftlich an jemanden wenden",
+          "grammar": "n/a",
+          "examples": [
+            "du hast deinen Eltern, an deine Eltern lange nicht geschrieben",
+            "davon/darüber hat er nichts geschrieben (schriftlich mitgeteilt, berichtet)",
+            "ich werde meinen Eltern mal wieder um Geld schreiben müssen (sie brieflich um Geld bitten müssen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "mit jemandem brieflich in Verbindung stehen, korrespondieren",
+          "grammar": "sich schreiben",
+          "examples": [
+            "die beiden schreiben sich/(gehoben:) einander schon lange",
+            "(umgangssprachlich) ich schreibe mich seit Jahren mit ihr"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich landschaftlich"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich landschaftlich"
+      }
+    },
+    {
+      "text": "den Regeln entsprechend eine bestimmte Schreibweise (1) haben",
+      "grammar": "sich schreiben",
+      "examples": [
+        "sein Name schreibt sich mit „k“ am Ende",
+        "sie schreibt sich ohne Bindestrich (ihr Name wird ohne Bindestrich geschrieben)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "heißen (1)",
+      "grammar": "sich schreiben",
+      "examples": [
+        "wie schreibt er sich noch?"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "veraltend, noch landschaftlich"
+      }
+    },
+    {
+      "text": "als Datum, Jahreszahl, Jahreszeit o. Ä. haben",
+      "grammar": "n/a",
+      "examples": [
+        "wir schreiben heute den 1. Juni, den elften Vierten, den Dritten",
+        "den Wievielten schreiben wir [heute]?"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "veraltend"
+      }
+    },
+    {
+      "text": "(von Geldbeträgen o. Ä.) irgendwo schriftlich festhalten, eintragen, verbuchen",
+      "grammar": "n/a",
+      "examples": [
+        "schreiben Sie [mir] den Betrag auf die Rechnung, mein Konto"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "jemandem schriftlich einen bestimmten Gesundheitszustand bescheinigen",
+      "grammar": "n/a",
+      "examples": [
+        "die Ärztin hat ihn arbeitsunfähig, untauglich geschrieben"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "sich Briefe schreiben"
+    },
+    {
+      "text": "Briefe wechseln"
+    },
+    {
+      "text": "brieflich verkehren"
+    },
+    {
+      "text": "einen Briefwechsel führen"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "schr{ei}ben",
+      "phonetic": "[ˈʃraɪ̯bn̩]",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4116082_20053806.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "schrīben,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "scrīban"
+    },
+    {
+      "word": "\u003c"
+    },
+    {
+      "word": "lateinisch"
+    },
+    {
+      "word": "scribere"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "schreiben,"
+    },
+    {
+      "word": "eigentlich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "mit"
+    },
+    {
+      "word": "dem"
+    },
+    {
+      "word": "Griffel"
+    },
+    {
+      "word": "einritzen"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

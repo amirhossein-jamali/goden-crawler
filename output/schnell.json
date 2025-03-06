@@ -1,0 +1,202 @@
+{
+  "word": "schnell",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "high",
+  "grammar": "No data",
+  "meanings": [
+    {
+      "text": "(besonders in Bezug auf eine Fortbewegung) durch ein hohes Tempo gekennzeichnet; mit hoher, großer Geschwindigkeit; nicht langsam, sondern rasch(besonders in Bezug auf eine Tätigkeit, den Ab-, Verlauf von etwas o. Ä.) innerhalb kurzer Zeit [vor sich gehend], nur wenig Zeit in Anspruch nehmend; rasch",
+      "grammar": "n/a",
+      "examples": [
+        "ein schnelles Tempo",
+        "eine schnelle Fahrt",
+        "er hat einen schnellen Gang",
+        "[zu] schnell fahren",
+        "er lief, so schnell er konnte",
+        "könntest du einen Schritt schneller gehen?",
+        "schnell wachsende Pflanzen",
+        "schnell sprechen, schreiben, arbeiten",
+        "(in Aufforderungen) schnell [schnell]!",
+        "schneller!",
+        "nicht so schnell!",
+        "mach schnell! (umgangssprachlich; beeile dich!)",
+        "eine schnelle Drehung, Bewegung",
+        "schnelle Fortschritte",
+        "einen schnellen Entschluss fassen",
+        "eine schnelle Auffassung haben",
+        "sich schnell ausbreiten, verbreiten, verflüchtigen",
+        "schnell um sich greifen",
+        "etwas schnell schaffen",
+        "alles ging rasend schnell",
+        "sich schnell einleben, zurechtfinden, an etwas gewöhnen",
+        "so schnell wie/(seltener:) als möglich",
+        "so schnell macht ihr das keiner nach (es wird nicht leicht sein, ihr das nachzumachen)",
+        "wie heißt sie noch schnell (umgangssprachlich; es liegt mir auf der Zunge, aber ich weiß es im Augenblick nicht mehr)"
+      ],
+      "idioms": [
+        "auf die Schnelle (umgangssprachlich:  schnell, in kurzer Zeit: etwas auf die Schnelle erledigen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "(besonders in Bezug auf eine Fortbewegung) durch ein hohes Tempo gekennzeichnet; mit hoher, großer Geschwindigkeit; nicht langsam, sondern rasch",
+          "grammar": "n/a",
+          "examples": [
+            "ein schnelles Tempo",
+            "eine schnelle Fahrt",
+            "er hat einen schnellen Gang",
+            "[zu] schnell fahren",
+            "er lief, so schnell er konnte",
+            "könntest du einen Schritt schneller gehen?",
+            "schnell wachsende Pflanzen",
+            "schnell sprechen, schreiben, arbeiten",
+            "(in Aufforderungen) schnell [schnell]!",
+            "schneller!",
+            "nicht so schnell!",
+            "mach schnell! (umgangssprachlich; beeile dich!)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "(besonders in Bezug auf eine Tätigkeit, den Ab-, Verlauf von etwas o. Ä.) innerhalb kurzer Zeit [vor sich gehend], nur wenig Zeit in Anspruch nehmend; rasch",
+          "grammar": "n/a",
+          "examples": [
+            "eine schnelle Drehung, Bewegung",
+            "schnelle Fortschritte",
+            "einen schnellen Entschluss fassen",
+            "eine schnelle Auffassung haben",
+            "sich schnell ausbreiten, verbreiten, verflüchtigen",
+            "schnell um sich greifen",
+            "etwas schnell schaffen",
+            "alles ging rasend schnell",
+            "sich schnell einleben, zurechtfinden, an etwas gewöhnen",
+            "so schnell wie/(seltener:) als möglich",
+            "so schnell macht ihr das keiner nach (es wird nicht leicht sein, ihr das nachzumachen)",
+            "wie heißt sie noch schnell (umgangssprachlich; es liegt mir auf der Zunge, aber ich weiß es im Augenblick nicht mehr)"
+          ],
+          "idioms": [
+            "auf die Schnelle (umgangssprachlich:  schnell, in kurzer Zeit: etwas auf die Schnelle erledigen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "hohe Fahrgeschwindigkeiten ermöglichend",
+      "grammar": "n/a",
+      "examples": [
+        "eine schnelle Straße, Strecke, Piste, Bahn",
+        "ein schnelles Flugzeug, Schiff",
+        "ein Auto schnell machen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "ohne großen Zeitaufwand herzustellen, auszuführen, zu erwerben o. Ä.",
+      "grammar": "n/a",
+      "examples": [
+        "schnelles Geld"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "(in Bezug auf eine Tätigkeit, die mit einer gewissen Geschwindigkeit, mit Schnelligkeit vonstattengeht) zügig, flott, rasch",
+      "grammar": "n/a",
+      "examples": [
+        "eine schnelle Bedienung",
+        "er ist [nicht] sehr schnell (flink) [bei der Arbeit]",
+        "du bist zu schnell (nicht sorgfältig genug)",
+        "sie arbeitet schnell",
+        "die Sache ging schnell über die Bühne",
+        "es ging schneller als erwartet",
+        "das geht mir zu schnell (ich komme nicht mit)",
+        "ich muss noch schnell (kurz) etwas nachsehen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "flugs",
+      "link": "/rechtschreibung/flugs"
+    },
+    {
+      "text": "rapide",
+      "link": "/rechtschreibung/rapid"
+    },
+    {
+      "text": "rasch",
+      "link": "/rechtschreibung/rasch"
+    },
+    {
+      "text": "rasend",
+      "link": "/rechtschreibung/rasend"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "schn(e)ll",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4108888_31825335.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "snel"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "behände,"
+    },
+    {
+      "word": "kräftig,"
+    },
+    {
+      "word": "tapfer,"
+    },
+    {
+      "word": "rasch,"
+    },
+    {
+      "word": "wohl"
+    },
+    {
+      "word": "eigentlich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "tatkräftig,"
+    },
+    {
+      "word": "Herkunft"
+    },
+    {
+      "word": "ungeklärt"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

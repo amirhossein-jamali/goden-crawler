@@ -1,0 +1,71 @@
+{
+  "word": "langweilig",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "No data",
+  "meanings": [
+    {
+      "text": "Langeweile verursachend, bereitend; für jemanden uninteressant, nicht anregend, nicht unterhaltsam",
+      "grammar": "n/a",
+      "examples": [
+        "ein langweiliger Vortrag, Abend",
+        "ein langweiliges Kaff",
+        "eine langweilige (öde, eintönige, monotone) Landschaft",
+        "er ist ein ziemlich langweiliger Mensch",
+        "hier ist es entsetzlich, zum Sterben langweilig",
+        "es war ihm sehr langweilig (er langweilte sich sehr)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "nicht schnell genug vorankommend",
+      "grammar": "n/a",
+      "examples": [
+        "so ein langweiliger Mensch, Kerl!",
+        "sei doch nicht so langweilig! (beeile dich doch etwas!)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich seltener"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "abwechslungslos",
+      "link": "/rechtschreibung/abwechslungslos"
+    },
+    {
+      "text": "ausdruckslos",
+      "link": "/rechtschreibung/ausdruckslos"
+    },
+    {
+      "text": "bieder",
+      "link": "/rechtschreibung/bieder"
+    },
+    {
+      "text": "blass",
+      "link": "/rechtschreibung/blass"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "l(a)ngweilig",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4117278_444072191.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "No data available"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

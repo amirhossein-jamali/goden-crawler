@@ -1,0 +1,207 @@
+{
+  "word": "Tisch",
+  "article": "der",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "der Tisch; Genitiv: des Tisch[e]s, Plural: die Tische",
+  "meanings": [
+    {
+      "text": "Möbelstück, das aus einer waagerecht auf einer Stütze, in der Regel auf vier Beinen, ruhenden Platte besteht, an der gegessen, gearbeitet, auf die etwas gestellt, gelegt werden kannGesamtheit von Personen, die an einem Tisch (1a) sitzen",
+      "grammar": "n/a",
+      "examples": [
+        "ein runder, ausziehbarer Tisch",
+        "der Tisch war reich gedeckt (es gab reichlich und gut zu essen)",
+        "der Tisch wackelt",
+        "den Tisch ausziehen, decken, abwischen",
+        "jemandem einen Tisch [im Restaurant] reservieren",
+        "am Tisch sitzen, arbeiten",
+        "sich [miteinander] an einen Tisch setzen",
+        "etwas auf den Tisch stellen, legen",
+        "das Essen steht auf dem Tisch",
+        "wir saßen alle um einen großen Tisch",
+        "die Teller vom Tisch nehmen",
+        "vom Tisch aufstehen",
+        "der ganze Tisch brach in Gelächter aus"
+      ],
+      "idioms": [
+        "runder Tisch (Kreis, Gremium von gleichberechtigten Partnern: etwas am runden Tisch verhandeln)",
+        "[mit etwas] reinen Tisch machen (umgangssprachlich:  klare Verhältnisse schaffen; wohl bezogen auf den Schreib- oder Arbeitstisch, auf dem bei Schluss der täglichen Arbeit keine Rechnungen, Schriftstücke usw. oder Werkzeuge liegen sollen)",
+        "am grünen Tisch, vom grünen Tisch aus (ganz theoretisch, bürokratisch; ohne Kenntnis der wirklichen Sachlage; die Beratungstische der Behörden waren früher häufig grün bezogen)",
+        "jemanden an einen Tisch bringen (zwei oder mehrere Parteien zu Verhandlungen zusammenführen)",
+        "sich mit jemandem an einen Tisch setzen (mit jemandem Verhandlungen führen, reden)",
+        "etwas auf den Tisch [des Hauses] legen (etwas [offiziell] zur Kenntnis bringen, vorlegen; wohl eigentlich = dem Parlament [= dem hohen Haus] etwas vortragen)",
+        "bar auf den Tisch des Hauses (umgangssprachlich:  in bar)",
+        "auf den Tisch hauen/schlagen (umgangssprachlich:  sich anderen gegenüber energisch einsetzen, durchsetzen)",
+        "jemanden über den Tisch ziehen (umgangssprachlich:  jemanden übervorteilen, hereinlegen)",
+        "unter den Tisch fallen (umgangssprachlich:  nicht berücksichtigt, getan werden; nicht stattfinden: das Projekt ist unter den Tisch gefallen)",
+        "unter den Tisch fallen lassen (umgangssprachlich:  nicht berücksichtigen, beachten, durchführen; nicht stattfinden lassen)",
+        "jemanden unter den Tisch trinken/(salopp:) saufen (umgangssprachlich:  sich beim gemeinsamen Trinken mit jemandem als derjenige erweisen, der trinkfester ist)",
+        "von Tisch und Bett getrennt sein, leben (nicht mehr in ehelicher Gemeinschaft leben)",
+        "vom Tisch sein (umgangssprachlich:  erledigt, bewerkstelligt sein)",
+        "vom Tisch müssen (umgangssprachlich:  erledigt werden müssen: die Sache muss heute noch vom Tisch)",
+        "etwas vom Tisch bringen (umgangssprachlich:  etwas erledigen, bewerkstelligen)",
+        "etwas vom Tisch wischen/fegen (umgangssprachlich:  etwas als unwichtig abtun, als unangenehm beiseiteschieben)",
+        "zum Tisch des Herrn gehen (gehoben:  am Abendmahl teilnehmen, zur Kommunion gehen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "Möbelstück, das aus einer waagerecht auf einer Stütze, in der Regel auf vier Beinen, ruhenden Platte besteht, an der gegessen, gearbeitet, auf die etwas gestellt, gelegt werden kann",
+          "grammar": "n/a",
+          "examples": [
+            "ein runder, ausziehbarer Tisch",
+            "der Tisch war reich gedeckt (es gab reichlich und gut zu essen)",
+            "der Tisch wackelt",
+            "den Tisch ausziehen, decken, abwischen",
+            "jemandem einen Tisch [im Restaurant] reservieren",
+            "am Tisch sitzen, arbeiten",
+            "sich [miteinander] an einen Tisch setzen",
+            "etwas auf den Tisch stellen, legen",
+            "das Essen steht auf dem Tisch",
+            "wir saßen alle um einen großen Tisch",
+            "die Teller vom Tisch nehmen",
+            "vom Tisch aufstehen"
+          ],
+          "idioms": [
+            "runder Tisch (Kreis, Gremium von gleichberechtigten Partnern: etwas am runden Tisch verhandeln)",
+            "[mit etwas] reinen Tisch machen (umgangssprachlich:  klare Verhältnisse schaffen; wohl bezogen auf den Schreib- oder Arbeitstisch, auf dem bei Schluss der täglichen Arbeit keine Rechnungen, Schriftstücke usw. oder Werkzeuge liegen sollen)",
+            "am grünen Tisch, vom grünen Tisch aus (ganz theoretisch, bürokratisch; ohne Kenntnis der wirklichen Sachlage; die Beratungstische der Behörden waren früher häufig grün bezogen)",
+            "jemanden an einen Tisch bringen (zwei oder mehrere Parteien zu Verhandlungen zusammenführen)",
+            "sich mit jemandem an einen Tisch setzen (mit jemandem Verhandlungen führen, reden)",
+            "etwas auf den Tisch [des Hauses] legen (etwas [offiziell] zur Kenntnis bringen, vorlegen; wohl eigentlich = dem Parlament [= dem hohen Haus] etwas vortragen)",
+            "bar auf den Tisch des Hauses (umgangssprachlich:  in bar)",
+            "auf den Tisch hauen/schlagen (umgangssprachlich:  sich anderen gegenüber energisch einsetzen, durchsetzen)",
+            "jemanden über den Tisch ziehen (umgangssprachlich:  jemanden übervorteilen, hereinlegen)",
+            "unter den Tisch fallen (umgangssprachlich:  nicht berücksichtigt, getan werden; nicht stattfinden: das Projekt ist unter den Tisch gefallen)",
+            "unter den Tisch fallen lassen (umgangssprachlich:  nicht berücksichtigen, beachten, durchführen; nicht stattfinden lassen)",
+            "jemanden unter den Tisch trinken/(salopp:) saufen (umgangssprachlich:  sich beim gemeinsamen Trinken mit jemandem als derjenige erweisen, der trinkfester ist)",
+            "von Tisch und Bett getrennt sein, leben (nicht mehr in ehelicher Gemeinschaft leben)",
+            "vom Tisch sein (umgangssprachlich:  erledigt, bewerkstelligt sein)",
+            "vom Tisch müssen (umgangssprachlich:  erledigt werden müssen: die Sache muss heute noch vom Tisch)",
+            "etwas vom Tisch bringen (umgangssprachlich:  etwas erledigen, bewerkstelligen)",
+            "etwas vom Tisch wischen/fegen (umgangssprachlich:  etwas als unwichtig abtun, als unangenehm beiseiteschieben)",
+            "zum Tisch des Herrn gehen (gehoben:  am Abendmahl teilnehmen, zur Kommunion gehen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "Gesamtheit von Personen, die an einem Tisch (1a) sitzen",
+          "grammar": "n/a",
+          "examples": [
+            "der ganze Tisch brach in Gelächter aus"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "Mahlzeit, Essen",
+      "grammar": "ohne Artikel; in Verbindung mit bestimmten Präposition",
+      "examples": [
+        "sie sind, sitzen bei Tisch",
+        "nach Tisch pflegt er zu ruhen",
+        "darf ich zu Tisch bitten?",
+        "bitte, zu Tisch!"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "Anrichte",
+      "link": "/rechtschreibung/Anrichte"
+    },
+    {
+      "text": "Tafel; (gehoben) Festtafel"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "T(i)sch",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4108524_4823779.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "tisch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "tisc"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "Tisch;"
+    },
+    {
+      "word": "Schüssel"
+    },
+    {
+      "word": "\u003c"
+    },
+    {
+      "word": "lateinisch"
+    },
+    {
+      "word": "discus"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "Wurfscheibe;"
+    },
+    {
+      "word": "flache"
+    },
+    {
+      "word": "Schüssel,"
+    },
+    {
+      "word": "Platte"
+    },
+    {
+      "word": "\u003c"
+    },
+    {
+      "word": "griechisch"
+    },
+    {
+      "word": "dískos"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "Wurfscheibe"
+    },
+    {
+      "word": "("
+    },
+    {
+      "word": "Diskus",
+      "link": "/rechtschreibung/Diskus"
+    },
+    {
+      "word": ")"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

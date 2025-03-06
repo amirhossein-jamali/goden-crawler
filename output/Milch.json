@@ -1,0 +1,131 @@
+{
+  "word": "Milch",
+  "article": "die",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "die Milch; Genitiv: der Milch, (Fachsprache:) Milche[n]",
+  "meanings": [
+    {
+      "text": "aus dem Euter von Kühen (auch Schafen, Ziegen u. a. säugenden Haustieren) stammende, durch Melken gewonnene weiße, leicht süße und fetthaltige Flüssigkeit, die als wichtiges Nahrungsmittel, besonders als Getränk, verwendet wirdin den Milchdrüsen von Frauen und weiblichen Säugetieren nach dem Gebären sich bildende weißliche, nahrhafte Flüssigkeit, die von dem Neugeborenen oder Jungen als Nahrung aufgenommen wird",
+      "grammar": "n/a",
+      "examples": [
+        "saure, kondensierte Milch",
+        "gestandene Milch (gestanden 2)",
+        "Milch gerinnt",
+        "ein Glas Milch",
+        "Kühe geben Milch",
+        "Milche mit hohem Anteil an Eiweiß",
+        "Milch in den Kaffee gießen",
+        "die Milch abkochen, entrahmen",
+        "Milch gebende Ziegen",
+        "genug Milch haben",
+        "die Milch abpumpen"
+      ],
+      "idioms": [
+        "die Milch der frommen Denkart/Denkungsart (freundliche Gesinnung; nach Schiller, Tell IV, 3)",
+        "aussehen wie Milch und Blut (frisch und jung aussehen; seit ältester Zeit gebräuchliches Sinnbild der weiblichen Schönheit, in Anspielung auf die als vornehm erachtete Blässe der Haut und das Rot der Lippen oder des Blutes)",
+        "nicht viel in die Milch zu brocken haben (norddeutsch:  bescheiden leben müssen, arm sein)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/M/Milch-201100285593.jpg",
+      "image_caption": "© NiDerLander - Fotolia.com",
+      "sub_meanings": [
+        {
+          "text": "aus dem Euter von Kühen (auch Schafen, Ziegen u. a. säugenden Haustieren) stammende, durch Melken gewonnene weiße, leicht süße und fetthaltige Flüssigkeit, die als wichtiges Nahrungsmittel, besonders als Getränk, verwendet wird",
+          "grammar": "n/a",
+          "examples": [
+            "saure, kondensierte Milch",
+            "gestandene Milch (gestanden 2)",
+            "Milch gerinnt",
+            "ein Glas Milch",
+            "Kühe geben Milch",
+            "Milche mit hohem Anteil an Eiweiß",
+            "Milch in den Kaffee gießen",
+            "die Milch abkochen, entrahmen",
+            "Milch gebende Ziegen"
+          ],
+          "idioms": [
+            "die Milch der frommen Denkart/Denkungsart (freundliche Gesinnung; nach Schiller, Tell IV, 3)",
+            "aussehen wie Milch und Blut (frisch und jung aussehen; seit ältester Zeit gebräuchliches Sinnbild der weiblichen Schönheit, in Anspielung auf die als vornehm erachtete Blässe der Haut und das Rot der Lippen oder des Blutes)",
+            "nicht viel in die Milch zu brocken haben (norddeutsch:  bescheiden leben müssen, arm sein)"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/M/Milch-201100285593.jpg",
+          "image_caption": "© NiDerLander - Fotolia.com"
+        },
+        {
+          "text": "in den Milchdrüsen von Frauen und weiblichen Säugetieren nach dem Gebären sich bildende weißliche, nahrhafte Flüssigkeit, die von dem Neugeborenen oder Jungen als Nahrung aufgenommen wird",
+          "grammar": "n/a",
+          "examples": [
+            "genug Milch haben",
+            "die Milch abpumpen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "milchiger Saft bestimmter Pflanzen",
+      "grammar": "n/a",
+      "examples": [
+        "die Milch des Löwenzahns, der Kokosnuss"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "weißliche Samenflüssigkeit des männlichen Fisches; Fischmilch",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "kosmetisches Präparat aus milchiger Flüssigkeit",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Herkunft": "wohl nach englisch milk"
+      }
+    },
+    {
+      "text": "(bei Tauben) käsige Masse, die sich als Nahrung für die Jungen im Kropf bildet",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "M(i)lch",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4116212_230643214.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "milch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "miluh,"
+    },
+    {
+      "word": "zu"
+    },
+    {
+      "word": "melken",
+      "link": "/rechtschreibung/melken"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

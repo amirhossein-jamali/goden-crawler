@@ -35,13 +35,21 @@ func (s *CachedDudenScraper) fetchWordDoc(word string) (*goquery.Document, error
 	return s.scraper.fetchWordDoc(word)
 }
 
+// FetchWordData fetches data for a word and returns a map of section -> data
+func (s *CachedDudenScraper) FetchWordData(word string) (map[string]string, error) {
+	// No caching for raw data
+	return s.scraper.FetchWordData(word)
+}
+
 // FetchWordDataStructured fetches structured data for a word
 func (s *CachedDudenScraper) FetchWordDataStructured(word string) (*models.Word, error) {
-	// Try to get from cache first
-	cachedData, found := s.cache.Get(word)
-	if found {
-		logger.Info("Using cached data for word", logger.F("word", word))
-		return cachedData, nil
+	// Try to get from cache first if cache is available
+	if s.cache != nil {
+		cachedData, found := s.cache.Get(word)
+		if found {
+			logger.Info("Using cached data for word", logger.F("word", word))
+			return cachedData, nil
+		}
 	}
 
 	// If not in cache, fetch from source
@@ -51,8 +59,10 @@ func (s *CachedDudenScraper) FetchWordDataStructured(word string) (*models.Word,
 		return nil, err
 	}
 
-	// Store in cache
-	s.cache.Set(word, data)
+	// Store in cache if available
+	if s.cache != nil {
+		s.cache.Set(word, data)
+	}
 	return data, nil
 }
 

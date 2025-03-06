@@ -1,10 +1,12 @@
-// ./cmd/root.go
+// File: cmd/root.go
 package cmd
 
 import (
 	"fmt"
 	"os"
 
+	"github.com/amirhossein-jamali/goden-crawler/internal/infrastructure/container"
+	"github.com/amirhossein-jamali/goden-crawler/pkg/logger"
 	"github.com/spf13/cobra"
 )
 
@@ -17,6 +19,35 @@ detailed linguistic information from the Duden online dictionary.
 
 Built with Golang and Cobra for CLI management, it features a modular 
 and scalable architecture, making it easy to maintain and extend.`,
+	Run: func(cmd *cobra.Command, args []string) {
+		if len(args) == 0 {
+			cmd.Help()
+			return
+		}
+	},
+}
+
+// healthCmd represents the health command
+var healthCmd = &cobra.Command{
+	Use:   "health",
+	Short: "Check the health of database connections",
+	Long:  `Checks if the application can connect to all configured databases.`,
+	Run: func(cmd *cobra.Command, args []string) {
+		fmt.Println("Starting database health check...")
+
+		// Get repository from container
+		repo := container.GetWordRepository()
+
+		// Try to retrieve a test word
+		word, err := repo.GetWord("test")
+		if err != nil {
+			fmt.Println("Database health check failed, but this is expected if no data exists yet.")
+			fmt.Printf("Error: %v\n", err)
+		} else {
+			fmt.Println("Database health check passed!")
+			fmt.Printf("Retrieved word: %s\n", word.Word)
+		}
+	},
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
@@ -29,6 +60,16 @@ func Execute() {
 }
 
 func init() {
+	// Initialize logger
+	logger.SetGlobalLogger(logger.DefaultLogger())
+
+	// Add commands
+	rootCmd.AddCommand(scrapeCmd)
+	rootCmd.AddCommand(batchCmd)
+	rootCmd.AddCommand(interactiveCmd)
+	rootCmd.AddCommand(completionCmd)
+	rootCmd.AddCommand(healthCmd)
+
 	// Here you will define your flags and configuration settings.
 	// Cobra supports persistent flags, which, if defined here,
 	// will be global for your application.

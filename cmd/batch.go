@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/amirhossein-jamali/goden-crawler/internal/application/services"
-	"github.com/amirhossein-jamali/goden-crawler/internal/crawler"
 	"github.com/amirhossein-jamali/goden-crawler/internal/formatter"
+	"github.com/amirhossein-jamali/goden-crawler/internal/infrastructure/container"
 	"github.com/amirhossein-jamali/goden-crawler/pkg/logger"
 
 	"github.com/spf13/cobra"
@@ -32,12 +32,14 @@ Words should be provided as a space-separated list.`,
 	Run: func(cmd *cobra.Command, args []string) {
 		words := args
 
-		// Create a new scraper
-		scraper := crawler.NewDudenScraper()
+		// Get services from container
+		wordService := container.GetWordService()
+		wordRepository := container.GetWordRepository()
 
 		// Create a batch service
 		batchService := services.NewBatchService(
-			scraper,
+			wordService,
+			wordRepository,
 			workers,
 			time.Duration(timeoutSecs)*time.Second,
 		)

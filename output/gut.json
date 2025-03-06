@@ -1,0 +1,469 @@
+{
+  "word": "gut",
+  "word_type": [
+    "unknown"
+  ],
+  "grammar": "Adjektiv; Steigerungsformen: besser, best…",
+  "meanings": [
+    {
+      "text": "den Ansprüchen genügend; von zufriedenstellender Qualität, ohne nachteilige Eigenschaften oder Mängelgute Leistungen erbringend, seine Aufgabe zur Zufriedenheit erfüllendwirksam, nützlichfür etwas günstig, passend, geeignet",
+      "grammar": "n/a",
+      "examples": [
+        "gute Qualität, Ware, Nahrung",
+        "ein guter Wein, Apfel, Stoff, Film, Witz",
+        "ein gutes Werkzeug, Buch",
+        "eine gute Leistung, Arbeit",
+        "das ist kein gutes Deutsch",
+        "bei bester Gesundheit sein",
+        "sie hat eine gute Drei (eine Drei, die fast schon eine Zwei ist) in Deutsch",
+        "ein gutes Gedächtnis, Gehör haben",
+        "gute Augen, Ohren haben (gut sehen, hören können)",
+        "aus gutem Grund (mit voller Berechtigung) ist das so",
+        "gute (richtige, echte) Butter",
+        "einen guten Geschmack haben",
+        "dein Vorschlag ist sehr gut",
+        "ihr ist nichts gut genug (sie hat an allem etwas auszusetzen)",
+        "eine gut fundierte Ausbildung",
+        "gut informierte, unterrichtete Kreise",
+        "(häufig in Formeln der Bekräftigung oder des Einverstandenseins) also gut",
+        "gut! (jawohl!)",
+        "schon gut (es bedarf keiner weiteren Worte)",
+        "nun gut",
+        "das ist ja alles gut und schön (zwar in Ordnung), aber trotzdem will ich nicht",
+        "gut lesen, schwimmen können",
+        "sie spielt besser Klavier als die andern",
+        "das kann er am besten",
+        "ein gut sitzender Anzug",
+        "sein Aufsatz wurde mit [der Note] „gut“, „sehr gut“ bewertet",
+        "seine Sache gut machen",
+        "das Kind lernt gut (leicht, ohne Schwierigkeiten)",
+        "etwas für gut befinden",
+        "das Kostüm sitzt gut",
+        "eine gut angezogene Frau",
+        "〈substantiviert:〉 etwas Gutes kochen",
+        "daraus kann nichts Gutes werden",
+        "ein guter Schüler, eine gute Arbeiterin",
+        "eine gute Regierung",
+        "sie ist in der Schule sehr gut",
+        "〈substantiviert:〉 die Besten ihres Faches",
+        "das ist das beste Mittel gegen Migräne",
+        "der Tee ist gut gegen/(umgangssprachlich auch:) für Husten",
+        "〈in übertragener Bedeutung:〉 wer weiß, wozu das gut ist",
+        "eine gute Gelegenheit",
+        "unsere Aussichten sind gut",
+        "die Äpfel sind gut zum Kochen",
+        "es trifft sich gut, dass du kommst",
+        "der Augenblick war gut gewählt",
+        "die Chancen stehen gut",
+        "das hast du gut (treffend) gesagt"
+      ],
+      "idioms": [
+        "es mit etwas gut sein lassen (umgangssprachlich:  etwas mit etwas erledigt sein lassen)",
+        "es gut getroffen haben (mit/bei etwas Glück haben: er hat es in seinem Urlaub [mit der Unterkunft] gut getroffen)",
+        "für etwas gut sein (umgangssprachlich:  etwas herbeiführen, bewirken können: sie ist immer für eine Überraschung, für ein Tor gut)",
+        "gut daran tun, etwas zu tun (richtig handeln, indem man etwas tut: du tätest, tust gut daran, dich nicht zu beteiligen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "den Ansprüchen genügend; von zufriedenstellender Qualität, ohne nachteilige Eigenschaften oder Mängel",
+          "grammar": "n/a",
+          "examples": [
+            "gute Qualität, Ware, Nahrung",
+            "ein guter Wein, Apfel, Stoff, Film, Witz",
+            "ein gutes Werkzeug, Buch",
+            "eine gute Leistung, Arbeit",
+            "das ist kein gutes Deutsch",
+            "bei bester Gesundheit sein",
+            "sie hat eine gute Drei (eine Drei, die fast schon eine Zwei ist) in Deutsch",
+            "ein gutes Gedächtnis, Gehör haben",
+            "gute Augen, Ohren haben (gut sehen, hören können)",
+            "aus gutem Grund (mit voller Berechtigung) ist das so",
+            "gute (richtige, echte) Butter",
+            "einen guten Geschmack haben",
+            "dein Vorschlag ist sehr gut",
+            "ihr ist nichts gut genug (sie hat an allem etwas auszusetzen)",
+            "eine gut fundierte Ausbildung",
+            "gut informierte, unterrichtete Kreise",
+            "(häufig in Formeln der Bekräftigung oder des Einverstandenseins) also gut",
+            "gut! (jawohl!)",
+            "schon gut (es bedarf keiner weiteren Worte)",
+            "nun gut",
+            "das ist ja alles gut und schön (zwar in Ordnung), aber trotzdem will ich nicht",
+            "gut lesen, schwimmen können",
+            "sie spielt besser Klavier als die andern",
+            "das kann er am besten",
+            "ein gut sitzender Anzug",
+            "sein Aufsatz wurde mit [der Note] „gut“, „sehr gut“ bewertet",
+            "seine Sache gut machen",
+            "das Kind lernt gut (leicht, ohne Schwierigkeiten)",
+            "etwas für gut befinden",
+            "das Kostüm sitzt gut",
+            "eine gut angezogene Frau",
+            "〈substantiviert:〉 etwas Gutes kochen",
+            "daraus kann nichts Gutes werden"
+          ],
+          "idioms": [
+            "es mit etwas gut sein lassen (umgangssprachlich:  etwas mit etwas erledigt sein lassen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "gute Leistungen erbringend, seine Aufgabe zur Zufriedenheit erfüllend",
+          "grammar": "n/a",
+          "examples": [
+            "ein guter Schüler, eine gute Arbeiterin",
+            "eine gute Regierung",
+            "sie ist in der Schule sehr gut",
+            "〈substantiviert:〉 die Besten ihres Faches"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "wirksam, nützlich",
+          "grammar": "n/a",
+          "examples": [
+            "das ist das beste Mittel gegen Migräne",
+            "der Tee ist gut gegen/(umgangssprachlich auch:) für Husten",
+            "〈in übertragener Bedeutung:〉 wer weiß, wozu das gut ist"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "für etwas günstig, passend, geeignet",
+          "grammar": "n/a",
+          "examples": [
+            "eine gute Gelegenheit",
+            "unsere Aussichten sind gut",
+            "die Äpfel sind gut zum Kochen",
+            "es trifft sich gut, dass du kommst",
+            "der Augenblick war gut gewählt",
+            "die Chancen stehen gut",
+            "das hast du gut (treffend) gesagt"
+          ],
+          "idioms": [
+            "es gut getroffen haben (mit/bei etwas Glück haben: er hat es in seinem Urlaub [mit der Unterkunft] gut getroffen)",
+            "für etwas gut sein (umgangssprachlich:  etwas herbeiführen, bewirken können: sie ist immer für eine Überraschung, für ein Tor gut)",
+            "gut daran tun, etwas zu tun (richtig handeln, indem man etwas tut: du tätest, tust gut daran, dich nicht zu beteiligen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "angenehm, erfreulich; sich positiv auswirkend",
+      "grammar": "n/a",
+      "examples": [
+        "eine gute Nachricht",
+        "sie hatten gutes Wetter, eine gute Fahrt",
+        "[wir wünschen Ihnen ein] gutes (nur Erfreuliches und Angenehmes enthaltendes) neues Jahr!",
+        "er hat heute einen guten Tag (einen Tag, an dem ihm alles gelingt)",
+        "mein erster Eindruck von der Sache war nicht besonders gut",
+        "mir ist nicht gut (ich fühle mich momentan körperlich nicht wohl, leide unter Schwächegefühl oder Brechreiz)",
+        "(gehoben) hier ist gut sein, leben (ist, lebt man gern)",
+        "etwas zu einem guten Ende führen",
+        "ein gut gepflegtes Auto",
+        "eine gut gekleidete Frau",
+        "die Mutter lachte gut gelaunt",
+        "gut gelaunt sein (gute Laune haben, zeigen)",
+        "hier lässt sichs gut leben",
+        "es geht mir [wieder] gut (ich befinde mich wieder in einem guten Gesundheitszustand)",
+        "die Bücher werden sicher gut gehen (sich schnell verkaufen lassen)",
+        "das Lokal, Geschäft geht gut (bringt hohe Gewinne)",
+        "eine gut gehende Immobilienfirma",
+        "es ist ihm längere Zeit nicht gut gegangen (er war längere Zeit krank)",
+        "die Sache ist noch einmal gut gegangen (hat einen guten Verlauf genommen)",
+        "wenn das nur gut geht!",
+        "(umgangssprachlich) du bist gut dran",
+        "der Braten riecht gut",
+        "ein gut aussehender Mann",
+        "die Kakteen können Sonne gut vertragen",
+        "〈substantiviert:〉 jemandem alles Gute wünschen",
+        "sie ahnte nichts Gutes",
+        "was bringst du Gutes?",
+        "es hat alles sein Gutes (seine positive Seite)",
+        "das ist denn doch zu viel des Guten/des Guten zu viel (ironisch; geht denn doch zu weit)!"
+      ],
+      "idioms": [
+        "bei jemandem gut angeschrieben sein (umgangssprachlich:  weil man sich irgendwie hervorgetan hat, von jemandem so geschätzt werden, dass man auf Nachsicht oder Erfüllung seiner Wünsche rechnen kann; vgl. 2. Mose 32, 32; Lukas 10, 20; Offenbarung 3, 5 u. a., nach dem Buch des Lebens, in das die Gerechten eingeschrieben werden)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "groß, reichlichreichlich bemessen",
+      "grammar": "n/a",
+      "examples": [
+        "eine gute Ernte",
+        "ein gutes (ertragreiches) Jahr",
+        "gut betuchte (umgangssprachlich; recht wohlhabende) Leute",
+        "eine gut bezahlte Arbeit",
+        "eine gut dotierte Position",
+        "gut situierte (in guten wirtschaftlichen Verhältnissen lebende) Leute",
+        "eine gut verdienende Managerin",
+        "mit gutem (großem) Appetit essen",
+        "(umgangssprachlich) er hat einen guten Zug (trinkt viel auf einmal)",
+        "das kostet mich ein gutes Stück (viel) Geld",
+        "ein gut[er] Teil [der] Schuld lag bei ihm",
+        "das hat noch gute Weile (eilt nicht)",
+        "das Unternehmen ist gut aufgestellt (für zukünftige Aufgaben gut gerüstet)",
+        "eine gute Stunde",
+        "ein guter Liter Flüssigkeit",
+        "der Sack wiegt gut (etwas über) zwei Zentner",
+        "er hat gut gewogen (hat etwas mehr als die genannte Menge abgewogen)"
+      ],
+      "idioms": [
+        "gut und gern[e] (umgangssprachlich:  bestimmt [so viel], wenn nicht mehr: bis dahin sind es noch gut und gern zehn Kilometer)",
+        "so gut wie (umgangssprachlich:  fast; praktisch: das ist so gut wie sicher, wie gar nichts; die Arbeit ist so gut wie erledigt)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "groß, reichlich",
+          "grammar": "n/a",
+          "examples": [
+            "eine gute Ernte",
+            "ein gutes (ertragreiches) Jahr",
+            "gut betuchte (umgangssprachlich; recht wohlhabende) Leute",
+            "eine gut bezahlte Arbeit",
+            "eine gut dotierte Position",
+            "gut situierte (in guten wirtschaftlichen Verhältnissen lebende) Leute",
+            "eine gut verdienende Managerin",
+            "mit gutem (großem) Appetit essen",
+            "(umgangssprachlich) er hat einen guten Zug (trinkt viel auf einmal)",
+            "das kostet mich ein gutes Stück (viel) Geld",
+            "ein gut[er] Teil [der] Schuld lag bei ihm",
+            "das hat noch gute Weile (eilt nicht)",
+            "das Unternehmen ist gut aufgestellt (für zukünftige Aufgaben gut gerüstet)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "reichlich bemessen",
+          "grammar": "n/a",
+          "examples": [
+            "eine gute Stunde",
+            "ein guter Liter Flüssigkeit",
+            "der Sack wiegt gut (etwas über) zwei Zentner",
+            "er hat gut gewogen (hat etwas mehr als die genannte Menge abgewogen)"
+          ],
+          "idioms": [
+            "gut und gern[e] (umgangssprachlich:  bestimmt [so viel], wenn nicht mehr: bis dahin sind es noch gut und gern zehn Kilometer)",
+            "so gut wie (umgangssprachlich:  fast; praktisch: das ist so gut wie sicher, wie gar nichts; die Arbeit ist so gut wie erledigt)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "tadellos, anständigmoralisch einwandfrei, wertvoll",
+      "grammar": "n/a",
+      "examples": [
+        "ein gutes Benehmen",
+        "ein Kind aus gutem Hause",
+        "in der Klasse herrscht ein guter Geist",
+        "die Ärztin hat einen guten Ruf",
+        "sich gut benehmen, aufführen",
+        "(landschaftlich) der Schüler hat auch im Internat nicht gut getan (hat Schwierigkeiten gemacht, keinen guten Einfluss ausgeübt)",
+        "ein guter Mensch, Christ",
+        "eine gute Tat",
+        "für eine gute Sache kämpfen",
+        "ein gutes Herz haben (gutartig und hilfsbereit sein)",
+        "(umgangssprachlich) sie ist eine gute Seele (ein gutmütiger Mensch)",
+        "(umgangssprachlich) er ist ein guter Kerl (ist gutmütig, tut keinem etwas zuleide)",
+        "damit tust du ein gutes Werk (etwas Nützliches)",
+        "(verblasst) gute Frau, wo denken Sie hin",
+        "ich hatte ein, dabei kein gutes Gewissen (war [dabei nicht] von der Richtigkeit meines Handelns überzeugt)",
+        "sie war immer gut zu den Kindern/(selten:) gegen die Kinder",
+        "dafür bin ich mir zu gut (ich halte diese Sache für schlecht, zu gering und tue so etwas nicht)",
+        "ein gut gemeinter (aus einer guten Absicht heraus vorgebrachter) Rat, Vorschlag",
+        "ein ihr gut gesinnter (wohlgesinnter) Freund und Förderer",
+        "ein gut gesinnter Mensch (ein Mensch von guter, edler Gesinnung)",
+        "(ironisch) du bist gut, wie soll ich denn das in der kurzen Zeit schaffen? (ich muss mich doch sehr wundern, dass du von mir verlangst, das in der kurzen Zeit zu schaffen)",
+        "jenseits von Gut und Böse sein (ironisch: 1. weltfremd sein. 2. schlecht, indiskutabel sein.)",
+        "〈substantiviert:〉 Gutes mit Bösem vergelten (nach 1. Mose 44, 4)",
+        "an das Gute im Menschen glauben",
+        "sie hat in ihrem Leben viel Gutes getan"
+      ],
+      "idioms": [
+        "im Guten wie im Bösen (mit Güte wie mit Strenge)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "tadellos, anständig",
+          "grammar": "n/a",
+          "examples": [
+            "ein gutes Benehmen",
+            "ein Kind aus gutem Hause",
+            "in der Klasse herrscht ein guter Geist",
+            "die Ärztin hat einen guten Ruf",
+            "sich gut benehmen, aufführen",
+            "(landschaftlich) der Schüler hat auch im Internat nicht gut getan (hat Schwierigkeiten gemacht, keinen guten Einfluss ausgeübt)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "moralisch einwandfrei, wertvoll",
+          "grammar": "n/a",
+          "examples": [
+            "ein guter Mensch, Christ",
+            "eine gute Tat",
+            "für eine gute Sache kämpfen",
+            "ein gutes Herz haben (gutartig und hilfsbereit sein)",
+            "(umgangssprachlich) sie ist eine gute Seele (ein gutmütiger Mensch)",
+            "(umgangssprachlich) er ist ein guter Kerl (ist gutmütig, tut keinem etwas zuleide)",
+            "damit tust du ein gutes Werk (etwas Nützliches)",
+            "(verblasst) gute Frau, wo denken Sie hin",
+            "ich hatte ein, dabei kein gutes Gewissen (war [dabei nicht] von der Richtigkeit meines Handelns überzeugt)",
+            "sie war immer gut zu den Kindern/(selten:) gegen die Kinder",
+            "dafür bin ich mir zu gut (ich halte diese Sache für schlecht, zu gering und tue so etwas nicht)",
+            "ein gut gemeinter (aus einer guten Absicht heraus vorgebrachter) Rat, Vorschlag",
+            "ein ihr gut gesinnter (wohlgesinnter) Freund und Förderer",
+            "ein gut gesinnter Mensch (ein Mensch von guter, edler Gesinnung)",
+            "(ironisch) du bist gut, wie soll ich denn das in der kurzen Zeit schaffen? (ich muss mich doch sehr wundern, dass du von mir verlangst, das in der kurzen Zeit zu schaffen)",
+            "jenseits von Gut und Böse sein (ironisch: 1. weltfremd sein. 2. schlecht, indiskutabel sein.)",
+            "〈substantiviert:〉 Gutes mit Bösem vergelten (nach 1. Mose 44, 4)",
+            "an das Gute im Menschen glauben",
+            "sie hat in ihrem Leben viel Gutes getan"
+          ],
+          "idioms": [
+            "im Guten wie im Bösen (mit Güte wie mit Strenge)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "jemandem in engerer Beziehung zugetan und sich ihm gegenüber entsprechend verhaltend; freundlich gesinnt",
+      "grammar": "n/a",
+      "examples": [
+        "ein guter Freund, Kamerad",
+        "es waren gute Bekannte von ihm",
+        "auf gute Nachbarschaft!",
+        "bei etwas gutem Willen (innerer Bereitschaft) wäre es gegangen",
+        "(familiär) jemandem gut sein",
+        "(familiär) die beiden sind wieder gut miteinander/einander wieder gut (sind wieder versöhnt)",
+        "seien Sie bitte so gut (nett, freundlich), und nehmen Sie das Paket mit!",
+        "sei so gut, mir das Ergebnis mitzuteilen",
+        "jemandem gut zureden (jemanden in freundschaftlicher Art zu etwas ermuntern)",
+        "mit jemandem gut stehen, auskommen",
+        "er meint es gut mit dir (ist dir wohlgesinnt und will auch hiermit nur dein Bestes)"
+      ],
+      "idioms": [
+        "im Guten (friedlich, ohne Streit: etwas im Guten sagen; sich im Guten einigen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "nicht für den alltäglichen Gebrauch bestimmt, besonderen, feierlichen Anlässen vorbehalten",
+      "grammar": "n/a",
+      "examples": [
+        "seinen guten Anzug anziehen",
+        "(umgangssprachlich) dieses Kleid lasse ich mir für gut (für besondere Gelegenheiten)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "leicht, mühelos geschehend, sich machen lassend",
+      "grammar": "n/a",
+      "examples": [
+        "das Buch liest sich gut",
+        "hinterher hat, kann man gut reden",
+        "du hast gut lachen (bist nicht in meiner unangenehmen Lage)",
+        "es kann gut sein (ist ohne Weiteres möglich), dass sie noch kommt",
+        "ich kann ihn nicht gut darum bitten (es geht eigentlich nicht, dass ich ihn darum bitte)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "ausgezeichnet",
+      "link": "/rechtschreibung/ausgezeichnet"
+    },
+    {
+      "text": "einwandfrei",
+      "link": "/rechtschreibung/einwandfrei"
+    },
+    {
+      "text": "erstklassig",
+      "link": "/rechtschreibung/erstklassig"
+    },
+    {
+      "text": "hervorragend",
+      "link": "/rechtschreibung/hervorragend"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "g{u}t",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4115829_268695196.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "guot,"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "(in"
+    },
+    {
+      "word": "ein"
+    },
+    {
+      "word": "Gefüge)"
+    },
+    {
+      "word": "passend,"
+    },
+    {
+      "word": "verwandt"
+    },
+    {
+      "word": "mit"
+    },
+    {
+      "word": "Gatter",
+      "link": "/rechtschreibung/Gatter"
+    },
+    {
+      "word": ","
+    },
+    {
+      "word": "Gitter",
+      "link": "/rechtschreibung/Gitter"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "word": "essen",
+  "word_type": [
+    "unknown"
+  ],
+  "grammar": "Perfektbildung mit „hat“",
+  "meanings": [
+    {
+      "text": "[feste] Nahrung zu sich nehmen",
+      "grammar": "n/a",
+      "examples": [
+        "wir essen gern etwas Kräftiges",
+        "mit Messer und Gabel essen",
+        "bei Kerzenlicht essen",
+        "hier isst man gut",
+        "sie isst in der Kantine (pflegt in der Kantine zu essen)",
+        "heute Abend essen wir warm (nehmen wir warme Speisen zu uns)",
+        "an einer Gans drei Tage essen"
+      ],
+      "idioms": [
+        "selber essen macht fett (umgangssprachlich; Kommentar, wenn jemand von etwas Essbarem nichts abgibt und den oder die anderen beim Essen hungrig zusehen lässt)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "als Nahrung zu sich nehmen, verzehren",
+      "grammar": "n/a",
+      "examples": [
+        "Fleisch, seine Suppe essen",
+        "sie isst keinen Fisch (für sie kommt Fisch als Nahrung nicht infrage)",
+        "er isst zu viel",
+        "etwas isst sich gut, lässt sich gut essen"
+      ],
+      "idioms": [
+        "es wird nichts so heiß gegessen, wie es gekocht wird (man stellt sich alles viel schlimmer vor, als es dann wirklich ist)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "durch Nahrungsaufnahme in einen bestimmten Zustand bringen",
+      "grammar": "n/a",
+      "examples": [
+        "seinen Teller leer essen",
+        "er isst mich noch arm!",
+        "sich satt essen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "sich bedienen"
+    },
+    {
+      "text": "bei Tisch sein/sitzen"
+    },
+    {
+      "text": "den Hunger stillen"
+    },
+    {
+      "text": "sich ernähren"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "(e)ssen",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4110882_3283053.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "eʒʒen,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "eʒʒan,"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "kauen,"
+    },
+    {
+      "word": "beißen"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

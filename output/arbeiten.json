@@ -1,0 +1,299 @@
+{
+  "word": "arbeiten",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "high",
+  "grammar": "arbeitet, arbeitete, hat gearbeitet",
+  "meanings": [
+    {
+      "text": "Arbeit leisten, verrichten; tätig seinberuflich tätig, beschäftigt seinsich mit jemandem, etwas befassen [und darüber schreiben]sich in bestimmter Weise arbeiten (1a,  b) lassen",
+      "grammar": "sich arbeiten; unpersönlich",
+      "examples": [
+        "körperlich, geistig arbeiten",
+        "gewissenhaft, fleißig, hart, den ganzen Tag, am Schreibtisch, im Garten arbeiten",
+        "an einem Roman arbeiten (schreiben)",
+        "der Schauspieler hat viel an sich gearbeitet (hat sich viel mit der Ausbildung seiner schauspielerischen Fähigkeiten beschäftigt)",
+        "für, gegen Geld arbeiten",
+        "mit den Händen, mit dem Kopf arbeiten",
+        "im Akkord, mit Hochdruck, unter schlechten Bedingungen, unter Tarif arbeiten",
+        "er lässt gern andere für sich arbeiten",
+        "〈in übertragener Bedeutung:〉 sein Geld arbeiten lassen (es gewinnbringend anlegen)",
+        "halbtags arbeiten [gehen]",
+        "[in] Vollzeit, Teilzeit arbeiten",
+        "auf dem Bau, bei der Bahn, in einer Fabrik, mit Kindern arbeiten",
+        "er arbeitet als Monteur, fürs Fernsehen",
+        "die [nicht] arbeitende Bevölkerung",
+        "er arbeitet über den Expressionismus",
+        "es arbeitet sich gut mit diesem Gerät",
+        "am Abend arbeitet es sich ungestörter"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "Arbeit leisten, verrichten; tätig sein",
+          "grammar": "n/a",
+          "examples": [
+            "körperlich, geistig arbeiten",
+            "gewissenhaft, fleißig, hart, den ganzen Tag, am Schreibtisch, im Garten arbeiten",
+            "an einem Roman arbeiten (schreiben)",
+            "der Schauspieler hat viel an sich gearbeitet (hat sich viel mit der Ausbildung seiner schauspielerischen Fähigkeiten beschäftigt)",
+            "für, gegen Geld arbeiten",
+            "mit den Händen, mit dem Kopf arbeiten",
+            "im Akkord, mit Hochdruck, unter schlechten Bedingungen, unter Tarif arbeiten",
+            "er lässt gern andere für sich arbeiten",
+            "〈in übertragener Bedeutung:〉 sein Geld arbeiten lassen (es gewinnbringend anlegen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "beruflich tätig, beschäftigt sein",
+          "grammar": "n/a",
+          "examples": [
+            "halbtags arbeiten [gehen]",
+            "[in] Vollzeit, Teilzeit arbeiten",
+            "auf dem Bau, bei der Bahn, in einer Fabrik, mit Kindern arbeiten",
+            "er arbeitet als Monteur, fürs Fernsehen",
+            "die [nicht] arbeitende Bevölkerung"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich mit jemandem, etwas befassen [und darüber schreiben]",
+          "grammar": "n/a",
+          "examples": [
+            "er arbeitet über den Expressionismus"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich in bestimmter Weise arbeiten (1a,  b) lassen",
+          "grammar": "sich arbeiten; unpersönlich",
+          "examples": [
+            "es arbeitet sich gut mit diesem Gerät",
+            "am Abend arbeitet es sich ungestörter"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "sich für etwas einsetzen; auf ein bestimmtes Ziel, Ergebnis hinarbeitenjemandem, einer Sache zu schaden suchen",
+      "grammar": "n/a",
+      "examples": [
+        "an der Lösung eines Problems arbeiten",
+        "für eine bessere Zukunft arbeiten",
+        "gegen das Regime arbeiten"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich für etwas einsetzen; auf ein bestimmtes Ziel, Ergebnis hinarbeiten",
+          "grammar": "n/a",
+          "examples": [
+            "an der Lösung eines Problems arbeiten",
+            "für eine bessere Zukunft arbeiten"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "jemandem, einer Sache zu schaden suchen",
+          "grammar": "n/a",
+          "examples": [
+            "gegen das Regime arbeiten"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "alle Kräfte aufbieteneinen Weg [zu einem Ziel hin] mühevoll zurücklegen",
+      "grammar": "sich arbeiten",
+      "examples": [
+        "der Ruderer musste schwer arbeiten, um gegen die Strömung anzukommen",
+        "〈in übertragener Bedeutung:〉 das Schiff arbeitet schwer in der Dünung",
+        "sich durch das Gebüsch arbeiten",
+        "der Wurm arbeitete sich nach oben"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "alle Kräfte aufbieten",
+          "grammar": "n/a",
+          "examples": [
+            "der Ruderer musste schwer arbeiten, um gegen die Strömung anzukommen",
+            "〈in übertragener Bedeutung:〉 das Schiff arbeitet schwer in der Dünung"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "einen Weg [zu einem Ziel hin] mühevoll zurücklegen",
+          "grammar": "sich arbeiten",
+          "examples": [
+            "sich durch das Gebüsch arbeiten",
+            "der Wurm arbeitete sich nach oben"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "durch Arbeit, körperliche Anstrengung in einen bestimmten Zustand gelangensich körperlich so sehr betätigen, dass ein Körperteil in einen bestimmten Zustand gerät",
+      "grammar": "sich arbeiten",
+      "examples": [
+        "sich müde, krank arbeiten",
+        "du musst dich warm arbeiten",
+        "ich arbeitete mir die Hände wund, den Rücken lahm"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "durch Arbeit, körperliche Anstrengung in einen bestimmten Zustand gelangen",
+          "grammar": "sich arbeiten",
+          "examples": [
+            "sich müde, krank arbeiten",
+            "du musst dich warm arbeiten"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich körperlich so sehr betätigen, dass ein Körperteil in einen bestimmten Zustand gerät",
+          "grammar": "n/a",
+          "examples": [
+            "ich arbeitete mir die Hände wund, den Rücken lahm"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "in Funktion, Bewegung, Tätigkeit sein; in Betrieb, in Gang sein",
+      "grammar": "n/a",
+      "examples": [
+        "das Herz des Patienten arbeitet regelmäßig",
+        "ihr Gehirn arbeitete fieberhaft",
+        "die Maschine arbeitet einwandfrei, vollautomatisch",
+        "〈in übertragener Bedeutung:〉 das Holz arbeitet (verzieht sich)",
+        "〈in übertragener Bedeutung:〉 der Wein, Most arbeitet (gärt)",
+        "〈in übertragener Bedeutung:〉 der Teig arbeitet (geht auf)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "jemandem zu schaffen machen, jemanden innerlich beschäftigen",
+      "grammar": "n/a",
+      "examples": [
+        "die Kränkung arbeitete in ihr"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "sich körperlich auf bestimmte Leistungen vorbereiten; trainieren",
+      "grammar": "n/a",
+      "examples": [
+        "mit den Hanteln, am Sandsack arbeiten"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "Sport"
+      }
+    },
+    {
+      "text": "anfertigen, herstellen",
+      "grammar": "n/a",
+      "examples": [
+        "ein Kostüm auf Taille arbeiten",
+        "wo, bei wem lassen Sie arbeiten?",
+        "eine Schale in Ton, in Silber arbeiten"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "besonders Handwerk"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "Arbeit leisten/verrichten"
+    },
+    {
+      "text": "sich betätigen"
+    },
+    {
+      "text": "hantieren",
+      "link": "/rechtschreibung/hantieren"
+    },
+    {
+      "text": "tätig sein",
+      "link": "/rechtschreibung/taetig_sein"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "(a)rbeiten",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4111957_181980059.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "ar(e)beiten,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "ar(a)beiten"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "(sich)"
+    },
+    {
+      "word": "plagen,"
+    },
+    {
+      "word": "angestrengt"
+    },
+    {
+      "word": "tätig"
+    },
+    {
+      "word": "sein,"
+    },
+    {
+      "word": "zu"
+    },
+    {
+      "word": "Arbeit",
+      "link": "/rechtschreibung/Arbeit"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

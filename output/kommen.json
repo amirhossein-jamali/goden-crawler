@@ -1,0 +1,528 @@
+{
+  "word": "kommen",
+  "word_type": [
+    "unknown"
+  ],
+  "grammar": "kommt, kam, ist gekommen",
+  "meanings": [
+    {
+      "text": "sich auf ein Ziel hin bewegen [und dorthin gelangen]; anlangen, eintreffen",
+      "grammar": "n/a",
+      "examples": [
+        "pünktlich, zu spät kommen",
+        "wir sind auch erst vor einer Stunde gekommen",
+        "ich komme gleich (mache mich gleich auf den Weg)",
+        "dort kommt die Bahn",
+        "der Zug kommt erst in einer halben Stunde",
+        "wann kommt der nächste Bus?",
+        "wir kommen mit der Bahn, dem Flugzeug, dem Auto",
+        "wir sind diesmal zu Fuß gekommen",
+        "der Monteur kommt wegen der Heizung",
+        "ich komme, um zu helfen",
+        "ans Ziel kommen",
+        "nach Hause kommen",
+        "komme ich hier zum Bahnhof?",
+        "kommt der Zug durch Mannheim? (liegt Mannheim auf der Route des Zuges?)",
+        "aus dem Theater, Kino kommen (gerade im Theater, Kino gewesen sein)",
+        "aus der Schule, von der Arbeit kommen (die Schule, die Arbeitsstelle gerade verlassen haben)",
+        "das Auto kam (näherte sich) von rechts",
+        "die Kupplung kommen lassen (einkuppeln)",
+        "den Gegner kommen (angreifen) lassen",
+        "〈in Verbindung mit einem Verb der Bewegung im 2. Partizip:〉 angeritten, angeradelt, angebraust kommen",
+        "〈substantiviert:〉 ein ständiges Kommen und Gehen",
+        "〈in übertragener Bedeutung:〉 zum Schluss kommen",
+        "〈in übertragener Bedeutung:〉 auf etwas zu sprechen kommen",
+        "〈in übertragener Bedeutung:〉 wie sind wir auf dieses Thema gekommen? (was hat uns dazu veranlasst, darüber zu reden?)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "zu etwas erscheinen, an etwas teilnehmenjemanden aufsuchen, besuchen",
+      "grammar": "n/a",
+      "examples": [
+        "zu einer Tagung kommen",
+        "wie viele Leute werden kommen?",
+        "ich weiß nicht, ob ich morgen kommen kann",
+        "die Ärztin kommt zu dem Kranken",
+        "morgen wird ein Vertreter zu uns kommen",
+        "〈kommen + lassen:〉 den Arzt kommen lassen",
+        "wir ließen [uns] ein Taxi kommen (bestellten ein Taxi)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "zu etwas erscheinen, an etwas teilnehmen",
+          "grammar": "n/a",
+          "examples": [
+            "zu einer Tagung kommen",
+            "wie viele Leute werden kommen?",
+            "ich weiß nicht, ob ich morgen kommen kann"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "jemanden aufsuchen, besuchen",
+          "grammar": "n/a",
+          "examples": [
+            "die Ärztin kommt zu dem Kranken",
+            "morgen wird ein Vertreter zu uns kommen",
+            "〈kommen + lassen:〉 den Arzt kommen lassen",
+            "wir ließen [uns] ein Taxi kommen (bestellten ein Taxi)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "gebracht werden",
+      "grammar": "n/a",
+      "examples": [
+        "ist eine Nachricht gekommen?",
+        "für dich ist keine Post gekommen",
+        "das Essen kommt gleich auf den Tisch (wird gleich aufgetragen)",
+        "〈in übertragener Bedeutung:〉 der Fall, der Hehler kam vor Gericht",
+        "〈in übertragener Bedeutung:〉 an die Öffentlichkeit kommen",
+        "〈in übertragener Bedeutung:〉 auf den Markt kommen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "sich als Geschehen, Ereignis jemandem in bestimmter Weise darstellensich in bestimmter Weise gegen jemanden benehmensich [in belästigender Weise] an jemanden wenden",
+      "grammar": "n/a",
+      "examples": [
+        "das kommt mir sehr gelegen",
+        "so, in diesem Ton lasse ich mir nicht kommen!",
+        "wie kommst du mir denn?",
+        "komm mir doch nicht immer mit Ausreden!"
+      ],
+      "idioms": [
+        "auf jemanden nichts kommen lassen (nicht dulden, dass Schlechtes über jemanden gesagt wird)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich als Geschehen, Ereignis jemandem in bestimmter Weise darstellen",
+          "grammar": "n/a",
+          "examples": [
+            "das kommt mir sehr gelegen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich in bestimmter Weise gegen jemanden benehmen",
+          "grammar": "n/a",
+          "examples": [
+            "so, in diesem Ton lasse ich mir nicht kommen!",
+            "wie kommst du mir denn?"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        },
+        {
+          "text": "sich [in belästigender Weise] an jemanden wenden",
+          "grammar": "n/a",
+          "examples": [
+            "komm mir doch nicht immer mit Ausreden!"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        },
+        {
+          "text": "",
+          "grammar": "n/a",
+          "idioms": [
+            "auf jemanden nichts kommen lassen (nicht dulden, dass Schlechtes über jemanden gesagt wird)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "hervortreten, [bei jemandem] in Erscheinung treten",
+      "grammar": "n/a",
+      "examples": [
+        "die ersten Blüten kommen",
+        "die Saat ist nicht gekommen (nicht aufgegangen)",
+        "bei unserer Kleinen kommt der erste Zahn",
+        "ihm kam der Gedanke (er hatte den Gedanken, Einfall), dass …",
+        "seine Reue kam zu spät",
+        "ihm/bei ihm kommen immer gleich die Tränen",
+        "die Antwort kam spontan, wie aus der Pistole geschossen",
+        "es kam ihr (umgangssprachlich; fiel ihr ein), dass sie noch etwas besorgen wollte",
+        "meine Glückwünsche kommen von Herzen",
+        "von ihm kam keine Hilfe"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "irgendwo aufgenommen, untergebracht, eingestellt o. Ä. werden",
+      "grammar": "n/a",
+      "examples": [
+        "zur Schule, aufs Gymnasium, ins Krankenhaus, in ein Heim, ins Gefängnis kommen",
+        "〈in übertragener Bedeutung:〉 in den Himmel, in die Hölle kommen",
+        "der Film kommt jetzt in die Kinos (wird im Kino gezeigt)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "ordnungsgemäß an einen bestimmten Platz gestellt, gelegt werdenirgendwo seinen Platz erhalten",
+      "grammar": "n/a",
+      "examples": [
+        "das Buch kommt ins Regal",
+        "wohin kommen die Müllsäcke?",
+        "diese Löffel kommen (gehören) rechts ins Fach",
+        "der Aufsatz kommt in die nächste Nummer der Zeitschrift",
+        "sie ist in dem Turnier auf den zweiten Platz gekommen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "ordnungsgemäß an einen bestimmten Platz gestellt, gelegt werden",
+          "grammar": "n/a",
+          "examples": [
+            "das Buch kommt ins Regal",
+            "wohin kommen die Müllsäcke?",
+            "diese Löffel kommen (gehören) rechts ins Fach"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "irgendwo seinen Platz erhalten",
+          "grammar": "n/a",
+          "examples": [
+            "der Aufsatz kommt in die nächste Nummer der Zeitschrift",
+            "sie ist in dem Turnier auf den zweiten Platz gekommen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "in einen Zustand, eine Verfassung, eine bestimmte Lage geraten",
+      "grammar": "n/a",
+      "examples": [
+        "in Gefahr, Not, Bedrängnis, Verlegenheit kommen",
+        "die Kinder kamen in Versuchung",
+        "er kam in den Verdacht, das Geld gestohlen zu haben",
+        "in Schwung, Stimmung, Wut, Zorn kommen",
+        "ins Sinnieren, ins Schwärmen kommen",
+        "der Verkehr kam ins Stocken, zum Erliegen",
+        "plötzlich kam ich ins Rutschen (begann ich zu rutschen)",
+        "er kam unters Auto, unter die Straßenbahn (wurde vom Auto, von der Straßenbahn überfahren)",
+        "〈kommen + Infinitiv mit zu:〉 sie kam neben den Minister zu sitzen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "(von Stimmungen, geistigen Zuständen) jemanden erfassen, zu beherrschen beginnen",
+      "grammar": "n/a",
+      "examples": [
+        "ein Gefühl der Verzweiflung, Zufriedenheit kam über ihn"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "Zeit, Gelegenheit für etwas finden",
+      "grammar": "n/a",
+      "examples": [
+        "endlich komme ich dazu, dir zu schreiben",
+        "zum Waschen des Wagens, zum Reparieren des Radios bin ich noch nicht gekommen",
+        "sie ist die ganze Nacht nicht zum Schlafen gekommen",
+        "nicht aus dem Haus, nur selten ins Theater kommen (nicht, nur selten die Zeit oder Gelegenheit finden, das Haus zu verlassen, das Theater zu besuchen)",
+        "nicht aus den Kleidern kommen (keine Zeit finden, die Kleider auszuziehen [und sich auszuruhen])"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "[langsam herankommend] eintreten, sich ereignen",
+      "grammar": "n/a",
+      "examples": [
+        "die Flut kommt",
+        "sie hielt den Zeitpunkt zum Eingreifen für gekommen",
+        "das Ende wird bald kommen",
+        "der nächste Winter kommt bestimmt",
+        "ein Gewitter kommt",
+        "der Tag, die Nacht kommt (gehoben; es wird Tag, Nacht)",
+        "es kam alles ganz anders",
+        "das kam für mich völlig überraschend",
+        "es kommt noch so weit (es wird noch so), dass …",
+        "ich sehe [es] schon kommen, dass …",
+        "dieses Unglück habe ich schon lange kommen sehen",
+        "was auch immer kommen mag, ich bleibe bei dir",
+        "es kommt zum Streit, zum Krieg, zu einem Vergleich",
+        "in den Betrieben kam es zu Entlassungen",
+        "das durfte jetzt nicht kommen (umgangssprachlich, meist spöttisch; es war sehr töricht, das jetzt zu sagen)",
+        "so weit kommt es noch! (umgangssprachlich ironisch; dazu darf es auf keinen Fall kommen!)"
+      ],
+      "idioms": [
+        "\u003csubst:\u003e im Kommen sein ([wieder] modern, populär werden: Spitzen und Rüschen sind [wieder] im Kommen)",
+        "wies kommt, so wirds genommen (umgangssprachlich:  wie es vom Schicksal bestimmt ist, nehmen wir es hin; damit müssen wir fertigwerden)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "etwas erlangen",
+      "grammar": "n/a",
+      "examples": [
+        "zu Geld, Reichtum, großen Ehren kommen",
+        "zur Besinnung, Ruhe kommen",
+        "nach der langen Krankheit kommt sie allmählich wieder zu Kräften",
+        "wenn du dich nicht anstrengst, wirst du nie zu etwas kommen (umgangssprachlich; nie Besitz o. Ä. erwerben)",
+        "wieder zu sich \u003cDativ\u003e kommen (nach einer Ohnmacht o. Ä. das Bewusstsein wiedererlangen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "etwas Grundlegendes, äußerst Wichtiges verlieren",
+      "grammar": "n/a",
+      "examples": [
+        "um seine Ersparnisse, ums Leben kommen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "durch eigene Anstrengung etwas verborgen Gebliebenes erfahrendurch eigene Anstrengung sich in den Besitz von etwas bringen, etwas für sich erreichen",
+      "grammar": "n/a",
+      "examples": [
+        "jemandem auf die Spur kommen",
+        "hinter jemandes Schliche, hinter das Geheimnis kommen",
+        "wie kommst du darauf? (woher hast du diesen Gedanken, diese Vermutung?)",
+        "wie bist du an das Foto, an das Engagement gekommen?"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "durch eigene Anstrengung etwas verborgen Gebliebenes erfahren",
+          "grammar": "n/a",
+          "examples": [
+            "jemandem auf die Spur kommen",
+            "hinter jemandes Schliche, hinter das Geheimnis kommen",
+            "wie kommst du darauf? (woher hast du diesen Gedanken, diese Vermutung?)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "durch eigene Anstrengung sich in den Besitz von etwas bringen, etwas für sich erreichen",
+          "grammar": "n/a",
+          "examples": [
+            "wie bist du an das Foto, an das Engagement gekommen?"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "an der Reihe sein, folgenin einem bestimmten Zahlenverhältnis entfallen",
+      "grammar": "n/a",
+      "examples": [
+        "wenn Sie diese Straße entlanggehen, kommt erst eine Schule, dann das Rathaus",
+        "erst komme ich [an die Reihe], dann bist du dran",
+        "auf hundert Berufstätige kommen sieben Arbeitslose",
+        "bald wird auf jeden zweiten Einwohner ein Auto kommen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "an der Reihe sein, folgen",
+          "grammar": "n/a",
+          "examples": [
+            "wenn Sie diese Straße entlanggehen, kommt erst eine Schule, dann das Rathaus",
+            "erst komme ich [an die Reihe], dann bist du dran"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "in einem bestimmten Zahlenverhältnis entfallen",
+          "grammar": "n/a",
+          "examples": [
+            "auf hundert Berufstätige kommen sieben Arbeitslose",
+            "bald wird auf jeden zweiten Einwohner ein Auto kommen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "von etwas herstammen; seinen Ursprung, Grund in etwas habenvon einer Generation zur anderen weitergegeben, vererbt werden",
+      "grammar": "n/a",
+      "examples": [
+        "woher kommt das viele Geld?",
+        "sein Husten kommt vom vielen Rauchen",
+        "„Kunst“ kommt von „können“",
+        "wie kommt es, dass du noch nichts unternommen hast? (warum hast du …?)",
+        "aus einfachen Verhältnissen kommen",
+        "das Schmuckstück ist von der Großmutter auf sie gekommen",
+        "diese Wertvorstellungen sind aus dem 19. Jahrhundert auf uns gekommen"
+      ],
+      "idioms": [
+        "das kommt davon! (das ist die Folge [deiner Handlungsweise])"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "von etwas herstammen; seinen Ursprung, Grund in etwas haben",
+          "grammar": "n/a",
+          "examples": [
+            "woher kommt das viele Geld?",
+            "sein Husten kommt vom vielen Rauchen",
+            "„Kunst“ kommt von „können“",
+            "wie kommt es, dass du noch nichts unternommen hast? (warum hast du …?)",
+            "aus einfachen Verhältnissen kommen"
+          ],
+          "idioms": [
+            "das kommt davon! (das ist die Folge [deiner Handlungsweise])"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "von einer Generation zur anderen weitergegeben, vererbt werden",
+          "grammar": "n/a",
+          "examples": [
+            "das Schmuckstück ist von der Großmutter auf sie gekommen",
+            "diese Wertvorstellungen sind aus dem 19. Jahrhundert auf uns gekommen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "einen Orgasmus haben",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "salopp"
+      }
+    },
+    {
+      "text": "einen bestimmten Preis haben, kosten",
+      "grammar": "n/a",
+      "examples": [
+        "die Reparatur kommt [mich] auf etwa 50 Euro",
+        "deine Ansprüche kommen aber teuer!"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "(von Säuglingen) zur Einnahme einer Mahlzeit aufwachen",
+      "grammar": "n/a",
+      "examples": [
+        "die Kleine kommt dreimal pro Nacht"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "verblasst in festen Verbindungen mit Verbalabstrakta zur Umschreibung des entsprechenden Verbs (besonders des Passivs)",
+      "grammar": "n/a",
+      "examples": [
+        "zur Anwendung, Aufführung kommen (angewendet, aufgeführt werden)",
+        "zum Einsatz kommen (eingesetzt werden)",
+        "zu Fall kommen (fallen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "drückt eine Aufforderung aus",
+      "grammar": "Imperativ",
+      "examples": [
+        "komm, werd nicht frech!",
+        "komm, wir gehen!"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "ankommen",
+      "link": "/rechtschreibung/ankommen"
+    },
+    {
+      "text": "anlangen",
+      "link": "/rechtschreibung/anlangen"
+    },
+    {
+      "text": "sich einfinden"
+    },
+    {
+      "text": "sich einstellen"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "k(o)mmen",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4111331_23791721.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "komen,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "koman,"
+    },
+    {
+      "word": "gemeingermanisch"
+    },
+    {
+      "word": "Wort"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

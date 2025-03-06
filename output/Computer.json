@@ -1,0 +1,83 @@
+{
+  "word": "Computer",
+  "article": "der",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "der Computer; Genitiv: des Computers, Plural: die Computer",
+  "meanings": [
+    {
+      "text": "n/a",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "Datenverarbeitungsanlage",
+      "link": "/rechtschreibung/Datenverarbeitungsanlage"
+    },
+    {
+      "text": "EDV-Anlage",
+      "link": "/rechtschreibung/EDV_Anlage"
+    },
+    {
+      "text": "Laptop",
+      "link": "/rechtschreibung/Laptop"
+    },
+    {
+      "text": "Mac",
+      "link": "/rechtschreibung/Mac_Namensbestandteil"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "n/a",
+      "phonetic": "n/a",
+      "audio": "no_audio_available"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "englisch"
+    },
+    {
+      "word": "computer,"
+    },
+    {
+      "word": "zu:"
+    },
+    {
+      "word": "to"
+    },
+    {
+      "word": "compute"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "(be)rechnen"
+    },
+    {
+      "word": "\u003c"
+    },
+    {
+      "word": "lateinisch"
+    },
+    {
+      "word": "computare,"
+    },
+    {
+      "word": "Konto",
+      "link": "/rechtschreibung/Konto"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort stand 1967 erstmals im Rechtschreibduden.",
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

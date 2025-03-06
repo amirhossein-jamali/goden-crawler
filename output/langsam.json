@@ -1,0 +1,107 @@
+{
+  "word": "langsam",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "No data",
+  "meanings": [
+    {
+      "text": "durch geringe Geschwindigkeit gekennzeichnet, mit wenig Geschwindigkeit, ohne Schnelligkeit; relativ lange Zeit in Anspruch nehmend",
+      "grammar": "n/a",
+      "examples": [
+        "ein langsames Tempo",
+        "ein langsamer Prozess",
+        "eine langsame Fahrt",
+        "mit langsamen Schritten gehen",
+        "die Sache macht nur langsame Fortschritte",
+        "der Zug fährt langsam in die Halle",
+        "die Zeit vergeht nur langsam",
+        "der Wagen wurde am Berg langsamer",
+        "er spazierte langsam durch den Park",
+        "es ging ihm alles viel zu langsam"
+      ],
+      "idioms": [
+        "langsam, aber sicher (umgangssprachlich:  [von etwas, was sich entwickelt, einem Ziel zusteuert] nicht sehr schnell, aber unaufhaltsam: mit ihm geht es langsam, aber sicher bergab)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "umständlich, schwerfällig, nicht flink und wendig; viel Zeit für etwas benötigend",
+      "grammar": "n/a",
+      "examples": [
+        "ein langsamer Schüler, Arbeiter",
+        "er arbeitet, denkt sehr langsam",
+        "er ist seiner ganzen Veranlagung nach, bei/in seiner Arbeit ziemlich langsam"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "allmählich, nach und nach; mit der Zeit",
+      "grammar": "n/a",
+      "examples": [
+        "das langsame Nachlassen der Kräfte",
+        "langsam wurde ihm klar, worum es ging",
+        "es wird langsam Zeit, dass du gehst"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "bedächtig",
+      "link": "/rechtschreibung/bedaechtig"
+    },
+    {
+      "text": "gebremst"
+    },
+    {
+      "text": "gedrosselt",
+      "link": "/rechtschreibung/gedrosselt"
+    },
+    {
+      "text": "gelassen",
+      "link": "/rechtschreibung/gelassen_beherrscht_entspannt"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "l(a)ngsam",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4106844_502524612.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "lancsam,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "langsam,"
+    },
+    {
+      "word": "eigentlich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "lange"
+    },
+    {
+      "word": "dauernd"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

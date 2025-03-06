@@ -1,0 +1,52 @@
+{
+  "word": "Banane",
+  "article": "die",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "low",
+  "grammar": "die Banane; Genitiv: der Banane, Plural: die Bananen",
+  "meanings": [
+    {
+      "text": "wohlschmeckende, längliche, gelbe Frucht einer baumähnlichen tropischen Staude",
+      "grammar": "n/a",
+      "examples": [
+        "überreife Bananen"
+      ],
+      "idioms": [
+        "ausgerechnet Bananen! (veraltet:  Äußerung [wenn etwas Unerwartetes eintritt]; nach dem Kehrreim eines nach dem Ersten Weltkrieg entstandenen Schlagers: ausgerechnet Bananen, Bananen verlangt sie von mir!)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/B/Banane-201020047719.jpg",
+      "image_caption": "© MEV Verlag, Augsburg",
+      "tuple_info": {
+        "Herkunft": "portugiesisch banana, aus einer westafrikanischen Sprache"
+      }
+    },
+    {
+      "text": "Hubschrauber mit zwei Rotoren",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich scherzhaft",
+        "Herkunft": "nach der Form"
+      }
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "Ban{a}ne",
+      "phonetic": "[baˈnaːnə]",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4107444_54315100.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "No data available"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

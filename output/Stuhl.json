@@ -1,0 +1,143 @@
+{
+  "word": "Stuhl",
+  "article": "der",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "der Stuhl; Genitiv: des Stuhles, Stuhls, Plural: die Stühle",
+  "meanings": [
+    {
+      "text": "mit vier Beinen, einer Rückenlehne und gelegentlich Armlehnen versehenes Sitzmöbel für eine Person",
+      "grammar": "n/a",
+      "examples": [
+        "ein wackliger Stuhl",
+        "ein Stuhl mit hoher Lehne",
+        "Stühle stehen um den Tisch",
+        "die Stühle aufstellen, auf den Tisch stellen",
+        "jemandem einen Stuhl anbieten (ihn zum Sitzen auffordern)",
+        "sich auf einen Stuhl setzen",
+        "auf dem Stuhl sitzen, hin und her rutschen",
+        "vom Stuhl aufstehen, aufspringen",
+        "〈in übertragener Bedeutung:〉 ihr Stuhl (ihr Arbeitsplatz) war inzwischen anderweitig besetzt"
+      ],
+      "idioms": [
+        "elektrischer Stuhl (einem Stuhl ähnliche Vorrichtung, auf der sitzend ein zum Tode Verurteilter durch Starkstrom hingerichtet wird; Lehnübersetzung von englisch electric chair)",
+        "heißer Stuhl (Jugendsprache veraltet:  [schweres] Motorrad, Moped o. Ä.)",
+        "jemandem den Stuhl vor die Tür setzen (1. jemanden aus seinem Haus weisen.  2. jemandem [in spektakulärer Form] kündigen.)",
+        "[fast] vom Stuhl fallen (umgangssprachlich:  sehr überrascht, entsetzt über etwas sein)",
+        "jemanden [nicht] vom Stuhl reißen/hauen (umgangssprachlich:  jemanden [nicht] sehr erstaunen, begeistern)",
+        "sich zwischen zwei/alle Stühle setzen (sich zwei bzw. mehrere Möglichkeiten o. Ä. gleichermaßen verscherzen)",
+        "zwischen zwei/allen Stühlen sitzen (in der unangenehmen Lage sein, sich zwei bzw. mehrere Möglichkeiten o. Ä. gleichermaßen verscherzt zu haben)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "",
+      "grammar": "n/a",
+      "examples": [
+        "der gynäkologische Stuhl"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/S/Stuhl-201100281864.jpg",
+      "image_caption": "Stuhl beim Zahnarzt - © apfelweile - Fotolia.com",
+      "tuple_info": {
+        "Kurzform für": "Behandlungsstuhl"
+      }
+    },
+    {
+      "text": "nur in bestimmten Fügungen",
+      "grammar": "n/a",
+      "examples": [
+        "der Apostolische, Heilige Stuhl, der Stuhl Petri (Bezeichnung für das Amt des Papstes, den Papst als Träger des Amtes und die päpstlichen Behörden)",
+        "der bischöfliche Stuhl (Bischofssitz)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "katholische Kirche"
+      }
+    },
+    {
+      "text": "Kot (1) vom Menschen",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "",
+          "grammar": "n/a",
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Herkunft": "spätmittelhochdeutsch, aus der mittelhochdeutschen Wendung „ze stuole gān = zum Nachtstuhl gehen“, vgl. Stuhlgang",
+            "Kurzform für": "Stuhlgang (a)"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Herkunft": "spätmittelhochdeutsch, aus der mittelhochdeutschen Wendung „ze stuole gān = zum Nachtstuhl gehen“, vgl. Stuhlgang",
+        "Kurzform für": "Stuhlgang (a)"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "Hocker",
+      "link": "/rechtschreibung/Hocker"
+    },
+    {
+      "text": "Schemel",
+      "link": "/rechtschreibung/Schemel"
+    },
+    {
+      "text": "Sitzelement",
+      "link": "/rechtschreibung/Sitzelement"
+    },
+    {
+      "text": "Sitzgelegenheit",
+      "link": "/rechtschreibung/Sitzgelegenheit"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "St{u}hl",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4113156_11872445.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "stuol,"
+    },
+    {
+      "word": "eigentlich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "Gestell,"
+    },
+    {
+      "word": "verwandt"
+    },
+    {
+      "word": "mit"
+    },
+    {
+      "word": "stehen",
+      "link": "/rechtschreibung/stehen"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

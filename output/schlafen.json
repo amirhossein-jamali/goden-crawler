@@ -1,0 +1,211 @@
+{
+  "word": "schlafen",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "schläft, schlief, hat geschlafen",
+  "meanings": [
+    {
+      "text": "sich im Zustand des Schlafes befindenin bestimmter Weise schlafen (1a) könnensich durch Schlafen (1a) in einen bestimmten Zustand bringen",
+      "grammar": "sich schlafen",
+      "examples": [
+        "fest, auf dem Bauch, bei offenem Fenster schlafen",
+        "schlafen gehen",
+        "sich schlafen legen",
+        "schlaf gut, schön!",
+        "das Kind schläft noch halb (ist noch nicht richtig wach)",
+        "sich schlafend stellen",
+        "〈in übertragener Bedeutung:〉 im Winter schläft die Natur",
+        "auf dem Sofa schläft es sich gut",
+        "sich gesund schlafen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich im Zustand des Schlafes befinden",
+          "grammar": "n/a",
+          "examples": [
+            "fest, auf dem Bauch, bei offenem Fenster schlafen",
+            "schlafen gehen",
+            "sich schlafen legen",
+            "schlaf gut, schön!",
+            "das Kind schläft noch halb (ist noch nicht richtig wach)",
+            "sich schlafend stellen",
+            "〈in übertragener Bedeutung:〉 im Winter schläft die Natur"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "in bestimmter Weise schlafen (1a) können",
+          "grammar": "sich schlafen; unpersönlich",
+          "examples": [
+            "auf dem Sofa schläft es sich gut"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich durch Schlafen (1a) in einen bestimmten Zustand bringen",
+          "grammar": "sich schlafen",
+          "examples": [
+            "sich gesund schlafen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "übernachten, untergebracht sein",
+      "grammar": "n/a",
+      "examples": [
+        "du kannst bei uns schlafen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "koitieren\n              [um ein bestimmtes Ziel zu erreichen] nacheinander mit verschiedenen Partnern koitieren",
+      "grammar": "sich schlafen",
+      "examples": [
+        "die beiden schlafen miteinander",
+        "sich nach oben, durch die Chefetage schlafen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "koitieren",
+          "grammar": "n/a",
+          "examples": [
+            "die beiden schlafen miteinander"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "verhüllend"
+          }
+        },
+        {
+          "text": "[um ein bestimmtes Ziel zu erreichen] nacheinander mit verschiedenen Partnern koitieren",
+          "grammar": "sich schlafen",
+          "examples": [
+            "sich nach oben, durch die Chefetage schlafen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "salopp"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "salopp"
+      }
+    },
+    {
+      "text": "unaufmerksam sein, nicht aufpassen [und einen Fehler machen, eine Gelegenheit verpassen]",
+      "grammar": "n/a",
+      "examples": [
+        "die Konkurrenz hat geschlafen und die Marktlücke nicht genutzt"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "ein Schläfchen machen"
+    },
+    {
+      "text": "im Schlaf liegen; (gehoben) in Morpheus' Armen liegen"
+    },
+    {
+      "text": "ruhen",
+      "link": "/rechtschreibung/ruhen"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "schl{a}fen",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4111541_109426517.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "slāfen,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "slāf(f)an,"
+    },
+    {
+      "word": "zu"
+    },
+    {
+      "word": "einem"
+    },
+    {
+      "word": "Adjektiv"
+    },
+    {
+      "word": "mit"
+    },
+    {
+      "word": "der"
+    },
+    {
+      "word": "Bedeutung"
+    },
+    {
+      "word": "„schlaff"
+    },
+    {
+      "word": "(herabhängend)“"
+    },
+    {
+      "word": "und"
+    },
+    {
+      "word": "eigentlich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "schlaff,"
+    },
+    {
+      "word": "matt"
+    },
+    {
+      "word": "werden,"
+    },
+    {
+      "word": "verwandt"
+    },
+    {
+      "word": "mit"
+    },
+    {
+      "word": "schlaff",
+      "link": "/rechtschreibung/schlaff"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

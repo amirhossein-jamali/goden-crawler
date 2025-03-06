@@ -1,0 +1,127 @@
+{
+  "word": "hässlich",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "No data",
+  "meanings": [
+    {
+      "text": "von unschönem Aussehen, das ästhetische Empfinden verletzend; abstoßend",
+      "grammar": "n/a",
+      "examples": [
+        "ein hässliches Gesicht, Mädchen",
+        "ein hässlicher Mensch, Mann",
+        "hässliche Farben, Vorstadtstraßen",
+        "er sah erschreckend hässlich aus"
+      ],
+      "idioms": [
+        "Ärger macht hässlich"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "eine menschlich unerfreuliche Haltung erkennen lassend; gemeinunangenehm, unerfreulich",
+      "grammar": "n/a",
+      "examples": [
+        "hässliche Redensarten",
+        "das war sehr hässlich von dir",
+        "sei doch nicht so hässlich [zu deiner Schwester]!",
+        "hässlich von jemandem sprechen",
+        "ein hässlicher Vorfall",
+        "hässliches Wetter",
+        "ein hartnäckiger hässlicher Husten plagte ihn"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "eine menschlich unerfreuliche Haltung erkennen lassend; gemein",
+          "grammar": "n/a",
+          "examples": [
+            "hässliche Redensarten",
+            "das war sehr hässlich von dir",
+            "sei doch nicht so hässlich [zu deiner Schwester]!",
+            "hässlich von jemandem sprechen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "unangenehm, unerfreulich",
+          "grammar": "n/a",
+          "examples": [
+            "ein hässlicher Vorfall",
+            "hässliches Wetter",
+            "ein hartnäckiger hässlicher Husten plagte ihn"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "abscheulich",
+      "link": "/rechtschreibung/abscheulich"
+    },
+    {
+      "text": "abstoßend",
+      "link": "/rechtschreibung/abstoszend"
+    },
+    {
+      "text": "ekelhaft",
+      "link": "/rechtschreibung/ekelhaft"
+    },
+    {
+      "text": "eklig",
+      "link": "/rechtschreibung/eklig"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "h(ä)sslich",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4113570_70370849.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "heʒ[ʒe]lich,"
+    },
+    {
+      "word": "haʒlich,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "haʒlīh,"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "feindselig,"
+    },
+    {
+      "word": "voller"
+    },
+    {
+      "word": "Hass"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1.",
+    "Die Schreibung dieses Wortes wurde 1996 geändert (Beispiele zur neuen Rechtschreibung)."
+  ]
+}

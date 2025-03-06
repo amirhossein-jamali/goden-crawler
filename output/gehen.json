@@ -1,0 +1,692 @@
+{
+  "word": "gehen",
+  "word_type": [
+    "unknown"
+  ],
+  "grammar": "geht, ging, ist gegangen",
+  "meanings": [
+    {
+      "text": "sich in aufrechter Haltung auf den Füßen schrittweise fortbewegen",
+      "grammar": "n/a",
+      "examples": [
+        "schnell, langsam, gerade, gebückt, barfuß, am Stock, auf Zehenspitzen, eingehakt gehen",
+        "geradeaus, um die Ecke, über die Straße, auf und ab, hin und her gehen",
+        "willst du mitfahren oder lieber [zu Fuß] gehen?"
+      ],
+      "idioms": [
+        "wo jemand geht und steht (immerzu; überall: er trägt die Sonnenbrille, wo er geht und steht)",
+        "wie jemand geht und steht (so, wie jemand gerade [angezogen] ist; sofort: als er die Nachricht hörte, rannte er los, wie er ging und stand)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "eine bestimmte Strecke gehend (1) zurücklegen",
+      "grammar": "n/a",
+      "examples": [
+        "einen Umweg, 5 km gehen",
+        "ich bin den Weg in einer Stunde gegangen",
+        "sie ist ein Stück mit uns gegangen",
+        "der Pfad ist nicht leicht zu gehen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "in bestimmter Weise zu begehen sein",
+      "grammar": "sich gehen; unpersönlich",
+      "examples": [
+        "auf diesem Pflaster geht es sich schlecht"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "sich [mit bestimmter Absicht] irgendwohin begebenregelmäßig besuchenin einem bestimmten Bereich [beruflich] tätig werdenals etwas [zu] arbeiten [beginnen]",
+      "grammar": "n/a",
+      "examples": [
+        "schwimmen, tanzen, einkaufen, essen gehen",
+        "auf den Markt, aufs Standesamt gehen",
+        "ins Ausland gehen",
+        "zu/ins Bett gehen",
+        "zur/in die Kirche gehen (den Gottesdienst besuchen)",
+        "an die Luft gehen (ins Freie gehen, um sich zu entspannen, zu erfrischen)",
+        "(umgangssprachlich) in die Himbeeren gehen (Himbeeren pflücken gehen)",
+        "zum Arzt gehen (den Arzt aufsuchen)",
+        "〈in übertragener Bedeutung:〉 an die Arbeit gehen (mit der Arbeit beginnen)",
+        "〈in übertragener Bedeutung:〉 in Deckung gehen (Schutz suchen)",
+        "〈in übertragener Bedeutung:〉 in Urlaub, Pension gehen",
+        "〈in übertragener Bedeutung:〉 mit einigen Hoffnungen in den Wahlkampf gehen",
+        "〈in übertragener Bedeutung:〉 das Manuskript geht in Druck (man beginnt mit dem Druck)",
+        "in den Kindergarten, auf die Universität gehen",
+        "sie geht noch zur Schule (sie ist noch Schülerin)",
+        "〈in übertragener Bedeutung:〉 er ist durch eine harte Schule gegangen (hat viel Schweres durchgemacht)",
+        "in den Staatsdienst, in die Industrie, Politik gehen",
+        "ins Kloster gehen (Nonne, Mönch werden)",
+        "zum Theater, zum Film gehen ([Film]schauspieler[in] werden)",
+        "als Tischler gehen"
+      ],
+      "idioms": [
+        "in sich gehen (über sein Verhalten [mit Bedauern] nachdenken, um es zu ändern)",
+        "ein und aus gehen (bei jemandem, irgendwo regelmäßig zu Gast sein; regelmäßig ein Lokal o. Ä. besuchen: jahrelang bin ich bei dieser Familie ein und aus gegangen; es war bekannt, dass in diesem Lokal Rechtsradikale ein und aus gingen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich [mit bestimmter Absicht] irgendwohin begeben",
+          "grammar": "n/a",
+          "examples": [
+            "schwimmen, tanzen, einkaufen, essen gehen",
+            "auf den Markt, aufs Standesamt gehen",
+            "ins Ausland gehen",
+            "zu/ins Bett gehen",
+            "zur/in die Kirche gehen (den Gottesdienst besuchen)",
+            "an die Luft gehen (ins Freie gehen, um sich zu entspannen, zu erfrischen)",
+            "(umgangssprachlich) in die Himbeeren gehen (Himbeeren pflücken gehen)",
+            "zum Arzt gehen (den Arzt aufsuchen)",
+            "〈in übertragener Bedeutung:〉 an die Arbeit gehen (mit der Arbeit beginnen)",
+            "〈in übertragener Bedeutung:〉 in Deckung gehen (Schutz suchen)",
+            "〈in übertragener Bedeutung:〉 in Urlaub, Pension gehen",
+            "〈in übertragener Bedeutung:〉 mit einigen Hoffnungen in den Wahlkampf gehen",
+            "〈in übertragener Bedeutung:〉 das Manuskript geht in Druck (man beginnt mit dem Druck)"
+          ],
+          "idioms": [
+            "in sich gehen (über sein Verhalten [mit Bedauern] nachdenken, um es zu ändern)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "regelmäßig besuchen",
+          "grammar": "n/a",
+          "examples": [
+            "in den Kindergarten, auf die Universität gehen",
+            "sie geht noch zur Schule (sie ist noch Schülerin)",
+            "〈in übertragener Bedeutung:〉 er ist durch eine harte Schule gegangen (hat viel Schweres durchgemacht)"
+          ],
+          "idioms": [
+            "ein und aus gehen (bei jemandem, irgendwo regelmäßig zu Gast sein; regelmäßig ein Lokal o. Ä. besuchen: jahrelang bin ich bei dieser Familie ein und aus gegangen; es war bekannt, dass in diesem Lokal Rechtsradikale ein und aus gingen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "in einem bestimmten Bereich [beruflich] tätig werden",
+          "grammar": "n/a",
+          "examples": [
+            "in den Staatsdienst, in die Industrie, Politik gehen",
+            "ins Kloster gehen (Nonne, Mönch werden)",
+            "zum Theater, zum Film gehen ([Film]schauspieler[in] werden)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "als etwas [zu] arbeiten [beginnen]",
+          "grammar": "n/a",
+          "examples": [
+            "als Tischler gehen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "landschaftlich"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "landschaftlich"
+      }
+    },
+    {
+      "text": "sich in bestimmter Weise kleiden",
+      "grammar": "n/a",
+      "examples": [
+        "er geht immer gut gekleidet",
+        "in Schwarz, in Trauer, in Zivil gehen",
+        "zum Fasching als Cowboy gehen (sich als Cowboy verkleiden)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "einen Ort verlassen; weggehenseinen bisherigen Arbeitsplatz aufgeben; aus dem Amt, Dienst ausscheiden",
+      "grammar": "n/a",
+      "examples": [
+        "ich muss jetzt gehen",
+        "er ist wortlos, grußlos gegangen",
+        "gehen wir?",
+        "jemanden lieber gehen als kommen sehen (jemanden nicht mögen und deshalb auf seine Anwesenheit keinen Wert legen)",
+        "(umgangssprachlich)  (als Ausdruck der Ablehnung, des Unwillens) geh/gehen Sie/(süddeutsch, österreichisch:) gehts mir doch damit!",
+        "(umgangssprachlich)  (als Ausdruck des Zweifels) geh/(süddeutsch, österreichisch:) gehts, das soll ich glauben?",
+        "(verhüllend) er ist von uns gegangen (gestorben)",
+        "〈in übertragener Bedeutung:〉 um 12.22 Uhr geht der Zug (fährt er ab)",
+        "〈in übertragener Bedeutung:〉 der nächste Bus geht (fährt) erst in einer halben Stunde",
+        "sie hat gekündigt und wird nächsten Monat gehen",
+        "der Minister musste gehen",
+        "Sie können gehen (Sie sind entlassen!)"
+      ],
+      "idioms": [
+        "gegangen werden (umgangssprachlich scherzhaft:  entlassen werden)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "einen Ort verlassen; weggehen",
+          "grammar": "n/a",
+          "examples": [
+            "ich muss jetzt gehen",
+            "er ist wortlos, grußlos gegangen",
+            "gehen wir?",
+            "jemanden lieber gehen als kommen sehen (jemanden nicht mögen und deshalb auf seine Anwesenheit keinen Wert legen)",
+            "(umgangssprachlich)  (als Ausdruck der Ablehnung, des Unwillens) geh/gehen Sie/(süddeutsch, österreichisch:) gehts mir doch damit!",
+            "(umgangssprachlich)  (als Ausdruck des Zweifels) geh/(süddeutsch, österreichisch:) gehts, das soll ich glauben?",
+            "(verhüllend) er ist von uns gegangen (gestorben)",
+            "〈in übertragener Bedeutung:〉 um 12.22 Uhr geht der Zug (fährt er ab)",
+            "〈in übertragener Bedeutung:〉 der nächste Bus geht (fährt) erst in einer halben Stunde"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "seinen bisherigen Arbeitsplatz aufgeben; aus dem Amt, Dienst ausscheiden",
+          "grammar": "n/a",
+          "examples": [
+            "sie hat gekündigt und wird nächsten Monat gehen",
+            "der Minister musste gehen",
+            "Sie können gehen (Sie sind entlassen!)"
+          ],
+          "idioms": [
+            "gegangen werden (umgangssprachlich scherzhaft:  entlassen werden)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "sich an etwas zu schaffen machensich unerlaubt von einer Sache etwas nehmen",
+      "grammar": "n/a",
+      "examples": [
+        "jemand muss an meinen Schreibtisch gegangen sein",
+        "ich habe gemerkt, dass du an mein Geld gegangen bist"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich an etwas zu schaffen machen",
+          "grammar": "n/a",
+          "examples": [
+            "jemand muss an meinen Schreibtisch gegangen sein"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        },
+        {
+          "text": "sich unerlaubt von einer Sache etwas nehmen",
+          "grammar": "n/a",
+          "examples": [
+            "ich habe gemerkt, dass du an mein Geld gegangen bist"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "mit jemandem ein Liebesverhältnis haben [und sich in der Öffentlichkeit mit ihm zeigen]",
+      "grammar": "n/a",
+      "examples": [
+        "sie geht schon zwei Jahre mit dem Jungen",
+        "die beiden gehen [fest] miteinander"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "Schülersprache"
+      }
+    },
+    {
+      "text": "in bestimmter Weise in Bewegung sein\n                aufgehen (4)",
+      "grammar": "n/a",
+      "examples": [
+        "die Maschine geht (funktioniert; ist in Betrieb)",
+        "die Uhr geht nicht mehr (ist stehen geblieben)",
+        "er erwachte, weil die Klingel, das Telefon ging (läutete)",
+        "(umgangssprachlich) sein Mundwerk ging ununterbrochen (er redete ununterbrochen)",
+        "es geht (weht) ein kalter Wind",
+        "kein Lüftchen ging (es war windstill)",
+        "die Tür geht (wird geöffnet; bewegt sich)",
+        "〈in übertragener Bedeutung:〉 die Affäre ging durch alle Zeitungen (wurde in allen Zeitungen verbreitet)",
+        "〈in übertragener Bedeutung:〉 es geht (man erzählt sich) das Gerücht, dass er daran beteiligt war",
+        "der Teig muss noch gehen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "in bestimmter Weise in Bewegung sein",
+          "grammar": "n/a",
+          "examples": [
+            "die Maschine geht (funktioniert; ist in Betrieb)",
+            "die Uhr geht nicht mehr (ist stehen geblieben)",
+            "er erwachte, weil die Klingel, das Telefon ging (läutete)",
+            "(umgangssprachlich) sein Mundwerk ging ununterbrochen (er redete ununterbrochen)",
+            "es geht (weht) ein kalter Wind",
+            "kein Lüftchen ging (es war windstill)",
+            "die Tür geht (wird geöffnet; bewegt sich)",
+            "〈in übertragener Bedeutung:〉 die Affäre ging durch alle Zeitungen (wurde in allen Zeitungen verbreitet)",
+            "〈in übertragener Bedeutung:〉 es geht (man erzählt sich) das Gerücht, dass er daran beteiligt war"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "aufgehen (4)",
+          "grammar": "n/a",
+          "examples": [
+            "der Teig muss noch gehen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "sich machen lassen; möglich seineinigermaßen akzeptabel sein, gerade noch angehen",
+      "grammar": "n/a",
+      "examples": [
+        "das geht nicht",
+        "aber das geht doch nicht (das kommt nicht infrage), dass du jetzt schon aufbrichst!",
+        "〈unpersönlich:〉 leider geht es nicht anders",
+        "es geht nicht ohne deine Hilfe",
+        "soll ich es einpacken oder geht es so?",
+        "(umgangssprachlich) da geht noch was (es kann noch etwas erreicht, verändert, verbessert werden)",
+        "die ersten Tage im Urlaub gingen noch, aber dann wurde die Hitze unerträglich",
+        "〈unpersönlich:〉 „Gefällt es dir?“ – „Es geht [so]“ (leidlich; einigermaßen)",
+        "das geht zu weit (übersteigt das vertretbare Maß)"
+      ],
+      "idioms": [
+        "gehts noch? (umgangssprachlich:  was soll das?; das ist doch wohl absurd)",
+        "das geht gar nicht (das ist ausgeschlossen, komplett abzulehnen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich machen lassen; möglich sein",
+          "grammar": "n/a",
+          "examples": [
+            "das geht nicht",
+            "aber das geht doch nicht (das kommt nicht infrage), dass du jetzt schon aufbrichst!",
+            "〈unpersönlich:〉 leider geht es nicht anders",
+            "es geht nicht ohne deine Hilfe",
+            "soll ich es einpacken oder geht es so?",
+            "(umgangssprachlich) da geht noch was (es kann noch etwas erreicht, verändert, verbessert werden)"
+          ],
+          "idioms": [
+            "gehts noch? (umgangssprachlich:  was soll das?; das ist doch wohl absurd)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "einigermaßen akzeptabel sein, gerade noch angehen",
+          "grammar": "n/a",
+          "examples": [
+            "die ersten Tage im Urlaub gingen noch, aber dann wurde die Hitze unerträglich",
+            "〈unpersönlich:〉 „Gefällt es dir?“ – „Es geht [so]“ (leidlich; einigermaßen)",
+            "das geht zu weit (übersteigt das vertretbare Maß)"
+          ],
+          "idioms": [
+            "das geht gar nicht (das ist ausgeschlossen, komplett abzulehnen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "sich in bestimmter Weise entwickeln; in bestimmter Weise verlaufenin bestimmter Weise zu handhaben, zu machen, durchzuführen sein",
+      "grammar": "n/a",
+      "examples": [
+        "der Laden, das Geschäft geht gut, überhaupt nicht",
+        "(umgangssprachlich) alles geht drunter und drüber",
+        "〈unpersönlich:〉 es geht alles nach Wunsch",
+        "〈in übertragener Bedeutung:〉 wie geht (lautet) die erste Strophe?",
+        "etwas geht schwer, leicht, ganz einfach",
+        "ich weiß nicht, wie diese Rechenaufgabe, dieses Spiel geht"
+      ],
+      "idioms": [
+        "vor sich gehen (gerade stattfinden; geschehen: was geht hier vor sich?; es sind Veränderungen vor sich gegangen)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich in bestimmter Weise entwickeln; in bestimmter Weise verlaufen",
+          "grammar": "n/a",
+          "examples": [
+            "der Laden, das Geschäft geht gut, überhaupt nicht",
+            "(umgangssprachlich) alles geht drunter und drüber",
+            "〈unpersönlich:〉 es geht alles nach Wunsch",
+            "〈in übertragener Bedeutung:〉 wie geht (lautet) die erste Strophe?"
+          ],
+          "idioms": [
+            "vor sich gehen (gerade stattfinden; geschehen: was geht hier vor sich?; es sind Veränderungen vor sich gegangen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "in bestimmter Weise zu handhaben, zu machen, durchzuführen sein",
+          "grammar": "n/a",
+          "examples": [
+            "etwas geht schwer, leicht, ganz einfach",
+            "ich weiß nicht, wie diese Rechenaufgabe, dieses Spiel geht"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "absetzbar, verkäuflich sein; gewünscht werden",
+      "grammar": "n/a",
+      "examples": [
+        "der Artikel geht bei uns sehr schlecht",
+        "das Produkt geht überall"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "in etwas Raum finden(von Zahlen, Maßen) in etwas enthalten seinin etwas aufgeteilt werden",
+      "grammar": "n/a",
+      "examples": [
+        "in das Gefäß geht nur ein Liter",
+        "der Schrank geht (passt) nicht durch die Tür, in das Zimmer",
+        "wie oft/wievielmal geht [die] 2 in [die] 10?",
+        "von diesen Äpfeln gehen vier auf ein Pfund",
+        "die Erbschaft geht in fünf gleiche Teile"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "in etwas Raum finden",
+          "grammar": "n/a",
+          "examples": [
+            "in das Gefäß geht nur ein Liter",
+            "der Schrank geht (passt) nicht durch die Tür, in das Zimmer"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "(von Zahlen, Maßen) in etwas enthalten sein",
+          "grammar": "n/a",
+          "examples": [
+            "wie oft/wievielmal geht [die] 2 in [die] 10?",
+            "von diesen Äpfeln gehen vier auf ein Pfund"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        },
+        {
+          "text": "in etwas aufgeteilt werden",
+          "grammar": "n/a",
+          "examples": [
+            "die Erbschaft geht in fünf gleiche Teile"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "veraltend"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "veraltend"
+      }
+    },
+    {
+      "text": "sich bis zu einem bestimmten Punkt erstrecken, ausdehneneine bestimmte Richtung haben, einschlagen; in einer bestimmten Richtung verlaufenauf etwas, jemanden abzielen, gerichtet seinsich einem bestimmten Zustand, Zeitpunkt o. Ä. nähernsich nach jemandem, etwas richten; jemanden, etwas als Maßstab nehmen",
+      "grammar": "n/a",
+      "examples": [
+        "der Rocksaum geht bis zu den Knien",
+        "das Wasser ging mir bis an den Hals",
+        "die Summe geht in die Hunderte",
+        "〈in übertragener Bedeutung:〉 er ging so weit zu behaupten, dass ich selbst daran schuld sei",
+        "〈in übertragener Bedeutung:〉 bis es nicht mehr geht (bis zum Überdruss)",
+        "〈in übertragener Bedeutung:〉 seine Familie geht ihm über alles (ist ihm am meisten wert)",
+        "〈in übertragener Bedeutung:〉 das geht über (übersteigt) seine Kräfte, seinen Horizont",
+        "〈in übertragener Bedeutung:〉 es geht nichts über (nichts ist besser als) ein gutes Glas Wein",
+        "die Straße geht durch den Wald",
+        "der Weg geht erst geradeaus, dann links",
+        "wohin geht (führt) die Reise?",
+        "〈unpersönlich:〉 hinter der Biegung geht es (führt der Weg, die Straße) steil hinauf",
+        "der Ball ging (traf) ins Tor",
+        "das Fenster geht auf den Hof, nach der Straße",
+        "〈in übertragener Bedeutung:〉 der erste Preis ging an Frau Meier",
+        "〈in übertragener Bedeutung:〉 diese Bemerkung geht gegen dich",
+        "〈in übertragener Bedeutung:〉 die Rechnung geht auf mich (bezahle ich)",
+        "〈in übertragener Bedeutung:〉 das geht gegen meine Prinzipien",
+        "〈in übertragener Bedeutung:〉 seine Ansicht, Meinung geht dahin, dass wir das gemeinsam zu verantworten hätten",
+        "〈in übertragener Bedeutung:〉 das geht mir ans Gemüt, zu Herzen (trifft, bewegt mich)",
+        "〈in übertragener Bedeutung:〉 die Farbe geht (spielt) ins Blau",
+        "etwas geht zu Ende",
+        "er geht auf die 60 (nähert sich seinem sechzigsten Lebensjahr)",
+        "〈unpersönlich:〉 es geht auf/gegen Mitternacht",
+        "dieser Zustand geht jetzt ins dritte Jahr (dauert schon [länger als] zwei Jahre an)",
+        "er geht nur nach dem Äußeren",
+        "danach kann man nicht gehen",
+        "es kann nicht immer alles nach dir gehen (es kann sich nicht immer alles nach deinem Willen richten)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich bis zu einem bestimmten Punkt erstrecken, ausdehnen",
+          "grammar": "n/a",
+          "examples": [
+            "der Rocksaum geht bis zu den Knien",
+            "das Wasser ging mir bis an den Hals",
+            "die Summe geht in die Hunderte",
+            "〈in übertragener Bedeutung:〉 er ging so weit zu behaupten, dass ich selbst daran schuld sei",
+            "〈in übertragener Bedeutung:〉 bis es nicht mehr geht (bis zum Überdruss)",
+            "〈in übertragener Bedeutung:〉 seine Familie geht ihm über alles (ist ihm am meisten wert)",
+            "〈in übertragener Bedeutung:〉 das geht über (übersteigt) seine Kräfte, seinen Horizont",
+            "〈in übertragener Bedeutung:〉 es geht nichts über (nichts ist besser als) ein gutes Glas Wein"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "eine bestimmte Richtung haben, einschlagen; in einer bestimmten Richtung verlaufen",
+          "grammar": "n/a",
+          "examples": [
+            "die Straße geht durch den Wald",
+            "der Weg geht erst geradeaus, dann links",
+            "wohin geht (führt) die Reise?",
+            "〈unpersönlich:〉 hinter der Biegung geht es (führt der Weg, die Straße) steil hinauf"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "auf etwas, jemanden abzielen, gerichtet sein",
+          "grammar": "n/a",
+          "examples": [
+            "der Ball ging (traf) ins Tor",
+            "das Fenster geht auf den Hof, nach der Straße",
+            "〈in übertragener Bedeutung:〉 der erste Preis ging an Frau Meier",
+            "〈in übertragener Bedeutung:〉 diese Bemerkung geht gegen dich",
+            "〈in übertragener Bedeutung:〉 die Rechnung geht auf mich (bezahle ich)",
+            "〈in übertragener Bedeutung:〉 das geht gegen meine Prinzipien",
+            "〈in übertragener Bedeutung:〉 seine Ansicht, Meinung geht dahin, dass wir das gemeinsam zu verantworten hätten",
+            "〈in übertragener Bedeutung:〉 das geht mir ans Gemüt, zu Herzen (trifft, bewegt mich)",
+            "〈in übertragener Bedeutung:〉 die Farbe geht (spielt) ins Blau"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich einem bestimmten Zustand, Zeitpunkt o. Ä. nähern",
+          "grammar": "n/a",
+          "examples": [
+            "etwas geht zu Ende",
+            "er geht auf die 60 (nähert sich seinem sechzigsten Lebensjahr)",
+            "〈unpersönlich:〉 es geht auf/gegen Mitternacht",
+            "dieser Zustand geht jetzt ins dritte Jahr (dauert schon [länger als] zwei Jahre an)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich nach jemandem, etwas richten; jemanden, etwas als Maßstab nehmen",
+          "grammar": "n/a",
+          "examples": [
+            "er geht nur nach dem Äußeren",
+            "danach kann man nicht gehen",
+            "es kann nicht immer alles nach dir gehen (es kann sich nicht immer alles nach deinem Willen richten)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "sich in einer bestimmten Verfassung, Lage befindensich um etwas handeln",
+      "grammar": "unpersönlich",
+      "examples": [
+        "es geht ihm [gesundheitlich, finanziell] gut, schlecht",
+        "wie geht es dir?",
+        "(umgangssprachlich) wie gehts, wie stehts?",
+        "worum geht es hier/in diesem Film? (was ist der Inhalt?)",
+        "es geht mir darum, ihn zu überzeugen (ich möchte erreichen, dass er sich überzeugen lässt)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich in einer bestimmten Verfassung, Lage befinden",
+          "grammar": "unpersönlich",
+          "examples": [
+            "es geht ihm [gesundheitlich, finanziell] gut, schlecht",
+            "wie geht es dir?",
+            "(umgangssprachlich) wie gehts, wie stehts?"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich um etwas handeln",
+          "grammar": "unpersönlich",
+          "examples": [
+            "worum geht es hier/in diesem Film? (was ist der Inhalt?)",
+            "es geht mir darum, ihn zu überzeugen (ich möchte erreichen, dass er sich überzeugen lässt)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "flanieren",
+      "link": "/rechtschreibung/flanieren"
+    },
+    {
+      "text": "sich fortbewegen"
+    },
+    {
+      "text": "laufen",
+      "link": "/rechtschreibung/laufen"
+    },
+    {
+      "text": "marschieren",
+      "link": "/rechtschreibung/marschieren"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "g{e}hen",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4106601_475750438.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "gēn,"
+    },
+    {
+      "word": "gān,"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "verlassen,"
+    },
+    {
+      "word": "fortgehen;"
+    },
+    {
+      "word": "leer"
+    },
+    {
+      "word": "sein,"
+    },
+    {
+      "word": "klaffen,"
+    },
+    {
+      "word": "verwandt"
+    },
+    {
+      "word": "mit"
+    },
+    {
+      "word": "gähnen"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

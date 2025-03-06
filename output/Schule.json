@@ -1,0 +1,154 @@
+{
+  "word": "Schule",
+  "article": "die",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "high",
+  "grammar": "die Schule; Genitiv: der Schule, Plural: die Schulen",
+  "meanings": [
+    {
+      "text": "Lehranstalt, in der Kindern und Jugendlichen durch planmäßigen Unterricht Wissen und Bildung vermittelt werden",
+      "grammar": "n/a",
+      "examples": [
+        "eine öffentliche, private, konfessionelle Schule",
+        "eine Schule für Hochbegabte",
+        "die Schule besuchen, wechseln",
+        "sie will später an die, zur Schule gehen (umgangssprachlich; will Lehrerin werden)",
+        "an einer Schule unterrichten",
+        "er geht in, auf die höhere Schule",
+        "sie kommt dieses Jahr in die, zur Schule (wird eingeschult)",
+        "noch in die, zur Schule gehen (noch Schüler[in] sein)",
+        "wir sind zusammen in die, zur Schule gegangen (umgangssprachlich; waren in derselben Klasse, Schule)",
+        "von der Schule abgehen",
+        "sie ist von der Schule geflogen (umgangssprachlich; vom Schulbesuch ausgeschlossen worden)",
+        "〈in übertragener Bedeutung:〉 er ist in eine harte Schule gegangen, hat eine harte Schule durchgemacht (hat viel Schweres durchgemacht, bittere Erfahrungen im Leben gemacht)"
+      ],
+      "idioms": [
+        "aus der Schule plaudern (interne Angelegenheiten Außenstehenden mitteilen)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/S/Schule-201100280694.jpg",
+      "image_caption": "Unterricht an einer Schule - © MEV Verlag, Augsburg",
+      "tuple_info": {
+        "Herkunft": "mittelhochdeutsch schuol(e), althochdeutsch scuola \u003c lateinisch schola = Unterricht(sstätte); Muße, Ruhe \u003c griechisch scholḗ, eigentlich = das Innehalten (bei der Arbeit)"
+      }
+    },
+    {
+      "text": "Schulgebäude",
+      "grammar": "n/a",
+      "examples": [
+        "eine große, moderne Schule",
+        "die Schule betreten, verlassen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "in der Schule erteilter Unterricht",
+      "grammar": "ohne Plural",
+      "examples": [
+        "die Schule beginnt um 8 Uhr",
+        "heute haben wir, ist keine Schule",
+        "morgen fällt die Schule aus",
+        "die Schule schwänzen",
+        "sie kommt in der Schule gut, nicht mit",
+        "komm nach der Schule bitte gleich nach Hause"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "Ausbildung, durch die jemandes Fähigkeiten auf einem bestimmten Gebiet zu voller Entfaltung kommen, gekommen sind; Schulung",
+      "grammar": "ohne Plural",
+      "examples": [
+        "ihr Spiel verrät eine ausgezeichnete Schule"
+      ],
+      "idioms": [
+        "[die] Hohe/hohe Schule (1. Reiten; bestimmte Dressurübungen, deren Beherrschung vollendete Reitkunst ist.  2. vollkommene Beherrschung einer bestimmten künstlerischen, wissenschaftlichen oder sportlichen Disziplin: die Hohe/hohe Schule der Architektur.)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "Gesamtheit der Lehrer- und der Schülerschaft einer Schule",
+      "grammar": "ohne Plural",
+      "examples": [
+        "die ganze Schule war in der Aula versammelt"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "bestimmte künstlerische oder wissenschaftliche Richtung, die von einem Meister, einer Kapazität ausgeht und von ihren Schülern und Schülerinnen vertreten wird",
+      "grammar": "n/a",
+      "examples": [
+        "die Schule Dürers",
+        "die florentinische Schule",
+        "die Mannheimer, die Frankfurter Schule",
+        "〈in übertragener Bedeutung:〉 er ist ein Pädagoge der alten Schule (der früher herrschenden Richtung)",
+        "〈in übertragener Bedeutung:〉 ein Diplomat alter Schule"
+      ],
+      "idioms": [
+        "Schule machen (viele Nachahmer[innen] finden: sein Beispiel sollte Schule machen!)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "Lehr- und Übungsbuch für eine bestimmte [künstlerische] Disziplin",
+      "grammar": "n/a",
+      "examples": [
+        "Schule des Klavier-, Flötenspiels"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Kurzform für": "Baumschule"
+      }
+    },
+    {
+      "text": "Schwarm (von Fischen)",
+      "grammar": "n/a",
+      "examples": [
+        "eine Schule Delfine, Wale"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "Zoologie",
+        "Herkunft": "englisch school, aus dem Westgermanischen, vgl. altsächsisch scola = Schar, (abgesonderte) Gruppe, wohl verwandt mit Scholle; als identisch mit Schule (1) empfunden"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "(gehoben) Bildungsstätte; (Schülersprache veraltet) Penne; (Amtssprache) Bildungsanstalt"
+    },
+    {
+      "text": "Lehranstalt",
+      "link": "/rechtschreibung/Lehranstalt"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "Sch{u}le",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4109919_361563271.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "No data available"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

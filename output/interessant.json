@@ -1,0 +1,94 @@
+{
+  "word": "interessant",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "No data",
+  "meanings": [
+    {
+      "text": "Interesse (1) erweckend, erregend; geistig anziehend, fesselnd",
+      "grammar": "n/a",
+      "examples": [
+        "ein interessantes Buch, Detail",
+        "eine interessante Aufgabe, Frage, Beobachtung",
+        "ein interessanter Mensch",
+        "der Vortrag, die Reise war sehr interessant",
+        "das ist ja interessant (aufschlussreich)",
+        "(leicht abwertend) er will sich interessant machen (Aufmerksamkeit auf sich lenken)",
+        "die Gründe für sein Verhalten sind hier nicht interessant (nicht wissenswert, tun nichts zur Sache)",
+        "sie kann interessant erzählen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "Erfolg, Vorteil versprechend",
+      "grammar": "n/a",
+      "examples": [
+        "ein interessantes Angebot",
+        "das Haus ist zu diesem Preis nicht interessant",
+        "dieses Geschäft ist für uns nicht interessant"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "meist Kaufmannssprache"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "abenteuerlich",
+      "link": "/rechtschreibung/abenteuerlich"
+    },
+    {
+      "text": "abwechslungsreich",
+      "link": "/rechtschreibung/abwechslungsreich"
+    },
+    {
+      "text": "anregend",
+      "link": "/rechtschreibung/anregend"
+    },
+    {
+      "text": "ansprechend",
+      "link": "/rechtschreibung/ansprechend"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "interess(a)nt",
+      "phonetic": "[ɪntrɛˈsant]",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4107518_475291091.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "französisch"
+    },
+    {
+      "word": "intéressant,"
+    },
+    {
+      "word": "1."
+    },
+    {
+      "word": "Partizip"
+    },
+    {
+      "word": "von:"
+    },
+    {
+      "word": "intéresser,"
+    },
+    {
+      "word": "interessieren",
+      "link": "/rechtschreibung/interessieren"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1.",
+    "Dieses Wort oder diese Verbindung ist rechtschreiblich schwierig (Liste der rechtschreiblich schwierigen Wörter)."
+  ]
+}

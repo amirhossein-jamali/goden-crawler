@@ -1,0 +1,140 @@
+{
+  "word": "Fenster",
+  "article": "das",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "das Fenster; Genitiv: des Fensters, Plural: die Fenster",
+  "meanings": [
+    {
+      "text": "meist verglaste Öffnung, die Licht [und Luft] in einen geschlossenen Raum dringen lässtzum Verschließen der Fensteröffnung dienendes gerahmtes Glas",
+      "grammar": "n/a",
+      "examples": [
+        "ein vergittertes Fenster",
+        "das Fenster geht auf die Straße hinaus",
+        "aus dem Fenster sehen, fallen",
+        "die Nachbarn lagen alle in den Fenstern (stützten sich mit den Armen auf die Fensterbank und sahen hinaus)",
+        "〈in übertragener Bedeutung:〉 ein Briefumschlag mit Fenster (Fensterbriefumschlag)",
+        "ein geöffnetes, gekipptes, eingeschlagenes Fenster",
+        "das Fenster ist blind geworden",
+        "die Fenster putzen",
+        "〈in übertragener Bedeutung:〉 mit dieser Maßnahme hat der Staat endlich wieder ein Fenster zur Welt geöffnet (Beziehungen mit der übrigen Welt möglich gemacht)"
+      ],
+      "idioms": [
+        "sich [zu] weit aus dem Fenster lehnen/hängen (sich [zu] weit vorwagen, sich [zu] sehr exponieren)",
+        "aus dem/zum Fenster hinausreden, Fenstersprechen (1. vergeblich, erfolglos reden, sprechen.  2. scheinbar nur um der Sache willen, in Wahrheit aber für die Öffentlichkeit propagandistisch, manipulierend reden, sprechen.)",
+        "weg vom Fenster sein (umgangssprachlich:  [von der Öffentlichkeit] nicht mehr beachtet sein, abgeschrieben, nicht mehr gefragt sein)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/F/Fenster-201100277946.jpg",
+      "image_caption": "Geöffnetes Fenster - © Kerry - Fotolia.com",
+      "sub_meanings": [
+        {
+          "text": "meist verglaste Öffnung, die Licht [und Luft] in einen geschlossenen Raum dringen lässt",
+          "grammar": "n/a",
+          "examples": [
+            "ein vergittertes Fenster",
+            "das Fenster geht auf die Straße hinaus",
+            "aus dem Fenster sehen, fallen",
+            "die Nachbarn lagen alle in den Fenstern (stützten sich mit den Armen auf die Fensterbank und sahen hinaus)",
+            "〈in übertragener Bedeutung:〉 ein Briefumschlag mit Fenster (Fensterbriefumschlag)"
+          ],
+          "idioms": [
+            "sich [zu] weit aus dem Fenster lehnen/hängen (sich [zu] weit vorwagen, sich [zu] sehr exponieren)",
+            "aus dem/zum Fenster hinausreden, Fenstersprechen (1. vergeblich, erfolglos reden, sprechen.  2. scheinbar nur um der Sache willen, in Wahrheit aber für die Öffentlichkeit propagandistisch, manipulierend reden, sprechen.)",
+            "weg vom Fenster sein (umgangssprachlich:  [von der Öffentlichkeit] nicht mehr beachtet sein, abgeschrieben, nicht mehr gefragt sein)"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/F/Fenster-201100277946.jpg",
+          "image_caption": "Geöffnetes Fenster - © Kerry - Fotolia.com"
+        },
+        {
+          "text": "zum Verschließen der Fensteröffnung dienendes gerahmtes Glas",
+          "grammar": "n/a",
+          "examples": [
+            "ein geöffnetes, gekipptes, eingeschlagenes Fenster",
+            "das Fenster ist blind geworden",
+            "die Fenster putzen",
+            "〈in übertragener Bedeutung:〉 mit dieser Maßnahme hat der Staat endlich wieder ein Fenster zur Welt geöffnet (Beziehungen mit der übrigen Welt möglich gemacht)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "",
+      "grammar": "n/a",
+      "examples": [
+        "etwas ins Fenster stellen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich",
+        "Kurzform für": "Schaufenster"
+      }
+    },
+    {
+      "text": "auf dem Bildschirm eines Computers erscheinendes rechteckiges Feld, das dazu dient, Textteile, Teile eines Programmes (4) oder andere Informationen zusätzlich auf der Benutzeroberfläche darzustellen [und zu bearbeiten]",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "EDV",
+        "Herkunft": "Lehnübersetzung von englisch window"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "Fensteröffnung",
+      "link": "/rechtschreibung/Fensteroeffnung"
+    },
+    {
+      "text": "Fensterglas",
+      "link": "/rechtschreibung/Fensterglas"
+    },
+    {
+      "text": "[Fenster]scheibe",
+      "link": "/rechtschreibung/Fensterscheibe"
+    },
+    {
+      "text": "Fensterverglasung",
+      "link": "/rechtschreibung/Fensterverglasung"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "F(e)nster",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4108422_42846810.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "venster,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "fenstar"
+    },
+    {
+      "word": "\u003c"
+    },
+    {
+      "word": "lateinisch"
+    },
+    {
+      "word": "fenestra"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

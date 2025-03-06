@@ -1,0 +1,162 @@
+{
+  "word": "lernen",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "high",
+  "grammar": "lernt, lernte, hat gelernt",
+  "meanings": [
+    {
+      "text": "sich Wissen, Kenntnisse aneignensich, seinem Gedächtnis einprägenFertigkeiten erwerbenim Laufe der Zeit [durch Erfahrungen, Einsichten] zu einer bestimmten Einstellung, einem bestimmten Verhalten gelangen",
+      "grammar": "n/a",
+      "examples": [
+        "leicht lernen",
+        "bis in die Nacht hinein lernen",
+        "man kann nie genug lernen",
+        "(umgangssprachlich) Mutter lernt mit ihr (hilft ihr beim Lernen und Üben)",
+        "eine Sprache, Französisch, Vokabeln lernen",
+        "ein Gedicht auswendig lernen",
+        "gehen, sprechen, lesen, rechnen, schwimmen, kochen, schreiben, Stenografie lernen",
+        "Geige, Klavier[spielen] lernen",
+        "etwas lernt sich leicht/lässt sich leicht lernen",
+        "lernen, Englisch zu sprechen",
+        "er lernte die Maschine bedienen/er lernte, die Maschine zu bedienen",
+        "von/bei jemandem noch etwas lernen können",
+        "ich habe schnell [zu] arbeiten gelernt",
+        "etwas am Beispiel, aus Büchern lernen",
+        "sie hat verzichten gelernt",
+        "du hast nicht gelernt zu warten",
+        "etwas aus der Erfahrung, durch [die] Erfahrung lernen",
+        "aus Fehlern, aus der Geschichte lernen",
+        "Pünktlichkeit, Manieren lernen (sich zu eigen machen, angewöhnen)",
+        "er lernt es nie/wird es nie lernen, seinen Mund zu halten",
+        "da kann man das Fürchten lernen (da kann auch ein sonst Furchtloser sich fürchten)"
+      ],
+      "idioms": [
+        "etwas will gelernt sein (man muss etwas intensiv gelernt bzw. geübt haben, wenn man es beherrschen will)",
+        "gelernt ist gelernt (was man richtig gelernt hat, beherrscht man dann auch)",
+        "mancher lernts nie [und auch dann nicht/und auch dann nur unvollkommen] (salopp; drückt ärgerliche Verstimmung oder leichte Resignation darüber aus, dass jemand sich in seinem Verhalten o. Ä. nicht geändert hat, sich nicht verhalten hat, wie man es gewünscht hätte)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "sich Wissen, Kenntnisse aneignen",
+          "grammar": "n/a",
+          "examples": [
+            "leicht lernen",
+            "bis in die Nacht hinein lernen",
+            "man kann nie genug lernen",
+            "(umgangssprachlich) Mutter lernt mit ihr (hilft ihr beim Lernen und Üben)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich, seinem Gedächtnis einprägen",
+          "grammar": "n/a",
+          "examples": [
+            "eine Sprache, Französisch, Vokabeln lernen",
+            "ein Gedicht auswendig lernen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "Fertigkeiten erwerben",
+          "grammar": "n/a",
+          "examples": [
+            "gehen, sprechen, lesen, rechnen, schwimmen, kochen, schreiben, Stenografie lernen",
+            "Geige, Klavier[spielen] lernen",
+            "etwas lernt sich leicht/lässt sich leicht lernen",
+            "lernen, Englisch zu sprechen",
+            "er lernte die Maschine bedienen/er lernte, die Maschine zu bedienen",
+            "von/bei jemandem noch etwas lernen können",
+            "ich habe schnell [zu] arbeiten gelernt",
+            "etwas am Beispiel, aus Büchern lernen"
+          ],
+          "idioms": [
+            "etwas will gelernt sein (man muss etwas intensiv gelernt bzw. geübt haben, wenn man es beherrschen will)",
+            "gelernt ist gelernt (was man richtig gelernt hat, beherrscht man dann auch)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "im Laufe der Zeit [durch Erfahrungen, Einsichten] zu einer bestimmten Einstellung, einem bestimmten Verhalten gelangen",
+          "grammar": "n/a",
+          "examples": [
+            "sie hat verzichten gelernt",
+            "du hast nicht gelernt zu warten",
+            "etwas aus der Erfahrung, durch [die] Erfahrung lernen",
+            "aus Fehlern, aus der Geschichte lernen",
+            "Pünktlichkeit, Manieren lernen (sich zu eigen machen, angewöhnen)",
+            "er lernt es nie/wird es nie lernen, seinen Mund zu halten",
+            "da kann man das Fürchten lernen (da kann auch ein sonst Furchtloser sich fürchten)"
+          ],
+          "idioms": [
+            "mancher lernts nie [und auch dann nicht/und auch dann nur unvollkommen] (salopp; drückt ärgerliche Verstimmung oder leichte Resignation darüber aus, dass jemand sich in seinem Verhalten o. Ä. nicht geändert hat, sich nicht verhalten hat, wie man es gewünscht hätte)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "[ein Handwerk] erlernen",
+      "grammar": "n/a",
+      "examples": [
+        "einen Beruf lernen",
+        "〈auch ohne Akkusativ:〉 sie muss drei Jahre lernen (ihre Ausbildungszeit beträgt drei Jahre)",
+        "er lernt noch (ist noch in der Ausbildung)",
+        "(umgangssprachlich) er hat Mechatroniker, Tischler gelernt"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "ablernen",
+      "link": "/rechtschreibung/ablernen"
+    },
+    {
+      "text": "sich aneignen"
+    },
+    {
+      "text": "aufnehmen",
+      "link": "/rechtschreibung/aufnehmen"
+    },
+    {
+      "text": "sich bilden"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "l(e)rnen",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4110287_177210640.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "lernen,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "lernēn,"
+    },
+    {
+      "word": "lernōn"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

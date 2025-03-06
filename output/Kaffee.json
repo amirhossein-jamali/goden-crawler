@@ -1,0 +1,191 @@
+{
+  "word": "Kaffee",
+  "article": "der",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "der Kaffee; Genitiv: des Kaffees, Plural: die Kaffees",
+  "meanings": [
+    {
+      "text": "Kaffeepflanze, -strauch",
+      "grammar": "n/a",
+      "examples": [
+        "Kaffee anbauen, [an]pflanzen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "bohnenförmiger Samen des KaffeestrauchesMenge gerösteter [gemahlener] Kaffeebohnen",
+      "grammar": "n/a",
+      "examples": [
+        "brasilianischer Kaffee",
+        "Kaffee exportieren, rösten, brennen",
+        "ein halbes Pfund Kaffee kaufen",
+        "pro Tasse einen Teelöffel Kaffee nehmen"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/K/Kaffee-201100278048.jpg",
+      "image_caption": "© MEV Verlag, Augsburg",
+      "sub_meanings": [
+        {
+          "text": "bohnenförmiger Samen des Kaffeestrauches",
+          "grammar": "n/a",
+          "examples": [
+            "brasilianischer Kaffee",
+            "Kaffee exportieren, rösten, brennen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "Menge gerösteter [gemahlener] Kaffeebohnen",
+          "grammar": "n/a",
+          "examples": [
+            "ein halbes Pfund Kaffee kaufen",
+            "pro Tasse einen Teelöffel Kaffee nehmen"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/K/Kaffee-201100278048.jpg",
+          "image_caption": "© MEV Verlag, Augsburg"
+        }
+      ]
+    },
+    {
+      "text": "anregendes, leicht bitter schmeckendes, meist heiß getrunkenes Getränk von dunkelbrauner bis schwarzer Farbe aus gemahlenem, mit kochendem Wasser übergossenem Kaffee (2b)",
+      "grammar": "n/a",
+      "examples": [
+        "heißer, schwarzer, koffeinfreier Kaffee",
+        "Kaffee mit Milch [und Zucker]",
+        "Kaffee verkehrt (landschaftlich; Milchkaffee mit mehr Milch als Kaffee)",
+        "der Kaffee ist stark",
+        "Kaffee kochen, aufbrühen, filtern, eingießen, ausschenken, trinken",
+        "ich mache uns [einen] Kaffee",
+        "eine Tasse, Kanne Kaffee",
+        "Herr Ober, zwei Kaffee (Tassen Kaffee) bitte"
+      ],
+      "idioms": [
+        "kalter Kaffee (landschaftlich:  Erfrischungsgetränk aus Cola und Limonade)",
+        "kalter Kaffee sein (umgangssprachlich:  längst bekannt und daher uninteressant sein)",
+        "dir hat wohl jemand/dir haben sie wohl was in den Kaffee getan? (umgangssprachlich:  du bist wohl nicht recht bei Verstand?)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/K/Kaffee-201100277622.jpg",
+      "image_caption": "Tasse Kaffee - © MEV Verlag, Augsburg"
+    },
+    {
+      "text": "Zwischenmahlzeit (mit Kuchen o. Ä.) am Nachmittag, zu der man Kaffee (3) trinkterste kleine Mahlzeit am Morgen, Frühstück mit Kaffee; Morgenkaffee (1)",
+      "grammar": "n/a",
+      "examples": [
+        "um 4 Uhr trinken wir Kaffee (unseren Nachmittagskaffee)",
+        "jemanden zum Kaffee einladen",
+        "nach dem Kaffee brechen wir auf",
+        "jetzt muss ich erst mal Kaffee trinken (frühstücken)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/K/Kaffee-201100277631.jpg",
+      "image_caption": "© Werner Heiber - Fotolia.com",
+      "sub_meanings": [
+        {
+          "text": "Zwischenmahlzeit (mit Kuchen o. Ä.) am Nachmittag, zu der man Kaffee (3) trinkt",
+          "grammar": "n/a",
+          "examples": [
+            "um 4 Uhr trinken wir Kaffee (unseren Nachmittagskaffee)",
+            "jemanden zum Kaffee einladen"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/K/Kaffee-201100277625.jpg",
+          "image_caption": "© Maria Brzostowska - Fotolia.com"
+        },
+        {
+          "text": "erste kleine Mahlzeit am Morgen, Frühstück mit Kaffee; Morgenkaffee (1)",
+          "grammar": "n/a",
+          "examples": [
+            "nach dem Kaffee brechen wir auf",
+            "jetzt muss ich erst mal Kaffee trinken (frühstücken)"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/K/Kaffee-201100277631.jpg",
+          "image_caption": "© Werner Heiber - Fotolia.com",
+          "tuple_info": {
+            "Gebrauch": "landschaftlich"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "landschaftlich"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "Bohnenkaffee",
+      "link": "/rechtschreibung/Bohnenkaffee"
+    },
+    {
+      "text": "Espresso",
+      "link": "/rechtschreibung/Espresso_Kaffee"
+    },
+    {
+      "text": "Filterkaffee",
+      "link": "/rechtschreibung/Filterkaffee"
+    },
+    {
+      "text": "Mokka",
+      "link": "/rechtschreibung/Mokka_Kaffee"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "K(a)ffee",
+      "phonetic": "[kaˈfeː]",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4117789_41626140.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "französisch"
+    },
+    {
+      "word": "café,"
+    },
+    {
+      "word": "italienisch"
+    },
+    {
+      "word": "caffè"
+    },
+    {
+      "word": "\u003c"
+    },
+    {
+      "word": "türkisch"
+    },
+    {
+      "word": "kahve"
+    },
+    {
+      "word": "\u003c"
+    },
+    {
+      "word": "arabisch"
+    },
+    {
+      "word": "qahwa"
+    },
+    {
+      "word": "h"
+    },
+    {
+      "word": ","
+    },
+    {
+      "word": "auch"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "Wein"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

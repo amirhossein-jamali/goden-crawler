@@ -1,0 +1,251 @@
+{
+  "word": "hören",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "high",
+  "grammar": "hört, hörte, hat gehört",
+  "meanings": [
+    {
+      "text": "aufgrund der Beschaffenheit seines Gehörs in bestimmter Weise registrieren, akustisch wahrnehmenmit dem Gehör registrieren, akustisch wahrnehmen",
+      "grammar": "n/a",
+      "examples": [
+        "schwer hören",
+        "nicht hören können",
+        "Schritte hören",
+        "jemanden schon von Weitem hören",
+        "ich hörte, wie sie weinte",
+        "er hört sich gerne reden (er redet viel, weil er glaubt, klangvoll und gut zu reden)",
+        "ich habe ihn eben sprechen gehört",
+        "ich habe ihn kommen hören/gehört",
+        "ich habe sagen hören (zufällig gehört), dass …"
+      ],
+      "idioms": [
+        "jemandem vergeht Hören und Sehen/hören und sehen (umgangssprachlich:  jemand erlebt etwas [Unangenehmes] so intensiv, dass er nicht mehr weiß, was mit ihm geschieht)",
+        "hör mal; hören Sie mal (umgangssprachlich:  1. Formel, mit der man sich an jemanden wendet, um ihn [energisch] um etwas zu bitten.  2. Formel, mit der man seinen Protest ausdrückt.)",
+        "hört, hört! ([Zwischenruf in Versammlungen, mit dem jemand [ironisch] darauf hinweist, dass das Geäußerte bemerkenswert ist, einen erstaunlichen Sachverhalt wiedergibt] interessant!; soso!; seht mal an!)",
+        "man höre und staune (was ich jetzt sage, ist kaum zu glauben)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "aufgrund der Beschaffenheit seines Gehörs in bestimmter Weise registrieren, akustisch wahrnehmen",
+          "grammar": "n/a",
+          "examples": [
+            "schwer hören",
+            "nicht hören können"
+          ],
+          "idioms": [
+            "jemandem vergeht Hören und Sehen/hören und sehen (umgangssprachlich:  jemand erlebt etwas [Unangenehmes] so intensiv, dass er nicht mehr weiß, was mit ihm geschieht)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "mit dem Gehör registrieren, akustisch wahrnehmen",
+          "grammar": "n/a",
+          "examples": [
+            "Schritte hören",
+            "jemanden schon von Weitem hören",
+            "ich hörte, wie sie weinte",
+            "er hört sich gerne reden (er redet viel, weil er glaubt, klangvoll und gut zu reden)",
+            "ich habe ihn eben sprechen gehört",
+            "ich habe ihn kommen hören/gehört",
+            "ich habe sagen hören (zufällig gehört), dass …"
+          ],
+          "idioms": [
+            "hör mal; hören Sie mal (umgangssprachlich:  1. Formel, mit der man sich an jemanden wendet, um ihn [energisch] um etwas zu bitten.  2. Formel, mit der man seinen Protest ausdrückt.)",
+            "hört, hört! ([Zwischenruf in Versammlungen, mit dem jemand [ironisch] darauf hinweist, dass das Geäußerte bemerkenswert ist, einen erstaunlichen Sachverhalt wiedergibt] interessant!; soso!; seht mal an!)",
+            "man höre und staune (was ich jetzt sage, ist kaum zu glauben)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "(eine Darbietung o. Ä.) durch das Gehör in sich aufnehmen und geistig verarbeitenjemanden sich zu etwas äußern lassen, um sich ein Urteil zu bilden",
+      "grammar": "n/a",
+      "examples": [
+        "einen Vortrag hören",
+        "bei jemandem [Vorlesungen] hören",
+        "Musik hören",
+        "er ließ sich vor einem größeren Publikum hören (sang, spielte vor einem größeren Publikum)",
+        "Radio hören (eine Sendung im Rundfunk eingeschaltet haben und verfolgen)",
+        "man muss [zu diesem Problem] beide Parteien hören"
+      ],
+      "idioms": [
+        "sich hören lassen (als positiv, erfreulich empfunden werden)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "(eine Darbietung o. Ä.) durch das Gehör in sich aufnehmen und geistig verarbeiten",
+          "grammar": "n/a",
+          "examples": [
+            "einen Vortrag hören",
+            "bei jemandem [Vorlesungen] hören",
+            "Musik hören",
+            "er ließ sich vor einem größeren Publikum hören (sang, spielte vor einem größeren Publikum)",
+            "Radio hören (eine Sendung im Rundfunk eingeschaltet haben und verfolgen)"
+          ],
+          "idioms": [
+            "sich hören lassen (als positiv, erfreulich empfunden werden)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "jemanden sich zu etwas äußern lassen, um sich ein Urteil zu bilden",
+          "grammar": "n/a",
+          "examples": [
+            "man muss [zu diesem Problem] beide Parteien hören"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "eine [plötzliche] akustische Wahrnehmung aufmerksam verfolgensich nach jemandes Worten richten, sie befolgeneiner bestimmten Aufforderung von Erwachsenen als Kind nachkommen (meist verneint)",
+      "grammar": "n/a",
+      "examples": [
+        "er hörte auf die Glockenschläge",
+        "auf jemandes Rat hören",
+        "der Hund hört auf den Namen (heißt) Bello",
+        "der Hund hört aufs Wort (gehorcht auf der Stelle)",
+        "der Junge will absolut nicht hören"
+      ],
+      "idioms": [
+        "wer nicht hören will, muss fühlen (Ungehorsam oder das Nichtbefolgen eines Rats wird bestraft)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "eine [plötzliche] akustische Wahrnehmung aufmerksam verfolgen",
+          "grammar": "n/a",
+          "examples": [
+            "er hörte auf die Glockenschläge"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich nach jemandes Worten richten, sie befolgen",
+          "grammar": "n/a",
+          "examples": [
+            "auf jemandes Rat hören",
+            "der Hund hört auf den Namen (heißt) Bello",
+            "der Hund hört aufs Wort (gehorcht auf der Stelle)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "einer bestimmten Aufforderung von Erwachsenen als Kind nachkommen (meist verneint)",
+          "grammar": "n/a",
+          "examples": [
+            "der Junge will absolut nicht hören"
+          ],
+          "idioms": [
+            "wer nicht hören will, muss fühlen (Ungehorsam oder das Nichtbefolgen eines Rats wird bestraft)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "im Gespräch mit anderen [zufällig, überraschend] von etwas Kenntnis erhalten",
+      "grammar": "n/a",
+      "examples": [
+        "etwas Neues hören",
+        "lange nichts von jemandem gehört haben",
+        "wie ich höre, ist er verreist",
+        "(ironisch) was man von dem alles [für Sachen] hört!",
+        "er wollte nichts davon gehört haben (gab vor, nichts davon zu wissen)"
+      ],
+      "idioms": [
+        "[etwas, nichts] von sich hören lassen (jemandem [keine] Nachricht, [k]ein Lebenszeichen von sich geben)",
+        "[noch] von jemandem hören (1. [noch] von jemandem Nachricht erhalten.  2. die Folgen seines Handelns noch von jemandem zu spüren bekommen: glauben Sie nicht, dass ich mir das gefallen lasse, Sie werden noch von mir hören!.)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "mit dem Gehör an etwas feststellen, erkennen",
+      "grammar": "n/a",
+      "examples": [
+        "am Schritt hörte er, dass sein Freund kam"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "akustisch aufnehmen/wahrnehmen; (gehoben) vernehmen"
+    },
+    {
+      "text": "anhören",
+      "link": "/rechtschreibung/anhoeren"
+    },
+    {
+      "text": "hinhören",
+      "link": "/rechtschreibung/hinhoeren"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "h{ö}ren",
+      "phonetic": "[ˈhøːrən]",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4520134_12333414.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "hœren,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "hōran,"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "auf"
+    },
+    {
+      "word": "etwas"
+    },
+    {
+      "word": "achten,"
+    },
+    {
+      "word": "(be)merken"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1.",
+    "Dieses Wort oder diese Verbindung ist rechtschreiblich schwierig (Liste der rechtschreiblich schwierigen Wörter)."
+  ]
+}

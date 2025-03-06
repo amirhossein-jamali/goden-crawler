@@ -1,0 +1,423 @@
+{
+  "word": "groß",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "very_high",
+  "grammar": "Adjektiv; Steigerungsformen: größer, größte",
+  "meanings": [
+    {
+      "text": "in Ausdehnung [nach irgendeiner Richtung] oder Umfang den Durchschnitt oder einen Vergleichswert übertreffendeine bestimmte Länge, Höhe aufweisend, sich über einen bestimmten Bereich erstreckend",
+      "grammar": "n/a",
+      "examples": [
+        "ein großes Format, Fenster, Auto",
+        "eine große Stadt",
+        "ein großer Maßstab",
+        "mittlere bis große Kleidergrößen",
+        "große Hände, Augen",
+        "große Eier, Kartoffeln",
+        "die Wohnung ist nicht groß genug",
+        "große (ausgedehnte) Waldgebiete",
+        "auf großer Flamme (mit starker Hitze) kochen",
+        "der große Zeiger (Minutenzeiger)",
+        "sie ist sehr groß (hochgewachsen) für ihr Alter",
+        "bist du aber groß geworden!",
+        "das Wort steht groß (in großen Buchstaben) an der Tafel",
+        "jemanden groß (mit großen Augen, verwundert) ansehen",
+        "ein groß gewachsener Mann (ein Mann von hohem Wuchs)",
+        "ein groß gemusterter Kleiderstoff (ein Stoff mit einem großen Muster)",
+        "ein groß karierter Stoff (ein Stoff mit großem Karomuster)",
+        "(familiär) groß machen (Kot ausscheiden)",
+        "(EDV) ein Icon groß klicken (es anklicken, sodass es in großem Format erscheint)",
+        "(Mathematik) größter gemeinsamer Teiler (größte positive ganze Zahl, die zwei andere ganze Zahlen so teilt, das kein Rest bleibt); Abkürzung: g. g. T., ggT",
+        "ein 4 ha großes Grundstück",
+        "er ist mindestens 2 Meter groß",
+        "diese Bluse ist mir zwei Nummern zu groß"
+      ],
+      "idioms": [
+        "groß und breit (in aller Ausführlichkeit: das habe ich dir doch schon groß und breit erzählt!)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "in Ausdehnung [nach irgendeiner Richtung] oder Umfang den Durchschnitt oder einen Vergleichswert übertreffend",
+          "grammar": "n/a",
+          "examples": [
+            "ein großes Format, Fenster, Auto",
+            "eine große Stadt",
+            "ein großer Maßstab",
+            "mittlere bis große Kleidergrößen",
+            "große Hände, Augen",
+            "große Eier, Kartoffeln",
+            "die Wohnung ist nicht groß genug",
+            "große (ausgedehnte) Waldgebiete",
+            "auf großer Flamme (mit starker Hitze) kochen",
+            "der große Zeiger (Minutenzeiger)",
+            "sie ist sehr groß (hochgewachsen) für ihr Alter",
+            "bist du aber groß geworden!",
+            "das Wort steht groß (in großen Buchstaben) an der Tafel",
+            "jemanden groß (mit großen Augen, verwundert) ansehen",
+            "ein groß gewachsener Mann (ein Mann von hohem Wuchs)",
+            "ein groß gemusterter Kleiderstoff (ein Stoff mit einem großen Muster)",
+            "ein groß karierter Stoff (ein Stoff mit großem Karomuster)",
+            "(familiär) groß machen (Kot ausscheiden)",
+            "(EDV) ein Icon groß klicken (es anklicken, sodass es in großem Format erscheint)",
+            "(Mathematik) größter gemeinsamer Teiler (größte positive ganze Zahl, die zwei andere ganze Zahlen so teilt, das kein Rest bleibt); Abkürzung: g. g. T., ggT"
+          ],
+          "idioms": [
+            "groß und breit (in aller Ausführlichkeit: das habe ich dir doch schon groß und breit erzählt!)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "eine bestimmte Länge, Höhe aufweisend, sich über einen bestimmten Bereich erstreckend",
+          "grammar": "n/a",
+          "examples": [
+            "ein 4 ha großes Grundstück",
+            "er ist mindestens 2 Meter groß",
+            "diese Bluse ist mir zwei Nummern zu groß"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "eine höhere Anzahl von Lebensjahren habend, ältererwachsen",
+      "grammar": "n/a",
+      "examples": [
+        "sein großer Bruder",
+        "wenn du größer bist, darfst du länger aufbleiben",
+        "〈substantiviert:〉 unsere Große (ältere Tochter)",
+        "[schon] große Kinder haben",
+        "in diesem Haus, mit diesen Grundsätzen bin ich groß geworden (aufgewachsen)",
+        "〈substantiviert:〉 während die Kinder spielten, unterhielten sich die Großen"
+      ],
+      "idioms": [
+        "Groß und Klein (jedermann: Groß und Klein hatte sich eingefunden)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "eine höhere Anzahl von Lebensjahren habend, älter",
+          "grammar": "n/a",
+          "examples": [
+            "sein großer Bruder",
+            "wenn du größer bist, darfst du länger aufbleiben",
+            "〈substantiviert:〉 unsere Große (ältere Tochter)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "erwachsen",
+          "grammar": "n/a",
+          "examples": [
+            "[schon] große Kinder haben",
+            "in diesem Haus, mit diesen Grundsätzen bin ich groß geworden (aufgewachsen)",
+            "〈substantiviert:〉 während die Kinder spielten, unterhielten sich die Großen"
+          ],
+          "idioms": [
+            "Groß und Klein (jedermann: Groß und Klein hatte sich eingefunden)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "verhältnismäßig viel Zeit beanspruchend, von verhältnismäßig langer Dauer",
+      "grammar": "n/a",
+      "examples": [
+        "ein großer Zeitraum",
+        "nach einer größeren Verzögerung",
+        "(Schule, Theater) die große Pause",
+        "die großen Ferien (Sommerferien)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "von verhältnismäßig beträchtlicher Menge, Anzahl; sich aus [vielen] einzelnen Bestandteilen oder Werten zusammensetzend",
+      "grammar": "n/a",
+      "examples": [
+        "eine große Zuhörerschaft, Kundschaft haben",
+        "wir sind eine große Familie, die große Mehrheit",
+        "große Zahlen, Summen, Kosten",
+        "eine große Auswahl an Schuhen",
+        "der größere Teil des gestohlenen Geldes wurde gefunden",
+        "nur großes Geld (nur [größere] Scheine, kein Kleingeld) bei sich haben",
+        "(Politik) eine Große/große Koalition (Koalition der [beiden] zahlenmäßig stärksten Parteien im Parlament)",
+        "das große (viel) Geld verdienen",
+        "〈substantiviert:〉 im Großen (en gros) verkaufen, handeln"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "in hohem Grade, von starker Intensität",
+      "grammar": "n/a",
+      "examples": [
+        "großer Lärm, Beifall",
+        "unter großem Hunger, großer Hitze leiden",
+        "große Angst, große Sorgen haben",
+        "mit großer Kraft, Geduld",
+        "mit dem größten Vergnügen",
+        "einen großen Fehler machen",
+        "große Fortschritte machen",
+        "große Schwierigkeiten",
+        "die Nachricht erregte großes Aufsehen",
+        "großen Wert auf etwas legen",
+        "in großer Eile sein",
+        "er ist ein großer Feigling, Esel",
+        "das ist große Klasse",
+        "ihre Freude war groß",
+        "der Leistungsdruck wird immer größer",
+        "kein großer Esser sein (nicht viel zu essen pflegen)",
+        "eine große (begeisterte, leidenschaftliche) Bastlerin",
+        "er war ihre große Liebe (der Mann, den sie am meisten geliebt hat)",
+        "groß im Geschäft sein"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "eine besondere Bedeutung habend; [ge]wichtig, maßgeblichmit überdurchschnittlichem Aufwand, überdurchschnittlicher Wirkung verbunden; großartig, glanzvollin besonderer Weise, mit viel Aufwand verbundenvon besonderer Fähigkeit, Qualität; bedeutend; berühmt",
+      "grammar": "n/a",
+      "examples": [
+        "die großen Öl fördernden Länder",
+        "große Worte, Gesten, Gefühle",
+        "die große Welt des Sports",
+        "Ereignisse aus der großen Politik",
+        "ein großer Augenblick ist gekommen",
+        "der größte Tag, die größte Chance ihres Lebens",
+        "er hat eine große Rede gehalten",
+        "das spielt [k]eine große Rolle",
+        "die großen (weitverbreiteten, überregionalen) Tageszeitungen",
+        "ein großes Fest",
+        "in großer Aufmachung erscheinen",
+        "die große (ironisch; vornehme, feine) Dame spielen",
+        "(ironisch) er spielt den großen Herrn (spielt sich auf, protzt)",
+        "eine Veranstaltung in großem Rahmen, Stil",
+        "groß ausgehen",
+        "das Jubiläum wurde groß gefeiert",
+        "der Artikel soll groß aufgemacht werden",
+        "ein groß angelegtes Forschungsprogramm",
+        "der große Goethe",
+        "eine große Künstlerin",
+        "einen großen Namen, eine große Vergangenheit haben",
+        "er ist der größte Sohn unserer Stadt",
+        "Katharina die Große; Abkürzung: d. Gr.",
+        "〈substantiviert:〉 sie war eine der ganz Großen ihres Fachs"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "eine besondere Bedeutung habend; [ge]wichtig, maßgeblich",
+          "grammar": "n/a",
+          "examples": [
+            "die großen Öl fördernden Länder",
+            "große Worte, Gesten, Gefühle",
+            "die große Welt des Sports",
+            "Ereignisse aus der großen Politik",
+            "ein großer Augenblick ist gekommen",
+            "der größte Tag, die größte Chance ihres Lebens",
+            "er hat eine große Rede gehalten",
+            "das spielt [k]eine große Rolle",
+            "die großen (weitverbreiteten, überregionalen) Tageszeitungen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "mit überdurchschnittlichem Aufwand, überdurchschnittlicher Wirkung verbunden; großartig, glanzvoll",
+          "grammar": "n/a",
+          "examples": [
+            "ein großes Fest",
+            "in großer Aufmachung erscheinen",
+            "die große (ironisch; vornehme, feine) Dame spielen",
+            "(ironisch) er spielt den großen Herrn (spielt sich auf, protzt)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "in besonderer Weise, mit viel Aufwand verbunden",
+          "grammar": "n/a",
+          "examples": [
+            "eine Veranstaltung in großem Rahmen, Stil",
+            "groß ausgehen",
+            "das Jubiläum wurde groß gefeiert",
+            "der Artikel soll groß aufgemacht werden",
+            "ein groß angelegtes Forschungsprogramm"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        },
+        {
+          "text": "von besonderer Fähigkeit, Qualität; bedeutend; berühmt",
+          "grammar": "n/a",
+          "examples": [
+            "der große Goethe",
+            "eine große Künstlerin",
+            "einen großen Namen, eine große Vergangenheit haben",
+            "er ist der größte Sohn unserer Stadt",
+            "Katharina die Große; Abkürzung: d. Gr.",
+            "〈substantiviert:〉 sie war eine der ganz Großen ihres Fachs"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "wesentlich, hauptsächlich, Haupt-",
+      "grammar": "n/a",
+      "examples": [
+        "die große Linie verfolgen",
+        "den großen Zusammenhang erkennen",
+        "der große Durchschnitt, die große Masse der Bevölkerung",
+        "etwas in großen Umrissen, Zügen berichten"
+      ],
+      "idioms": [
+        "im Großen und Ganzen (im Allgemeinen, alles in allem, aufs Ganze gesehen: sie war im Großen und Ganzen zufrieden)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "großmütig, edel, selbstlos",
+      "grammar": "n/a",
+      "examples": [
+        "ein großes Herz haben",
+        "sie ist eine große Seele",
+        "groß denkend"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "gehoben"
+      }
+    },
+    {
+      "text": "großartig, bewundernswert\n                großspurig",
+      "grammar": "n/a",
+      "examples": [
+        "das finde ich, das ist ganz groß!",
+        "groß im Sprücheklopfen sein",
+        "er steht jetzt ganz groß da (ist in besonderem Maße erfolgreich gewesen)",
+        "große Reden schwingen",
+        "er redet immer so groß daher"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "großartig, bewundernswert",
+          "grammar": "n/a",
+          "examples": [
+            "das finde ich, das ist ganz groß!",
+            "groß im Sprücheklopfen sein",
+            "er steht jetzt ganz groß da (ist in besonderem Maße erfolgreich gewesen)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        },
+        {
+          "text": "großspurig",
+          "grammar": "n/a",
+          "examples": [
+            "große Reden schwingen",
+            "er redet immer so groß daher"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "umgangssprachlich"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    },
+    {
+      "text": "in hohem Grade, besonders, sehr",
+      "grammar": "n/a",
+      "examples": [
+        "niemand freute sich groß",
+        "wir haben nicht groß darauf geachtet",
+        "ich habe zugestimmt ohne groß zu überlegen",
+        "soll ich mich groß darüber auslassen?",
+        "was ist das schon groß?"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "umgangssprachlich"
+      }
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "aufschneiderisch",
+      "link": "/rechtschreibung/aufschneiderisch"
+    },
+    {
+      "text": "prahlerisch",
+      "link": "/rechtschreibung/prahlerisch"
+    },
+    {
+      "text": "prahlsüchtig",
+      "link": "/rechtschreibung/prahlsuechtig"
+    },
+    {
+      "text": "vollmundig",
+      "link": "/rechtschreibung/vollmundig"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "gr{o}ß",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4110948_136001553.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "grōʒ,"
+    },
+    {
+      "word": "ursprünglich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "grobkörnig"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

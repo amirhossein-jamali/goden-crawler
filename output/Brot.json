@@ -1,0 +1,141 @@
+{
+  "word": "Brot",
+  "article": "das",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "das Brot; Genitiv: des Brot[e]s, Plural: die Brote",
+  "meanings": [
+    {
+      "text": "aus Mehl, Wasser, Salz und Sauerteig oder Hefe durch Backen hergestellte Backware, die als Grundnahrungsmittel gilteinzelner Laib Brot (1a)vom Brotlaib abgeschnittene Scheibe",
+      "grammar": "ohne Plural",
+      "examples": [
+        "frisches, durchgebackenes Brot",
+        "ein Stück Brot",
+        "Brot backen, essen",
+        "helles, dunkles Brot bevorzugen",
+        "etwas [so] nötig haben wie das tägliche Brot (sehr nötig haben)",
+        "zwei Brote kaufen",
+        "Brote machen",
+        "Butter aufs Brot streichen, schmieren"
+      ],
+      "idioms": [
+        "flüssiges Brot (umgangssprachlich scherzhaft:  Bier)",
+        "Brot und Spiele (panem et circenses)",
+        "mehr können als Brot essen (umgangssprachlich veraltet:  tüchtig sein; etwas können)",
+        "für ein Stück Brot (ganz billig, viel zu billig: etwas für ein Stück Brot verkaufen)",
+        "wes Brot ich ess, des Lied ich sing (in wessen Diensten ich stehe, dessen Interessen muss ich vertreten)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/B/Brot-201100279221.jpg",
+      "image_caption": "Vier Brote (vom Laib abgeschnitten) - © felinda - Fotolia.com",
+      "sub_meanings": [
+        {
+          "text": "aus Mehl, Wasser, Salz und Sauerteig oder Hefe durch Backen hergestellte Backware, die als Grundnahrungsmittel gilt",
+          "grammar": "ohne Plural",
+          "examples": [
+            "frisches, durchgebackenes Brot",
+            "ein Stück Brot",
+            "Brot backen, essen",
+            "helles, dunkles Brot bevorzugen",
+            "etwas [so] nötig haben wie das tägliche Brot (sehr nötig haben)"
+          ],
+          "idioms": [
+            "flüssiges Brot (umgangssprachlich scherzhaft:  Bier)",
+            "Brot und Spiele (panem et circenses)",
+            "mehr können als Brot essen (umgangssprachlich veraltet:  tüchtig sein; etwas können)",
+            "für ein Stück Brot (ganz billig, viel zu billig: etwas für ein Stück Brot verkaufen)",
+            "wes Brot ich ess, des Lied ich sing (in wessen Diensten ich stehe, dessen Interessen muss ich vertreten)"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/B/Brot-201100279215.jpg",
+          "image_caption": "Helles und dunkles Brot - © MEV Verlag, Augsburg"
+        },
+        {
+          "text": "einzelner Laib Brot (1a)",
+          "grammar": "n/a",
+          "examples": [
+            "zwei Brote kaufen"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/B/Brot-201100279218.jpg",
+          "image_caption": "Ein ganzes Brot - © Teamarbeit - Fotolia.com"
+        },
+        {
+          "text": "vom Brotlaib abgeschnittene Scheibe",
+          "grammar": "n/a",
+          "examples": [
+            "Brote machen",
+            "Butter aufs Brot streichen, schmieren"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/B/Brot-201100279221.jpg",
+          "image_caption": "Vier Brote (vom Laib abgeschnitten) - © felinda - Fotolia.com"
+        }
+      ]
+    },
+    {
+      "text": "Lebensunterhalt",
+      "grammar": "n/a",
+      "examples": [
+        "sich sein Brot mit Zeitungsaustragen [sauer, mühsam] verdienen"
+      ],
+      "idioms": [
+        "ein hartes/schweres Brot (schwere Arbeit, mühevoller Gelderwerb)",
+        "überall sein Brot finden (gehoben:  geschickt, fleißig, anstellig sein, sodass man überall seinen Lebensunterhalt finden kann)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "Brotlaib",
+      "link": "/rechtschreibung/Brotlaib"
+    },
+    {
+      "text": "Laib; (süddeutsch"
+    },
+    {
+      "text": "österreichisch) Wecken"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "Br{o}t",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4109671_497912702.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "brōt,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "prōt,"
+    },
+    {
+      "word": "eigentlich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "Gegorenes,"
+    },
+    {
+      "word": "zu"
+    },
+    {
+      "word": "brauen",
+      "link": "/rechtschreibung/brauen"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "word": "Katze",
+  "article": "die",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "medium",
+  "grammar": "die Katze; Genitiv: der Katze, Plural: die Katzen",
+  "meanings": [
+    {
+      "text": "Hauskatze\n              weibliche Katze (1a)weibliches Tier von Wildkatze, Luchs oder Murmeltier",
+      "grammar": "n/a",
+      "examples": [
+        "eine graue, getigerte, wildernde, herumstreunende, zugelaufene Katze",
+        "die Katze schnurrt, spielt, kratzt, faucht, miaut, macht einen Buckel, putzt sich, leckt sich",
+        "sie spielt mit ihm wie die Katze mit der Maus"
+      ],
+      "idioms": [
+        "der Katze die Schelle umhängen (umgangssprachlich veraltend:  einen gefährlichen oder unangenehmen Auftrag ausführen, aus dem auch noch andere einen Nutzen ziehen; nach einer Tierfabel, in der die Mäuse beschließen, der Katze eine Schelle umzuhängen, damit sie sie rechtzeitig hören können)",
+        "die Katze aus dem Sack lassen (umgangssprachlich:  eine Absicht, einen Plan, den man bisher absichtlich verschwiegen hat, anderen zur Kenntnis bringen; wohl nach dem im Volksbuch von Till Eulenspiegel erzählten Schwank von der Katze im Sack, die einem Gutgläubigen als Hase verkauft wird)",
+        "die Katze im Sack kaufen (umgangssprachlich:  etwas kaufen, ohne sich vorher von dessen Güte oder Zweckmäßigkeit überzeugt zu haben; etwas übernehmen, sich etwas bieten lassen, ohne es vorher geprüft zu haben; früher wurde auf Märkten oft eine Katze anstelle eines Ferkels, Kaninchens oder Hasen in den Sack getan, um den unachtsamen Käufer hereinzulegen)",
+        "Katze und Maus [mit jemandem, miteinander] spielen (umgangssprachlich:  Katz)",
+        "um etwas herumgehen wie die Katze um den heißen Brei (umgangssprachlich:  über etwas reden, ohne aber auf den eigentlichen Kern der Sache zu sprechen zu kommen)",
+        "da beißt sich die Katze in den Schwanz (dabei bedingen sich Ursache und Wirkung wechselseitig)",
+        "das trägt die Katze auf dem Schwanz fort (das ist eine unbedeutende Kleinigkeit)",
+        "die Katze lässt das Mausen nicht (alte Gewohnheiten kann man nicht ablegen)",
+        "in der Nacht sind alle Katzen grau (in der Dunkelheit fallen Besonderheiten nicht auf)",
+        "wenn die Katze aus dem Haus ist, tanzen die Mäuse [auf dem Tisch] (jemand, der es gewohnt ist, beaufsichtigt zu werden, nutzt es aus, wenn er einmal ohne Aufsicht ist)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/K/Katze-201020364767.jpg",
+      "image_caption": "© MEV Verlag, Augsburg",
+      "sub_meanings": [
+        {
+          "text": "Hauskatze",
+          "grammar": "n/a",
+          "examples": [
+            "eine graue, getigerte, wildernde, herumstreunende, zugelaufene Katze",
+            "die Katze schnurrt, spielt, kratzt, faucht, miaut, macht einen Buckel, putzt sich, leckt sich",
+            "sie spielt mit ihm wie die Katze mit der Maus"
+          ],
+          "idioms": [
+            "der Katze die Schelle umhängen (umgangssprachlich veraltend:  einen gefährlichen oder unangenehmen Auftrag ausführen, aus dem auch noch andere einen Nutzen ziehen; nach einer Tierfabel, in der die Mäuse beschließen, der Katze eine Schelle umzuhängen, damit sie sie rechtzeitig hören können)",
+            "die Katze aus dem Sack lassen (umgangssprachlich:  eine Absicht, einen Plan, den man bisher absichtlich verschwiegen hat, anderen zur Kenntnis bringen; wohl nach dem im Volksbuch von Till Eulenspiegel erzählten Schwank von der Katze im Sack, die einem Gutgläubigen als Hase verkauft wird)",
+            "die Katze im Sack kaufen (umgangssprachlich:  etwas kaufen, ohne sich vorher von dessen Güte oder Zweckmäßigkeit überzeugt zu haben; etwas übernehmen, sich etwas bieten lassen, ohne es vorher geprüft zu haben; früher wurde auf Märkten oft eine Katze anstelle eines Ferkels, Kaninchens oder Hasen in den Sack getan, um den unachtsamen Käufer hereinzulegen)",
+            "Katze und Maus [mit jemandem, miteinander] spielen (umgangssprachlich:  Katz)",
+            "um etwas herumgehen wie die Katze um den heißen Brei (umgangssprachlich:  über etwas reden, ohne aber auf den eigentlichen Kern der Sache zu sprechen zu kommen)",
+            "da beißt sich die Katze in den Schwanz (dabei bedingen sich Ursache und Wirkung wechselseitig)",
+            "das trägt die Katze auf dem Schwanz fort (das ist eine unbedeutende Kleinigkeit)",
+            "die Katze lässt das Mausen nicht (alte Gewohnheiten kann man nicht ablegen)",
+            "in der Nacht sind alle Katzen grau (in der Dunkelheit fallen Besonderheiten nicht auf)",
+            "wenn die Katze aus dem Haus ist, tanzen die Mäuse [auf dem Tisch] (jemand, der es gewohnt ist, beaufsichtigt zu werden, nutzt es aus, wenn er einmal ohne Aufsicht ist)"
+          ],
+          "image": "https://cdn.duden.de/_media_/full/K/Katze-201020364767.jpg",
+          "image_caption": "© MEV Verlag, Augsburg"
+        },
+        {
+          "text": "weibliche Katze (1a)",
+          "grammar": "n/a",
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "weibliches Tier von Wildkatze, Luchs oder Murmeltier",
+          "grammar": "n/a",
+          "image": "n/a",
+          "image_caption": "n/a",
+          "tuple_info": {
+            "Gebrauch": "Jägersprache"
+          }
+        }
+      ],
+      "tuple_info": {
+        "Gebrauch": "Jägersprache"
+      }
+    },
+    {
+      "text": "in zahlreichen Arten fast weltweit verbreitetes katzenartiges Raubtier (z. B. Löwe, Tiger)",
+      "grammar": "n/a",
+      "image": "https://cdn.duden.de/_media_/full/K/Katze-201100285848.jpg",
+      "image_caption": "Katze (Tiger) - © MEV Verlag, Augsburg",
+      "tuple_info": {
+        "Gebrauch": "besonders Zoologie"
+      }
+    },
+    {
+      "text": "Geldbeutel",
+      "grammar": "n/a",
+      "image": "n/a",
+      "image_caption": "n/a",
+      "tuple_info": {
+        "Gebrauch": "landschaftlich, sonst veraltet",
+        "Herkunft": "vielleicht wegen der länglichen Form, die einer sich anschmiegenden Katze ähnelt oder nach der in der Sage häufigen Darstellung der Katze als Hüterin von Schätzen"
+      }
+    },
+    {
+      "text": "",
+      "grammar": "n/a",
+      "idioms": [
+        "neunschwänzige Katze (Peitsche aus neun Schnüren oder neun ledernen Riemen mit je einem Knoten)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "Kater; (familiär) Mieze[katze]"
+    },
+    {
+      "text": "Samtpfötchen; (schweizerisch familiär) Büsi"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "K(a)tze",
+      "phonetic": "[ˈkatsə]",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4116912_328705905.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "katze,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "kazza,"
+    },
+    {
+      "word": "gemeineuropäisches"
+    },
+    {
+      "word": "Wanderwort,"
+    },
+    {
+      "word": "Herkunft"
+    },
+    {
+      "word": "ungeklärt"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

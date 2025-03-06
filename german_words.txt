@@ -1,0 +1,60 @@
+# Common German words for testing
+# Each line contains one word
+
+# Nouns
+Haus
+Auto
+Schule
+Buch
+Tisch
+Stuhl
+Computer
+Fenster
+Tür
+Wasser
+Brot
+Milch
+Kaffee
+Tee
+Apfel
+Banane
+Orange
+Katze
+Hund
+Vogel
+
+# Verbs
+gehen
+kommen
+laufen
+sprechen
+lesen
+schreiben
+essen
+trinken
+schlafen
+arbeiten
+spielen
+lernen
+lieben
+denken
+sehen
+hören
+
+# Adjectives
+gut
+schlecht
+groß
+klein
+alt
+neu
+schön
+hässlich
+schnell
+langsam
+heiß
+kalt
+schwer
+leicht
+interessant
+langweilig 

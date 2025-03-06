@@ -9,11 +9,13 @@ import (
 	"strings"
 
 	"github.com/amirhossein-jamali/goden-crawler/internal/application/services"
-	"github.com/amirhossein-jamali/goden-crawler/internal/crawler"
 	"github.com/amirhossein-jamali/goden-crawler/internal/formatter"
+	"github.com/amirhossein-jamali/goden-crawler/internal/infrastructure/container"
 
 	"github.com/spf13/cobra"
 )
+
+var interactiveFormat = "text"
 
 var interactiveCmd = &cobra.Command{
 	Use:   "interactive",
@@ -22,11 +24,8 @@ var interactiveCmd = &cobra.Command{
 Type 'exit' or 'quit' to end the session.
 Type 'help' to see available commands.`,
 	Run: func(cmd *cobra.Command, args []string) {
-		// Create a new scraper
-		scraper := crawler.NewDudenScraper()
-
-		// Create a word service using the scraper
-		wordService := services.NewWordService(scraper)
+		// Get word service from container
+		wordService := container.GetWordService()
 
 		// Start interactive mode
 		fmt.Println("🔍 Goden Crawler Interactive Mode")
@@ -66,12 +65,12 @@ Type 'help' to see available commands.`,
 				continue
 
 			case "format json":
-				format = "json"
+				interactiveFormat = "json"
 				fmt.Println("🔄 Output format set to JSON")
 				continue
 
 			case "format text":
-				format = "text"
+				interactiveFormat = "text"
 				fmt.Println("🔄 Output format set to text")
 				continue
 			}
@@ -84,7 +83,7 @@ Type 'help' to see available commands.`,
 			}
 
 			// Otherwise, treat as a word to scrape
-			handleWord(wordService, input, format)
+			handleWord(wordService, input, interactiveFormat)
 		}
 
 		if err := scanner.Err(); err != nil {

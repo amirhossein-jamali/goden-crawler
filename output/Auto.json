@@ -1,0 +1,78 @@
+{
+  "word": "Auto",
+  "article": "das",
+  "word_type": [
+    "unknown"
+  ],
+  "frequency": "high",
+  "grammar": "das Auto; Genitiv: des Autos, Plural: die Autos",
+  "meanings": [
+    {
+      "text": "durch einen Motor angetriebenes Straßenfahrzeug mit gummibereiften Rädern und offener oder geschlossener Karosserie zum Transport von Personen oder Gütern; Kraftwagen, Kraftfahrzeug, Automobil",
+      "grammar": "n/a",
+      "examples": [
+        "sein, das Auto geriet ins Schleudern",
+        "Auto fahren können",
+        "sie fährt gut Auto",
+        "Auto und Rad fahren",
+        "mit dem Auto unterwegs sein",
+        "er ist unter ein Auto gekommen (wurde von einem Auto überfahren)"
+      ],
+      "idioms": [
+        "wie ein Auto gucken (umgangssprachlich:  sehr erstaunt, verblüfft dreinblicken)"
+      ],
+      "image": "https://cdn.duden.de/_media_/full/A/Auto-201020043993.jpg",
+      "image_caption": "© MEV Verlag, Augsburg"
+    },
+    {
+      "text": "als Spielzeug oder Fahrzeug für Kinder dienende kleine Nachbildung eines Autos (1)",
+      "grammar": "n/a",
+      "examples": [
+        "mit Autos spielen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "Cabrio[let]",
+      "link": "/rechtschreibung/Cabriolet"
+    },
+    {
+      "text": "Caravan",
+      "link": "/rechtschreibung/Caravan"
+    },
+    {
+      "text": "Fahrzeug",
+      "link": "/rechtschreibung/Fahrzeug"
+    },
+    {
+      "text": "Kfz",
+      "link": "/rechtschreibung/Kfz"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "{Au}to",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4110583_296333104.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "Kurzform"
+    },
+    {
+      "word": "von"
+    },
+    {
+      "word": "Automobil",
+      "link": "/rechtschreibung/Automobil"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}

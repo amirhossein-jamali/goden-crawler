@@ -1,0 +1,232 @@
+{
+  "word": "trinken",
+  "word_type": [
+    "unknown"
+  ],
+  "grammar": "trinkt, trank, hat getrunken",
+  "meanings": [
+    {
+      "text": "Flüssigkeit, ein Getränk zu sich nehmensich in bestimmter Weise trinken (2) lassendurch Trinken (1a) in einen bestimmten Zustand bringen",
+      "grammar": "sich trinken",
+      "examples": [
+        "langsam, genussvoll, schnell, hastig, gierig trinken",
+        "sie isst und trinkt gerne",
+        "aus der Flasche trinken",
+        "in/mit kleinen Schlucken, in großen Zügen trinken",
+        "lass mich mal [von dem Saft] trinken",
+        "die Mutter gibt dem Kind [von der Milch] zu trinken",
+        "der Wein trinkt sich gut (schmeckt gut)",
+        "das Baby hat sich satt getrunken",
+        "du hast dein Glas noch nicht leer getrunken (hast noch nicht ausgetrunken)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "Flüssigkeit, ein Getränk zu sich nehmen",
+          "grammar": "n/a",
+          "examples": [
+            "langsam, genussvoll, schnell, hastig, gierig trinken",
+            "sie isst und trinkt gerne",
+            "aus der Flasche trinken",
+            "in/mit kleinen Schlucken, in großen Zügen trinken",
+            "lass mich mal [von dem Saft] trinken",
+            "die Mutter gibt dem Kind [von der Milch] zu trinken"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich in bestimmter Weise trinken (2) lassen",
+          "grammar": "sich trinken",
+          "examples": [
+            "der Wein trinkt sich gut (schmeckt gut)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "durch Trinken (1a) in einen bestimmten Zustand bringen",
+          "grammar": "n/a",
+          "examples": [
+            "das Baby hat sich satt getrunken",
+            "du hast dein Glas noch nicht leer getrunken (hast noch nicht ausgetrunken)"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    },
+    {
+      "text": "als Flüssigkeit, als Getränk zu sich nehmen; trinkend (1a) verzehren",
+      "grammar": "n/a",
+      "examples": [
+        "Wasser, Milch, Tee, Kaffee, Bier, Wein trinken",
+        "sie trinkt am liebsten Mineralwasser",
+        "sie trinkt keinen Alkohol",
+        "ein Bier, eine Tasse Kaffee, einen Schluck Wasser, eine Flasche Bier, ein Glas Wein trinken",
+        "trinkst du noch ein Glas?",
+        "er trinkt keinen Tropfen (überhaupt keinen Alkohol)",
+        "(umgangssprachlich) der Kognak lässt sich trinken, ist zu trinken, den Kognak kann man trinken (der Kognak schmeckt gut)",
+        "〈in übertragener Bedeutung:〉 (dichterisch) die ausgedörrte Erde trank den Regen (saugte ihn auf)",
+        "〈in übertragener Bedeutung:〉 (dichterisch) die Schönheit, das Leben trinken (voll in sich aufnehmen)"
+      ],
+      "idioms": [
+        "einen trinken (umgangssprachlich:  ein alkoholisches Getränk trinken: er geht öfter einen trinken)",
+        "sich \u003cDativ\u003e einen trinken (umgangssprachlich:  saufen 3b)"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a"
+    },
+    {
+      "text": "Alkohol, ein alkoholisches Getränk zu sich nehmeneinen Schluck eines alkoholischen Getränks mit guten Wünschen für jemanden, etwas zu sich nehmensich durch den Genuss alkoholischer Getränke in einen bestimmten Zustand, in bestimmte Umstände bringengewohnheitsmäßig alkoholische Getränke in zu großer Menge zu sich nehmen; alkoholsüchtig sein",
+      "grammar": "sich trinken",
+      "examples": [
+        "in der Kneipe sitzen und trinken",
+        "man merkte, dass sie alle getrunken hatten",
+        "auf jemanden, jemandes Wohl, Glück, Gesundheit trinken",
+        "lasst uns nun alle auf ein gutes Gelingen, auf eine glückliche Zukunft trinken!",
+        "sich krank, arm, um den Verstand trinken",
+        "aus Verzweiflung, aus Kummer trinken",
+        "sie hat angefangen zu trinken",
+        "er trinkt",
+        "〈substantiviert:〉 er kann das Trinken nicht mehr lassen"
+      ],
+      "image": "n/a",
+      "image_caption": "n/a",
+      "sub_meanings": [
+        {
+          "text": "Alkohol, ein alkoholisches Getränk zu sich nehmen",
+          "grammar": "n/a",
+          "examples": [
+            "in der Kneipe sitzen und trinken",
+            "man merkte, dass sie alle getrunken hatten"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "einen Schluck eines alkoholischen Getränks mit guten Wünschen für jemanden, etwas zu sich nehmen",
+          "grammar": "n/a",
+          "examples": [
+            "auf jemanden, jemandes Wohl, Glück, Gesundheit trinken",
+            "lasst uns nun alle auf ein gutes Gelingen, auf eine glückliche Zukunft trinken!"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "sich durch den Genuss alkoholischer Getränke in einen bestimmten Zustand, in bestimmte Umstände bringen",
+          "grammar": "sich trinken",
+          "examples": [
+            "sich krank, arm, um den Verstand trinken"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        },
+        {
+          "text": "gewohnheitsmäßig alkoholische Getränke in zu großer Menge zu sich nehmen; alkoholsüchtig sein",
+          "grammar": "n/a",
+          "examples": [
+            "aus Verzweiflung, aus Kummer trinken",
+            "sie hat angefangen zu trinken",
+            "er trinkt",
+            "〈substantiviert:〉 er kann das Trinken nicht mehr lassen"
+          ],
+          "image": "n/a",
+          "image_caption": "n/a"
+        }
+      ]
+    }
+  ],
+  "synonyms": [
+    {
+      "text": "[aus]schlürfen",
+      "link": "/rechtschreibung/ausschluerfen"
+    },
+    {
+      "text": "austrinken",
+      "link": "/rechtschreibung/austrinken"
+    },
+    {
+      "text": "den Durst löschen/stillen"
+    },
+    {
+      "text": "hinunterstürzen",
+      "link": "/rechtschreibung/hinunterstuerzen"
+    }
+  ],
+  "pronunciation": [
+    {
+      "word": "tr(i)nken",
+      "phonetic": "",
+      "audio": "https://cdn.duden.de/_media_/audio/ID4109246_338923837.mp3"
+    }
+  ],
+  "spelling": {},
+  "origin": [
+    {
+      "word": "mittelhochdeutsch"
+    },
+    {
+      "word": "trinken,"
+    },
+    {
+      "word": "althochdeutsch"
+    },
+    {
+      "word": "trinkan,"
+    },
+    {
+      "word": "Herkunft"
+    },
+    {
+      "word": "ungeklärt,"
+    },
+    {
+      "word": "vielleicht"
+    },
+    {
+      "word": "zu"
+    },
+    {
+      "word": "einem"
+    },
+    {
+      "word": "Verb"
+    },
+    {
+      "word": "mit"
+    },
+    {
+      "word": "der"
+    },
+    {
+      "word": "Bedeutung"
+    },
+    {
+      "word": "„ziehen“"
+    },
+    {
+      "word": "und"
+    },
+    {
+      "word": "eigentlich"
+    },
+    {
+      "word": "="
+    },
+    {
+      "word": "einen"
+    },
+    {
+      "word": "Zug"
+    },
+    {
+      "word": "tun"
+    }
+  ],
+  "fun_facts": [
+    "Dieses Wort gehört zum Wortschatz des Goethe-Zertifikats B1."
+  ]
+}
