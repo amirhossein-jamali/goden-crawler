@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/amirhossein-jamali/goden-crawler/internal/crawler"
 	"github.com/amirhossein-jamali/goden-crawler/internal/formatter"
+	"github.com/amirhossein-jamali/goden-crawler/internal/infrastructure/container"
 
 	"github.com/spf13/cobra"
 )
@@ -20,8 +20,14 @@ var scrapeCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 		word := args[0]
 
-		// Fetch word data using the crawler
-		wordData, err := crawler.CrawlDuden(word)
+		// Get the container
+		c := container.GetContainer()
+
+		// Get the word service from the container
+		wordService := c.GetWordService()
+
+		// Fetch word data using the service
+		wordData, err := wordService.GetWordData(word)
 		if err != nil {
 			fmt.Println("🚨 Error fetching word data:", err)
 			os.Exit(1)

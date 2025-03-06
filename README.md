@@ -1,17 +1,43 @@
 # 📚 Goden Crawler
 
-Goden Crawler is a command-line interface (CLI) tool designed to extract detailed linguistic information from the **Duden** online dictionary. Built with **Golang** and **Cobra** for CLI management, it features a modular and scalable architecture, making it easy to maintain and extend.
+Goden Crawler is a powerful command-line interface (CLI) tool designed to extract detailed linguistic information from the **Duden** online dictionary. Built with **Golang** and **Cobra** for CLI management, it features a modular and scalable architecture following clean architecture principles, making it easy to maintain and extend.
 
 ---
 
 ## 🚀 Features
 
 - **Comprehensive Information Extraction**:
-    - Automatically detect word type, retrieve articles, and word frequency.
-    - Fetch verb conjugations, noun declensions, and more.
-    - Retrieve word meanings, usage examples, and contextual information.
-- **Automated Testing**: Includes unit and integration tests using **Go testing framework**.
-- **User-Friendly CLI**: Easy-to-use command-line interface for quick word analysis.
+  - Word details (article, type, frequency)
+  - Grammatical information (conjugations, declensions)
+  - Meanings and definitions with examples
+  - Synonyms and related words
+  - Etymology and word origins
+  - Pronunciation guides
+  - Spelling information
+  - "Did you know?" fun facts
+
+- **Multiple Operation Modes**:
+  - Single word scraping
+  - Interactive shell mode
+  - Batch processing with concurrent workers
+  - Suggestions for similar words
+
+- **Flexible Output Formats**:
+  - Text (human-readable)
+  - JSON (machine-readable)
+  - Extensible formatter system
+
+- **Performance Optimizations**:
+  - Caching system (memory and disk)
+  - Concurrent processing
+  - Configurable timeouts and retries
+
+- **Developer-Friendly**:
+  - Clean architecture (domain, application, infrastructure layers)
+  - Dependency injection
+  - Extensive logging
+  - Error handling
+  - Shell completion support
 
 ---
 
@@ -35,47 +61,154 @@ git clone https://github.com/amirhossein-jamali/goden-crawler.git
 cd goden-crawler
 ```
 
-2. **Initialize Go modules** (if not already initialized):
+2. **Install dependencies**:
 
 ```bash
 go mod tidy
+```
+
+3. **Build the application**:
+
+```bash
+go build -o goden-crawler
+```
+
+4. **Run the application**:
+
+```bash
+./goden-crawler --help
 ```
 
 ---
 
 ## 🚀 Usage
 
-Run the tool to extract linguistic information from Duden.
+### Single Word Scraping
 
-### General Usage:
-
-```bash
-go run main.go scrape <word>
-```
-
-- `<word>`: The German word to analyze (word type is automatically detected).
-
-### Examples:
-
-#### Analyze a Word:
+Extract linguistic information for a single German word:
 
 ```bash
-go run main.go scrape zahlen
+./goden-crawler scrape <word> [--output format]
 ```
 
-**Sample Output**:
+Options:
+- `--output`, `-o`: Output format (text, json). Default: text
+
+Example:
+```bash
+./goden-crawler scrape zahlen --output json
+```
+
+### Interactive Mode
+
+Start an interactive shell for continuous word lookups:
+
+```bash
+./goden-crawler interactive
+```
+
+In interactive mode, you can:
+- Type a word to get its information
+- Use `suggest <word>` to get word suggestions
+- Switch output format with `format json` or `format text`
+- View available sections with `sections`
+- Get help with `help`
+- Exit with `exit` or `quit`
+
+### Batch Processing
+
+Process multiple words concurrently and save results to files:
+
+```bash
+./goden-crawler batch <word1> <word2> <word3> ... [flags]
+```
+
+Options:
+- `--output`, `-o`: Output format (text, json). Default: json
+- `--workers`, `-w`: Number of concurrent workers. Default: 5
+- `--timeout`, `-t`: Timeout in seconds per word. Default: 30
+- `--prefix`, `-p`: Output filename prefix. Default: none
+
+Example:
+```bash
+./goden-crawler batch haus baum auto --workers 3 --output json --prefix "german_"
+```
+
+This will create files: german_haus.json, german_baum.json, german_auto.json
+
+### Shell Completion
+
+Generate shell completion scripts:
+
+```bash
+./goden-crawler completion [bash|zsh|fish|powershell]
+```
+
+---
+
+## 📊 Sample Output
+
+### Text Format
 
 ```
 --- GENERAL INFO ---
-{
-    "word": "zahlen",
-    "article": "das",
-    "word_type": "Verb"
-}
+Word: zahlen
+Article: 
+Word Type: Verb
+Frequency: ★★★★☆ (high)
 
 --- GRAMMAR ---
+Conjugation: zahlt, zahlte, hat gezahlt
+
+--- MEANINGS ---
+1. einen Geldbetrag als Gegenleistung für etwas geben
+   Examples:
+   - bar, mit Kreditkarte zahlen
+   - die Rechnung, Miete, Steuern zahlen
+   - er hat für alle gezahlt
+
+2. einen bestimmten Preis haben
+   Examples:
+   - für das Haus musste er viel zahlen
+   - was zahlt man für ein Kilo Äpfel?
+
+--- SYNONYMS ---
+begleichen, berappen, bestreiten, bezahlen, entrichten, erstatten...
+```
+
+### JSON Format
+
+```json
 {
-    "conjugation": "zahlt, zahlte, hat gezahlt"
+  "word": "zahlen",
+  "word_type": ["Verb"],
+  "frequency": "★★★★☆",
+  "grammar": "zahlt, zahlte, hat gezahlt",
+  "meanings": [
+    {
+      "text": "einen Geldbetrag als Gegenleistung für etwas geben",
+      "examples": [
+        "bar, mit Kreditkarte zahlen",
+        "die Rechnung, Miete, Steuern zahlen",
+        "er hat für alle gezahlt"
+      ]
+    },
+    {
+      "text": "einen bestimmten Preis haben",
+      "examples": [
+        "für das Haus musste er viel zahlen",
+        "was zahlt man für ein Kilo Äpfel?"
+      ]
+    }
+  ],
+  "synonyms": [
+    {"text": "begleichen"},
+    {"text": "berappen"},
+    {"text": "bestreiten"},
+    {"text": "bezahlen"},
+    {"text": "entrichten"},
+    {"text": "erstatten"}
+  ]
 }
 ```
 
@@ -85,52 +218,134 @@ go run main.go scrape zahlen
 
 Run tests to ensure everything works as expected:
 
-- Run all tests:
-
 ```bash
+# Run all tests
 go test ./...
-```
 
-- Run specific test files:
+# Run tests with coverage
+go test ./... -cover
 
-```bash
-go test ./tests/scraper_test.go
+# Run specific package tests
+go test ./internal/crawler/...
 ```
 
 ---
 
 ## 📂 Project Structure
 
-```plaintext
+The project follows clean architecture principles with clear separation of concerns:
+
+```
 goden-crawler/
 ├── cmd/                     # CLI commands using Cobra
 │   ├── root.go              # Main entry point for CLI
-│   ├── scrape.go            # Handles scraping words from Duden
-├── internal/
-│   ├── crawler/             # Core web scraper
-│   │   ├── duden_scraper.go # Fetches data from Duden website
-│   ├── extractors/          # Extraction logic for different sections
-│   │   ├── base.go          # Base extractor interface
-│   │   ├── general.go       # Extracts general word info
-│   │   ├── meanings.go      # Extracts meanings and examples
-│   │   ├── grammar.go       # Extracts grammatical information
-│   │   ├── synonyms.go      # Extracts synonyms
-│   │   ├── spelling.go      # Extracts spelling information
-│   │   ├── origin.go        # Extracts word origins
-│   │   ├── funfact.go       # Extracts "Did you know?" section
-│   │   ├── extractor_factory.go  # Factory for handling extractors
-│   ├── formatter/           # Formatting output
-│   │   ├── formatter.go     # Converts extracted data to JSON/Text
+│   ├── scrape.go            # Single word scraping
+│   ├── interactive.go       # Interactive shell mode
+│   ├── batch.go             # Batch processing
+│   └── completion.go        # Shell completion
+├── internal/                # Internal packages (not importable)
+│   ├── domain/              # Core domain models and interfaces
+│   │   ├── models/          # Domain models
+│   │   │   └── word_builder.go # Builder for word models
+│   │   └── interfaces/      # Core interfaces
+│   │       ├── crawler.go   # Crawler interface
+│   │       ├── extractor.go # Extractor interface
+│   │       └── service.go   # Service interfaces
+│   ├── application/         # Application services
+│   │   └── services/        # Business logic services
+│   │       ├── word_service.go  # Word data operations
+│   │       └── batch_service.go # Batch processing
+│   ├── infrastructure/      # External services implementation
+│   │   ├── crawler/         # Web scraping implementation
+│   │   │   ├── duden_scraper.go     # Duden website scraper
+│   │   │   └── cached_duden_scraper.go # Cached scraper
+│   │   ├── extractors/      # Data extraction modules
+│   │   │   ├── base.go      # Base extractor
+│   │   │   ├── factory.go   # Extractor factory
+│   │   │   ├── strategy.go  # Extraction strategy pattern
+│   │   │   └── general_info.go # General info extractor
+│   │   ├── cache/           # Caching implementation
+│   │   │   └── cache.go     # Memory and disk caching
+│   │   ├── http/            # HTTP client implementation
+│   │   │   └── client.go    # Custom HTTP client
+│   │   ├── middleware/      # Middleware chain
+│   │   │   └── chain.go     # Middleware implementation
+│   │   ├── container/       # Dependency injection
+│   │   │   └── container.go # Service container
+│   │   ├── events/          # Event system
+│   │   │   └── observer.go  # Observer pattern
+│   │   └── plugins/         # Plugin system
+│   │       ├── plugin.go    # Plugin manager
+│   │       └── plugin_example.go # Example plugin
+│   ├── crawler/             # Crawler implementation
+│   │   ├── duden.go         # Duden crawler interface
+│   │   └── extractors/      # Specific extractors
+│   │       ├── base_extractor.go      # Base extractor
+│   │       ├── bedeutungen_extractor.go # Meanings extractor
+│   │       ├── grammatik_extractor.go   # Grammar extractor
+│   │       ├── synonyme_extractor.go    # Synonyms extractor
+│   │       ├── herkunft_extractor.go    # Origin extractor
+│   │       ├── rechtschreibung_extractor.go # Spelling extractor
+│   │       └── wussten_sie_schon_extractor.go # Fun facts extractor
+│   └── formatter/           # Output formatting
+│       └── formatter.go     # Text/JSON formatter
+├── pkg/                     # Public packages (importable)
 │   ├── models/              # Data models
-│   │   ├── word.go          # Defines the `Word` struct
-├── tests/                   # Unit & Integration tests
-│   ├── scraper_test.go      # Tests for DudenScraper
-│   ├── extractors_test.go   # Tests for extractors
+│   │   └── word.go          # Word model
+│   ├── utils/               # Utility functions
+│   │   ├── http_client.go   # HTTP client utilities
+│   │   ├── string_utils.go  # String manipulation utilities
+│   │   └── config.go        # Configuration utilities
+│   ├── logger/              # Logging utilities
+│   │   └── logger.go        # Logger implementation
+│   └── errors/              # Error handling
+│       └── errors.go        # Custom errors
 ├── main.go                  # Entry point
 ├── go.mod                   # Go module file
 ├── go.sum                   # Go dependencies lock file
-├── README.md                # Documentation
+└── README.md                # Documentation
 ```
+
+---
+
+## 🔧 Architecture
+
+Goden Crawler follows clean architecture principles with three main layers:
+
+1. **Domain Layer** (internal/domain)
+   - Contains core business logic and interfaces
+   - Independent of external frameworks and tools
+   - Defines the contracts that other layers must implement
+
+2. **Application Layer** (internal/application)
+   - Implements use cases using domain interfaces
+   - Orchestrates the flow of data between domain and infrastructure
+   - Contains business rules specific to the application
+
+3. **Infrastructure Layer** (internal/infrastructure)
+   - Implements interfaces defined in the domain layer
+   - Handles external concerns like HTTP, caching, and data persistence
+   - Adapts external libraries and frameworks to the application
+
+This architecture ensures:
+- Separation of concerns
+- Testability
+- Maintainability
+- Flexibility to change external dependencies
+
+---
+
+## 🧩 Design Patterns
+
+The project implements several design patterns:
+
+- **Builder Pattern**: For constructing Word objects (word_builder.go)
+- **Factory Pattern**: For creating extractors (extractor_factory.go)
+- **Strategy Pattern**: For different extraction strategies (strategy.go)
+- **Observer Pattern**: For event handling (observer.go)
+- **Middleware Pattern**: For request processing (chain.go)
+- **Dependency Injection**: For service management (container.go)
+- **Singleton Pattern**: For global access to services
 
 ---
 
@@ -138,16 +353,16 @@ goden-crawler/
 
 This project leverages the following tools and libraries:
 
-- **Golang 1.21+**: Core programming language.
-- **Cobra**: CLI framework for handling commands.
-- **Colly**: Web scraping library for Go.
-- **Go testing framework**: For unit and integration testing.
+- **Golang 1.21+**: Core programming language
+- **Cobra**: CLI framework for handling commands
+- **goquery**: Web scraping library for Go
+- **Go testing framework**: For unit and integration testing
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions! Here’s how you can help:
+We welcome contributions! Here's how you can help:
 
 1. **Fork the repository**: 🍴
 2. **Create a new branch**: 🌿
@@ -171,6 +386,13 @@ git push origin feature/your-feature-name
 
 6. **Open a Pull Request**: 🔥
 
+### Contribution Guidelines
+
+- Follow Go coding standards
+- Write tests for new features
+- Update documentation as needed
+- Keep pull requests focused on a single feature/fix
+
 ---
 
 ## 📄 License
@@ -178,3 +400,57 @@ git push origin feature/your-feature-name
 This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/amirhossein-jamali/goden-crawler/blob/main/LICENSE) file for details.
 
 ---
+
+## 🙏 Acknowledgements
+
+- [Duden](https://www.duden.de/) for providing the linguistic data
+- The Go community for excellent libraries and tools
+- All contributors who have helped improve this project
+
+---
+
+## 📂 .gitignore
+
+To ensure that unnecessary files are not tracked by Git, create a `.gitignore` file in the root of your project with the following content:
+
+```
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below if you use dep)
+# vendor/
+
+# Go workspace file
+*.code-workspace
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Build output
+/goden-crawler
+
+# Go module files
+/go.sum
+
+# Environment variables
+.env
+```
+
+This will help keep your repository clean by ignoring files that are not necessary to track.
