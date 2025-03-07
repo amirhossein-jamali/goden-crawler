@@ -20,6 +20,7 @@ Goden Crawler is a powerful command-line interface (CLI) tool designed to extrac
   - Single word scraping
   - Interactive shell mode
   - Batch processing with concurrent workers
+  - Bulk processing from file input
   - Suggestions for similar words
 
 - **Flexible Output Formats**:
@@ -32,12 +33,19 @@ Goden Crawler is a powerful command-line interface (CLI) tool designed to extrac
   - Concurrent processing
   - Configurable timeouts and retries
 
+- **Data Persistence**:
+  - MongoDB for document storage
+  - PostgreSQL for relational data
+  - Redis for caching
+  - Elasticsearch for full-text search
+
 - **Developer-Friendly**:
   - Clean architecture (domain, application, infrastructure layers)
   - Dependency injection
-  - Extensive logging
+  - Extensive logging with file output
   - Error handling
   - Shell completion support
+  - Docker containerization
 
 ---
 
@@ -47,6 +55,7 @@ Before getting started, make sure you have the following installed:
 
 - **Golang 1.21+**
 - **Git** (for version control)
+- **Docker** and **Docker Compose** (optional, for containerized setup)
 
 ---
 
@@ -78,6 +87,14 @@ go build -o goden-crawler
 ```bash
 ./goden-crawler --help
 ```
+
+5. **Docker setup** (optional):
+
+```bash
+docker-compose up -d
+```
+
+This will start the application along with MongoDB, PostgreSQL, Redis, and Elasticsearch.
 
 ---
 
@@ -135,6 +152,39 @@ Example:
 ```
 
 This will create files: german_haus.json, german_baum.json, german_auto.json
+
+### Bulk Processing
+
+Process a large number of words from a file:
+
+```bash
+./goden-crawler bulk --input <file> [flags]
+```
+
+Options:
+- `--input`, `-i`: Input file containing words (required)
+- `--output`, `-o`: Output directory for results. Default: output
+- `--batch-size`, `-b`: Number of words to process in each batch. Default: 10
+- `--workers`, `-w`: Number of concurrent workers. Default: 5
+- `--timeout`, `-t`: Timeout in seconds per word. Default: 30
+- `--format`, `-f`: Output format (text, json). Default: json
+
+Example:
+```bash
+./goden-crawler bulk --input german_words.txt --workers 8 --batch-size 20
+```
+
+The input file should contain one word per line. Lines starting with # are treated as comments.
+
+### Database Testing
+
+Test database connections:
+
+```bash
+./goden-crawler test-db
+```
+
+This command attempts to connect to all configured databases and reports their status.
 
 ### Shell Completion
 
@@ -242,6 +292,8 @@ goden-crawler/
 │   ├── scrape.go            # Single word scraping
 │   ├── interactive.go       # Interactive shell mode
 │   ├── batch.go             # Batch processing
+│   ├── bulk.go              # Bulk processing from file
+│   ├── test_db.go           # Database connection testing
 │   └── completion.go        # Shell completion
 ├── internal/                # Internal packages (not importable)
 │   ├── domain/              # Core domain models and interfaces
@@ -287,6 +339,13 @@ goden-crawler/
 │   │       ├── herkunft_extractor.go    # Origin extractor
 │   │       ├── rechtschreibung_extractor.go # Spelling extractor
 │   │       └── wussten_sie_schon_extractor.go # Fun facts extractor
+│   ├── db/                  # Database implementations
+│   │   ├── mongodb/         # MongoDB integration
+│   │   ├── postgres/        # PostgreSQL integration
+│   │   ├── redis/           # Redis caching
+│   │   └── elasticsearch/   # Elasticsearch indexing
+│   ├── repository/          # Repository pattern implementation
+│   │   └── word_repository.go # Word repository
 │   └── formatter/           # Output formatting
 │       └── formatter.go     # Text/JSON formatter
 ├── pkg/                     # Public packages (importable)
@@ -297,10 +356,13 @@ goden-crawler/
 │   │   ├── string_utils.go  # String manipulation utilities
 │   │   └── config.go        # Configuration utilities
 │   ├── logger/              # Logging utilities
-│   │   └── logger.go        # Logger implementation
+│   │   ├── logger.go        # Logger implementation
+│   │   └── file_logger.go   # File logging implementation
 │   └── errors/              # Error handling
 │       └── errors.go        # Custom errors
 ├── main.go                  # Entry point
+├── Dockerfile               # Docker container definition
+├── docker-compose.yml       # Docker Compose configuration
 ├── go.mod                   # Go module file
 ├── go.sum                   # Go dependencies lock file
 └── README.md                # Documentation
@@ -345,6 +407,7 @@ The project implements several design patterns:
 - **Observer Pattern**: For event handling (observer.go)
 - **Middleware Pattern**: For request processing (chain.go)
 - **Dependency Injection**: For service management (container.go)
+- **Repository Pattern**: For data access abstraction (word_repository.go)
 - **Singleton Pattern**: For global access to services
 
 ---
@@ -356,6 +419,11 @@ This project leverages the following tools and libraries:
 - **Golang 1.21+**: Core programming language
 - **Cobra**: CLI framework for handling commands
 - **goquery**: Web scraping library for Go
+- **MongoDB**: Document database for storing word data
+- **PostgreSQL**: Relational database for structured data
+- **Redis**: In-memory database for caching
+- **Elasticsearch**: Full-text search engine
+- **Docker & Docker Compose**: Containerization
 - **Go testing framework**: For unit and integration testing
 
 ---
@@ -409,6 +477,38 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://gi
 
 ---
 
+## 📝 Recent Changes
+
+### Version 0.2.0 (March 2024)
+
+- **Database Integration**:
+  - Added MongoDB for document storage
+  - Added PostgreSQL for relational data
+  - Added Redis for caching
+  - Added Elasticsearch for full-text search
+  - Implemented repository pattern for data access
+
+- **Bulk Processing**:
+  - Added bulk command for processing words from a file
+  - Implemented batch processing with configurable batch size
+  - Added progress reporting and error handling
+
+- **File Logging**:
+  - Added file-based logging with timestamps
+  - Implemented log rotation
+  - Enhanced error reporting
+
+- **Docker Support**:
+  - Added Dockerfile for containerization
+  - Added docker-compose.yml for multi-container setup
+  - Configured environment variables for services
+
+- **Testing Utilities**:
+  - Added test-db command for database connection testing
+  - Enhanced error handling and reporting
+
+---
+
 ## 📂 .gitignore
 
 To ensure that unnecessary files are not tracked by Git, create a `.gitignore` file in the root of your project with the following content:
@@ -439,6 +539,7 @@ To ensure that unnecessary files are not tracked by Git, create a `.gitignore` f
 
 # Logs
 *.log
+logs/
 
 # Temporary files
 *.tmp
